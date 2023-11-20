@@ -1,0 +1,1544 @@
+;Branch;Tenure;Salary;Department;JobSatisfaction;WorkLifeBalance;CommuteDistance;MaritalStatus;Education;PerformanceRating;TrainingHours;OverTime;NumProjects;YearsSincePromotion;EnvironmentSatisfaction;ChurnLikelihood
+0;San Francisco;4,0000;63000;Legal;3;3;Long;Married;High School;3;63,0000;Yes;3;0;2;Highly Likely to Churn'
+1;Chicago;14,0000;72000;Accounting;4;4;Short;Single;Bachelor;4;30,0000;Yes;3;2;3;Moderately Likely to Churn
+2;Miami;4,0000;44500;Quality Assurance;3;3;Medium;Single;High School;4;63,0000;Yes;3,5;0;4;Highly Likely to Churn'
+3;Scranton;2,0000;55000;Legal;3;4;Short;Married;Bachelor;4;30,0000;Yes;4;0;3;Moderately Likely to Churn
+4;Scranton;10,0000;55500;Legal;3;3;Medium;Married;Bachelor;3;18,0000;Yes;4;1;3;Moderately Likely to Churn
+5;Boston;4,0000;61500;Customer Service;4;4;Long;Married;High School;4;63,0000;Yes;3;0;2;Highly Likely to Churn'
+6;Boston;10,0000;82000;Sales;5;3;Medium;Married;Bachelor;4;34,6456;Yes;3;1;3;Moderately Likely to Churn
+7;New York;6,0000;59000;Administration;3;4;Short;Divorced;High School;3;40,0000;Yes;3;0;3;Moderately Likely to Churn
+8;Philadelphia;10,0000;73500;Facilities Management;4;4;Short;Single;Bachelor;3;18,0000;Yes;2;2;1;Highly Likely to Churn'
+9;Chicago;3,0000;62500;Research and Development;5;4;Long;Married;Bachelor;4;34,6456;Yes;4;0;3;Moderately Likely to Churn
+10;Scranton;4,0000;44500;Customer Service;3;4;Short;Divorced;High School;4;63,0000;Yes;4;0;3;Moderately Likely to Churn
+11;Philadelphia;7,0000;74000;Operations;4;4;Long;Married;Bachelor;3;36,0000;Yes;4;1;3;Moderately Likely to Churn
+12;Scranton;10,0000;61000;Sales;2;3;Short;Married;High School;3;63,0000;Yes;3;4;2;Highly Likely to Churn'
+13;Scranton;8,0000;54000;Marketing;4;4;Medium;Divorced;High School;3;63,0000;Yes;3,5;1;2;Highly Likely to Churn'
+14;Chicago;6,0000;68000;Sales;5;4;Short;Married;High School;3;63,0000;Yes;3;0;2;Highly Likely to Churn'
+15;New York;13,0000;71500;Public Relations;4;4;Long;Divorced;Bachelor;3;36,0000;Yes;4;5;2;Highly Likely to Churn'
+16;New York;2,0000;76000;Sales;1;4;Short;Married;Master;4;18,0000;Yes;4;0;3;Moderately Likely to Churn
+17;Philadelphia;8,0000;69000;Quality Assurance;4;4;Long;Married;Bachelor;3;34,6456;Yes;3;2;2;Highly Likely to Churn'
+18;Chicago;3,0000;73000;Research and Development;4;4;Short;Divorced;Master;3;30,0000;Yes;4;0;3;Moderately Likely to Churn
+19;Chicago;11,0000;62000;Accounting;4;4;Short;Married;High School;3;40,0000;Yes;4;4;2;Highly Likely to Churn'
+20;Los Angeles;6,0000;66000;IT Support;3;4;Short;Single;Bachelor;3;24,0000;Yes;3;0;2;Highly Likely to Churn'
+21;Chicago;8,0000;62000;Customer Service;5;4;Short;Married;Bachelor;4;24,0000;Yes;3;0;2;Highly Likely to Churn'
+22;Los Angeles;16,0000;67500;Research and Development;4;4;Medium;Married;High School;4;56,0000;Yes;3;5;2;Highly Likely to Churn'
+23;Philadelphia;4,0000;63000;IT Support;3;4;Long;Divorced;Bachelor;4;30,0000;Yes;4;0;3;Moderately Likely to Churn
+24;Philadelphia;8,0000;74000;Operations;2;4;Medium;Married;Bachelor;4;30,0000;Yes;3;2;2;Highly Likely to Churn'
+25;Miami;7,0000;55000;Research and Development;4;4;Short;Divorced;Bachelor;4;24,0000;Yes;3;1;2;Highly Likely to Churn'
+26;Seattle;6,0000;64000;Accounting;4;4;Medium;Married;Bachelor;3;17,7921;Yes;4;0;3;Highly Likely to Churn'
+27;Unknown;14,0000;70500;Quality Assurance;4;4;Long;Married;Bachelor;4;18,0000;Yes;3;2;3;Moderately Likely to Churn
+28;Atlanta;4,0000;58000;Procurement;3;4;Long;Married;Bachelor;4;18,0000;Yes;3;0;2;Highly Likely to Churn'
+29;Los Angeles;4,0000;65000;Legal;2;3;Medium;Married;Master;4;34,6456;Yes;3;0;2;Highly Likely to Churn'
+30;Scranton;3,0000;44500;Quality Assurance;3;4;Medium;Divorced;High School;3;56,0000;Yes;4;0;3;Moderately Likely to Churn
+31;San Francisco;4,0000;73500;Legal;3;4;Medium;Divorced;Bachelor;3;18,0000;Yes;3,5;0;3;Moderately Likely to Churn
+32;Atlanta;10,0000;74000;Accounting;5;4;Short;Divorced;High School;4;48,0000;Yes;3;2;2;Highly Likely to Churn'
+33;Boston;13,0000;81500;Product Management;3;4;Long;Married;Bachelor;4;30,0000;Yes;4;5;3;Moderately Likely to Churn
+34;Los Angeles;17,0000;70000;Research and Development;2;3;Short;Divorced;Bachelor;4;6,0000;Yes;3;0;2;Highly Likely to Churn'
+35;Chicago;3,0000;63000;Sales;5;4;Short;Single;Bachelor;4;36,0000;Yes;4;0;2;Highly Likely to Churn'
+36;Boston;3,0000;60000;Marketing;1;4;Long;Married;Bachelor;3;36,0000;Yes;4;0;3;Moderately Likely to Churn
+37;Boston;3,0000;70000;Research and Development;3;3;Short;Single;Bachelor;3;6,0000;Yes;4;0;3;Moderately Likely to Churn
+38;Boston;2,0000;53500;Administration;4;4;Medium;Single;High School;4;63,0000;Yes;3;0;2;Highly Likely to Churn'
+39;Denver;3,0000;62500;Marketing;5;4;Long;Divorced;High School;3;63,0000;Yes;4;0;3;Highly Likely to Churn'
+40;Chicago;12,0000;73000;Customer Service;4;4;Long;Single;Bachelor;3;30,0000;Yes;3,5;0;2;Highly Likely to Churn'
+41;Denver;12,0000;71000;Operations;3;3;Long;Single;Bachelor;3;34,6456;Yes;4;3;2;Highly Likely to Churn'
+42;Atlanta;4,0000;58000;Research and Development;3;4;Medium;Married;Bachelor;4;34,6456;Yes;4;0;3;Highly Likely to Churn'
+43;Denver;3,0000;72500;Marketing;2;4;Short;Married;Master;3;30,0000;Yes;3;0;2;Highly Likely to Churn'
+44;Seattle;11,0000;69000;Product Management;5;4;Medium;Single;Bachelor;4;34,6456;Yes;3;3;2;Highly Likely to Churn'
+45;Scranton;3,0000;49500;Customer Service;4;4;Long;Married;High School;4;63,0000;Yes;3;0;2;Highly Likely to Churn'
+46;San Francisco;10,0000;70500;Public Relations;3;4;Medium;Divorced;High School;3;63,0000;Yes;4;3;3;Moderately Likely to Churn
+47;Boston;14,0000;61500;Procurement;3;4;Long;Married;Bachelor;4;12,0000;Yes;3;3;2;Highly Likely to Churn'
+48;Chicago;8,0000;66500;Marketing;2;4;Short;Divorced;Bachelor;3;36,0000;Yes;4;0;3;Moderately Likely to Churn
+49;Scranton;5,0000;62000;Research and Development;4;3;Short;Divorced;Bachelor;4;24,0000;Yes;4;0;3;Moderately Likely to Churn
+50;New York;4,0000;64500;Operations;2;3;Medium;Single;High School;3;24,0000;Yes;4;0;3;Moderately Likely to Churn
+51;Boston;7,0000;76500;Research and Development;4;4;Medium;Single;Master;3;36,0000;Yes;3;1;2;Highly Likely to Churn'
+52;Chicago;17,5000;81000;Accounting;5;4;Short;Divorced;Bachelor;4;36,0000;Yes;4;3;3;Moderately Likely to Churn
+53;Seattle;7,0000;60000;Research and Development;5;3;Short;Married;High School;3;40,0000;Yes;3,5;0;2;Highly Likely to Churn'
+54;San Francisco;6,0000;68500;Human Resources;4;3;Short;Divorced;Master;4;30,6695;Yes;4;0;2;Moderately Likely to Churn
+55;New York;2,0000;52000;Quality Assurance;1;4;Long;Single;High School;3;40,0000;Yes;3;0;2;Highly Likely to Churn'
+56;Scranton;4,0000;62000;Accounting;3;3;Medium;Single;Bachelor;3;34,6456;Yes;3;0;2;Highly Likely to Churn'
+57;Philadelphia;5,0000;72500;Human Resources;5;4;Long;Married;Bachelor;4;24,0000;Yes;5;0;3;Moderately Likely to Churn
+58;Miami;5,0000;63500;Customer Service;4;3;Medium;Single;Bachelor;3;12,0000;Yes;3,5;0;1;Highly Likely to Churn'
+59;Los Angeles;12,0000;79000;Marketing;4;4;Short;Married;Bachelor;4;18,0000;Yes;4;2;3;Moderately Likely to Churn
+60;Atlanta;8,0000;59000;Customer Service;3;4;Medium;Single;Master;3;24,0000;Yes;3;0;1;Highly Likely to Churn'
+61;New York;10,0000;66500;Research and Development;5;4;Medium;Single;Bachelor;3;34,6456;Yes;4;0;2;Highly Likely to Churn'
+62;Unknown;7,0000;60500;Public Relations;5;4;Medium;Married;Bachelor;4;24,0000;Yes;5;1;3;Moderately Likely to Churn
+63;Atlanta;6,0000;62500;Operations;4;4;Short;Married;Bachelor;3;30,0000;Yes;3;0;2;Highly Likely to Churn'
+64;Dallas;5,0000;60000;Facilities Management;3;4;Medium;Divorced;Bachelor;4;30,0000;Yes;3,5;0;3;Moderately Likely to Churn
+65;Boston;7,0000;68000;IT Support;2;4;Medium;Divorced;Bachelor;3;24,0000;Yes;3;0;2;Highly Likely to Churn'
+66;Philadelphia;10,0000;68000;Facilities Management;3;4;Medium;Divorced;Master;3;18,0000;Yes;3;3;2;Highly Likely to Churn'
+67;Philadelphia;11,0000;78500;Customer Service;2;5;Short;Single;Bachelor;3;18,4631;Yes;5;0;3;Moderately Likely to Churn
+68;Atlanta;9,0000;68500;Public Relations;2;4;Short;Single;Bachelor;3;34,6456;Yes;3;1;3;Highly Likely to Churn'
+69;Los Angeles;7,0000;71500;IT Support;1;4;Medium;Single;Master;3;12,0000;Yes;5;0;3;Moderately Likely to Churn
+70;Chicago;7,0000;53500;Accounting;3;4;Medium;Divorced;High School;4;48,0000;Yes;4;1;4;Moderately Likely to Churn
+71;Seattle;9,0000;63000;Administration;4;4;Short;Married;Bachelor;4;36,0000;Yes;4;0;4;Moderately Likely to Churn
+72;San Francisco;11,0000;70000;Human Resources;3;4;Long;Single;High School;3;34,6456;Yes;3,5;2;3;Moderately Likely to Churn
+73;New York;4,0000;72000;Human Resources;4;4;Long;Single;Bachelor;3;24,0000;Yes;2;0;1;Highly Likely to Churn'
+74;Philadelphia;7,0000;73500;Research and Development;3;4;Long;Married;Master;4;34,6456;Yes;3;1;3;Moderately Likely to Churn
+75;Philadelphia;4,0000;48000;Customer Service;5;4;Medium;Divorced;Bachelor;4;34,6456;Yes;4;0;3;Moderately Likely to Churn
+76;Scranton;7,0000;59000;Research and Development;2;3;Long;Married;Bachelor;3;34,6456;Yes;4;1;3;Moderately Likely to Churn
+77;New York;5,0000;62500;Research and Development;3;4;Medium;Married;Bachelor;3;12,0000;Yes;4;0;2;Highly Likely to Churn'
+78;Los Angeles;7,0000;83000;Marketing;3;4;Medium;Married;Master;3;36,0000;Yes;4;1;1;Highly Likely to Churn'
+79;San Francisco;2,0000;70500;Sales;3;4;Short;Married;Bachelor;4;30,0000;Yes;4;0;3;Moderately Likely to Churn
+80;Boston;11,0000;80500;Research and Development;3;4;Long;Married;High School;3;63,0000;Yes;4;4;2;Highly Likely to Churn'
+81;Boston;6,0000;59500;Accounting;5;4;Short;Married;Bachelor;4;12,0000;Yes;2;0;3;Moderately Likely to Churn
+82;Los Angeles;12,0000;74000;Facilities Management;4;4;Medium;Divorced;Bachelor;3;12,0000;Yes;3,5;1;2;Highly Likely to Churn'
+83;Philadelphia;6,0000;71500;Product Management;4;4;Long;Divorced;Bachelor;4;30,0000;Yes;3;0;3;Moderately Likely to Churn
+84;Dallas;6,0000;61500;Customer Service;4;4;Long;Married;Bachelor;4;18,0000;Yes;4;0;4;Moderately Likely to Churn
+85;Boston;9,0000;72500;Accounting;5;5;Medium;Married;Bachelor;4;29,3952;Yes;3;1;2;Highly Likely to Churn'
+86;Denver;9,0000;63500;Sales;3;4;Long;Single;Bachelor;4;24,0000;Yes;3;3;2;Highly Likely to Churn'
+87;Dallas;2,0000;62500;Legal;3;4;Medium;Single;Bachelor;3;12,0000;Yes;2;0;1;Highly Likely to Churn'
+88;Dallas;9,0000;63500;Quality Assurance;5;4;Medium;Single;Bachelor;4;34,6456;Yes;4;3;2;Highly Likely to Churn'
+89;Denver;12,0000;73000;IT Support;3;4;Medium;Divorced;Bachelor;3;24,0000;Yes;3,5;1;3;Highly Likely to Churn'
+90;Boston;10,0000;68000;Research and Development;5;4;Long;Married;Bachelor;4;12,0000;Yes;4;3;3;Moderately Likely to Churn
+91;Denver;3,0000;65000;Customer Service;3;4;Medium;Married;Bachelor;4;34,6456;Yes;4;0;3;Highly Likely to Churn'
+92;Scranton;7,0000;67000;Sales;4;4;Medium;Divorced;Master;3;24,0000;Yes;3;0;2;Highly Likely to Churn'
+93;Los Angeles;10,0000;73500;Customer Service;3;4;Long;Divorced;Bachelor;3;24,0000;Yes;2;4;1;Highly Likely to Churn'
+94;San Francisco;11,0000;76500;Sales;2;3;Short;Married;High School;3;63,0000;Yes;4;3;3;Moderately Likely to Churn
+95;New York;17,5000;83500;Sales;4;3;Short;Married;High School;4;40,0000;Yes;3;5;2;Highly Likely to Churn'
+96;Denver;6,0000;52500;Customer Service;5;4;Medium;Divorced;High School;4;56,0000;Yes;4;0;3;Highly Likely to Churn'
+97;Los Angeles;8,0000;68500;Customer Service;2;4;Short;Divorced;High School;4;63,0000;Yes;2;1;2;Highly Likely to Churn'
+98;Philadelphia;13,0000;61500;Customer Service;5;4;Short;Single;High School;4;32,0000;Yes;4;0;2;Highly Likely to Churn'
+99;Atlanta;8,0000;62500;Research and Development;3;4;Long;Single;Bachelor;3;18,0000;Yes;3;0;3;Highly Likely to Churn'
+100;Chicago;16,0000;80500;Sales;2;3;Medium;Married;Bachelor;3;30,0000;Yes;3;3;2;Highly Likely to Churn'
+101;Scranton;5,0000;66000;Research and Development;5;4;Long;Divorced;Bachelor;4;18,0000;Yes;2;0;2;Highly Likely to Churn'
+102;Scranton;9,0000;55000;Research and Development;3;4;Medium;Divorced;High School;4;40,0000;Yes;4;0;3;Moderately Likely to Churn
+103;New York;7,0000;73000;Product Management;2;3;Short;Married;Bachelor;3;34,6456;Yes;4;0;2;Highly Likely to Churn'
+104;Denver;5,0000;57000;Customer Service;3;2;Short;Single;Bachelor;2;12,0000;Yes;2;0;1;Highly Likely to Churn'
+105;Atlanta;12,0000;74000;Accounting;2;4;Medium;Married;Bachelor;3;18,0000;Yes;3;5;2;Highly Likely to Churn'
+106;Philadelphia;3,0000;65000;Product Management;4;4;Long;Married;Bachelor;4;30,0000;Yes;3;0;2;Highly Likely to Churn'
+107;Los Angeles;14,0000;74000;Accounting;1;4;Medium;Married;Bachelor;3;34,6456;Yes;4;1;2;Highly Likely to Churn'
+108;Los Angeles;5,0000;64500;Operations;5;4;Short;Married;Bachelor;3;34,6456;Yes;3;0;2;Highly Likely to Churn'
+109;New York;5,0000;78500;Marketing;2;4;Short;Married;Bachelor;3;11,1155;Yes;3;0;1;Highly Likely to Churn'
+110;Denver;6,0000;65500;Legal;3;4;Short;Single;Bachelor;3;6,0000;Yes;3;0;1;Highly Likely to Churn'
+111;Boston;8,0000;69500;Sales;3;4;Short;Married;Bachelor;4;30,0000;Yes;3;0;2;Highly Likely to Churn'
+112;New York;8,0000;75000;Research and Development;5;4;Medium;Married;Bachelor;4;6,0000;Yes;3,5;2;4;Moderately Likely to Churn
+113;Philadelphia;11,0000;72500;Accounting;4;4;Medium;Single;Bachelor;3;24,0000;Yes;3;4;2;Highly Likely to Churn'
+114;San Francisco;14,0000;70000;Research and Development;3;2;Short;Divorced;Bachelor;3;30,0000;Yes;4;2;3;Moderately Likely to Churn
+115;Scranton;10,0000;67500;Sales;5;4;Long;Single;High School;3;63,0000;Yes;4;4;3;Moderately Likely to Churn
+116;San Francisco;9,0000;66000;Customer Service;3;4;Long;Divorced;High School;4;56,0000;Yes;4;1;3;Moderately Likely to Churn
+117;Los Angeles;3,0000;60500;Human Resources;5;4;Short;Divorced;High School;3;63,0000;Yes;4;0;2;Highly Likely to Churn'
+118;Seattle;12,0000;65500;Product Management;2;4;Short;Single;Bachelor;4;12,0000;Yes;3;2;3;Moderately Likely to Churn
+119;Miami;11,0000;65500;Human Resources;5;4;Long;Married;Bachelor;4;6,0000;Yes;3;3;3;Highly Likely to Churn'
+120;Philadelphia;13,0000;86000;Procurement;3;4;Short;Single;High School;4;63,0000;Yes;3;4;2;Highly Likely to Churn'
+121;Boston;4,0000;62000;Customer Service;3;3;Medium;Married;Bachelor;3;30,0000;Yes;3;0;2;Highly Likely to Churn'
+122;Los Angeles;8,0000;66000;Marketing;4;4;Short;Married;Bachelor;4;18,0000;Yes;4;2;2;Highly Likely to Churn'
+123;Scranton;7,0000;52500;Human Resources;3;4;Short;Divorced;High School;4;63,0000;Yes;3;0;3;Moderately Likely to Churn
+124;Los Angeles;7,0000;70500;Human Resources;5;4;Long;Married;High School;4;48,0000;Yes;4;0;3;Moderately Likely to Churn
+125;Boston;7,0000;66000;Product Management;3;4;Long;Married;Bachelor;3;18,0000;Yes;3;1;2;Highly Likely to Churn'
+126;Los Angeles;12,0000;84500;Sales;3;4;Medium;Married;Bachelor;4;18,0000;Yes;4;4;4;Moderately Likely to Churn
+127;Los Angeles;15,0000;77000;Accounting;5;4;Long;Single;High School;4;63,0000;Yes;3;5;3;Moderately Likely to Churn
+128;Chicago;7,0000;79000;Marketing;4;4;Short;Single;Master;4;24,0000;Yes;4;1;4;Moderately Likely to Churn
+129;Seattle;8,0000;67000;Public Relations;4;4;Medium;Married;High School;3;63,0000;Yes;3;1;2;Highly Likely to Churn'
+130;Philadelphia;4,0000;68500;Marketing;4;4;Medium;Single;Bachelor;4;36,0000;Yes;3;0;3;Moderately Likely to Churn
+131;Scranton;9,0000;56500;Customer Service;3;4;Medium;Single;Bachelor;4;12,0000;Yes;3;2;3;Highly Likely to Churn'
+132;San Francisco;9,0000;79000;Sales;2;4;Medium;Single;Bachelor;3;36,0000;Yes;4;2;2;Highly Likely to Churn'
+133;Denver;3,0000;54000;Customer Service;4;3;Medium;Single;High School;3;48,0000;Yes;4;0;2;Highly Likely to Churn'
+134;Los Angeles;3,0000;67500;Facilities Management;1;2;Short;Married;Master;3;12,0000;Yes;4;0;3;Moderately Likely to Churn
+135;Dallas;8,0000;72500;Legal;4;4;Long;Married;Bachelor;3;30,0000;Yes;3;2;2;Highly Likely to Churn'
+136;Los Angeles;2,0000;57000;Human Resources;3;4;Short;Married;Bachelor;4;18,0000;Yes;2;0;2;Highly Likely to Churn'
+137;New York;5,0000;70000;Research and Development;3;4;Short;Married;Bachelor;3;18,0000;Yes;4;0;3;Moderately Likely to Churn
+138;San Francisco;9,0000;66000;Operations;4;3;Short;Married;Bachelor;3;24,0000;Yes;4;0;3;Moderately Likely to Churn
+139;Philadelphia;5,0000;60000;Customer Service;4;4;Short;Divorced;Bachelor;4;18,0000;Yes;5;0;4;Moderately Likely to Churn
+140;Chicago;1,0000;67000;Marketing;4;4;Long;Divorced;Bachelor;3;18,0000;Yes;2;0;2;Highly Likely to Churn'
+141;San Francisco;3,0000;84500;Sales;4;4;Short;Married;Bachelor;3;12,0000;Yes;3;0;3;Moderately Likely to Churn
+142;New York;8,0000;60500;Facilities Management;3;4;Medium;Single;High School;4;40,0000;Yes;4;1;4;Moderately Likely to Churn
+143;San Francisco;10,0000;82000;Sales;2;4;Medium;Married;High School;3;63,0000;Yes;3;3;2;Highly Likely to Churn'
+144;Boston;6,0000;65500;Sales;3;4;Medium;Divorced;Bachelor;3;34,6456;Yes;3,5;0;3;Moderately Likely to Churn
+145;Los Angeles;5,0000;49500;Quality Assurance;3;4;Short;Married;High School;4;56,0000;Yes;4;0;3;Moderately Likely to Churn
+146;New York;17,5000;79500;Research and Development;2;4;Medium;Married;High School;4;63,0000;Yes;3;5;2;Highly Likely to Churn'
+147;San Francisco;13,0000;77500;Accounting;5;4;Long;Divorced;Bachelor;4;12,0000;Yes;5;3;4;Moderately Likely to Churn
+148;Scranton;3,0000;62500;Accounting;2;4;Long;Divorced;Master;3;34,6456;Yes;4;0;2;Highly Likely to Churn'
+149;San Francisco;10,0000;63000;Product Management;3;4;Short;Married;High School;4;48,0000;Yes;3;3;3;Moderately Likely to Churn
+150;Philadelphia;6,0000;70000;Research and Development;3;4;Short;Married;Bachelor;4;23,6946;Yes;4;0;4;Moderately Likely to Churn
+151;Scranton;8,0000;58500;Research and Development;3;4;Medium;Married;High School;4;34,6456;Yes;4;1;3;Moderately Likely to Churn
+152;Chicago;8,0000;55000;Marketing;2;4;Long;Divorced;High School;3;34,6456;Yes;3;0;3;Moderately Likely to Churn
+153;New York;4,0000;71500;Product Management;2;4;Medium;Married;Bachelor;4;6,0000;Yes;4;0;3;Moderately Likely to Churn
+154;Boston;6,0000;56000;Research and Development;3;4;Short;Married;Bachelor;4;30,0000;Yes;3;0;1;Highly Likely to Churn'
+155;Atlanta;6,0000;77000;Sales;3;4;Medium;Single;Bachelor;3;34,6456;Yes;3;0;2;Highly Likely to Churn'
+156;Boston;7,0000;59500;Marketing;4;4;Short;Married;Bachelor;4;12,0000;Yes;3;1;3;Highly Likely to Churn'
+157;Philadelphia;2,0000;63000;Human Resources;4;4;Medium;Divorced;Bachelor;3;12,0000;Yes;4;0;3;Moderately Likely to Churn
+158;Chicago;17,5000;86500;Product Management;3;4;Medium;Divorced;Bachelor;4;12,0000;Yes;4;5;2;Highly Likely to Churn'
+159;Denver;3,0000;61000;Marketing;3;4;Medium;Married;Bachelor;4;18,0000;Yes;4;0;4;Highly Likely to Churn'
+160;Atlanta;10,0000;63500;Marketing;3;3;Short;Married;High School;4;48,0000;Yes;4;3;3;Highly Likely to Churn'
+161;Scranton;8,0000;52500;Quality Assurance;4;4;Long;Married;Bachelor;4;24,0000;Yes;4;0;3;Moderately Likely to Churn
+162;Boston;13,0000;78000;Marketing;4;4;Medium;Divorced;Bachelor;4;18,0000;Yes;5;2;4;Moderately Likely to Churn
+163;Philadelphia;13,0000;68500;Administration;3;4;Long;Married;Bachelor;4;30,0000;Yes;4;4;3;Moderately Likely to Churn
+164;New York;7,0000;67000;Marketing;2;4;Short;Married;Bachelor;4;12,0000;Yes;3;0;2;Highly Likely to Churn'
+165;San Francisco;17,5000;88500;Accounting;3;4;Medium;Married;Master;3;24,0000;Yes;3;5;2;Highly Likely to Churn'
+166;Atlanta;9,0000;53500;Operations;5;4;Long;Married;High School;4;63,0000;Yes;3;1;2;Highly Likely to Churn'
+167;Philadelphia;14,0000;78500;Sales;5;4;Short;Married;Bachelor;4;24,0000;Yes;4;3;3;Moderately Likely to Churn
+168;New York;6,0000;73000;Facilities Management;2;4;Medium;Married;Bachelor;4;12,0000;Yes;3;0;3;Moderately Likely to Churn
+169;Chicago;12,0000;65500;Research and Development;4;4;Short;Divorced;Bachelor;3;6,0000;Yes;3;0;2;Highly Likely to Churn'
+170;Chicago;7,0000;71000;Sales;4;3;Short;Divorced;Bachelor;3;34,6456;Yes;3,5;1;3;Moderately Likely to Churn
+171;Boston;13,0000;71000;Sales;5;4;Short;Married;High School;4;40,0000;Yes;5;2;5;Moderately Likely to Churn
+172;Boston;13,0000;74500;IT Support;2;4;Medium;Married;Bachelor;4;36,0000;Yes;4;0;4;Moderately Likely to Churn
+173;Los Angeles;4,0000;68000;Customer Service;2;4;Short;Married;Bachelor;4;6,0000;Yes;4;0;3;Moderately Likely to Churn
+174;Philadelphia;7,0000;66000;Legal;5;4;Long;Married;Bachelor;4;18,0000;Yes;4;1;3;Moderately Likely to Churn
+175;Atlanta;6,0000;64000;Procurement;2;4;Medium;Single;Bachelor;3;30,0000;Yes;5;0;3;Highly Likely to Churn'
+176;Philadelphia;17,5000;71000;Human Resources;3;4;Short;Married;High School;4;34,6456;Yes;4;5;3;Moderately Likely to Churn
+177;New York;6,0000;66500;Customer Service;3;4;Short;Single;Bachelor;3;30,0000;Yes;4;0;3;Moderately Likely to Churn
+178;New York;7,0000;64500;Human Resources;3;4;Long;Married;High School;3;40,0000;Yes;3;1;2;Highly Likely to Churn'
+179;Chicago;5,0000;64000;Accounting;2;4;Medium;Single;Bachelor;4;12,0000;Yes;4;0;3;Moderately Likely to Churn
+180;Philadelphia;12,0000;77500;Sales;3;4;Long;Married;Bachelor;4;5,1960;Yes;3,5;4;4;Moderately Likely to Churn
+181;Chicago;8,0000;59000;Customer Service;4;4;Medium;Married;High School;3;63,0000;Yes;3;1;2;Highly Likely to Churn'
+182;Los Angeles;5,0000;60500;Human Resources;4;4;Medium;Single;Bachelor;3;36,0000;Yes;3;0;2;Highly Likely to Churn'
+183;Philadelphia;8,0000;76500;Accounting;3;4;Short;Divorced;Master;4;12,0000;Yes;3;2;2;Highly Likely to Churn'
+184;Los Angeles;5,0000;64000;Customer Service;1;4;Short;Married;Bachelor;4;30,0000;Yes;4;0;3;Moderately Likely to Churn
+185;Atlanta;11,0000;63000;Sales;3;4;Long;Married;High School;3;63,0000;Yes;4;0;3;Highly Likely to Churn'
+186;New York;6,0000;67500;Accounting;4;4;Short;Married;Bachelor;4;36,0000;Yes;5;0;3;Moderately Likely to Churn
+187;Dallas;16,0000;76000;Accounting;3;4;Short;Married;Bachelor;4;36,0000;Yes;4;0;3;Moderately Likely to Churn
+188;Boston;14,0000;71000;Procurement;2;4;Long;Married;Bachelor;3;34,6456;Yes;3;4;3;Moderately Likely to Churn
+189;Scranton;6,0000;74000;Sales;3;4;Medium;Married;Bachelor;4;24,0000;Yes;4;0;2;Highly Likely to Churn'
+190;Philadelphia;8,0000;71500;Sales;4;4;Long;Divorced;Bachelor;4;36,0000;Yes;3;0;4;Moderately Likely to Churn
+191;Philadelphia;6,0000;54000;Customer Service;5;4;Short;Divorced;Bachelor;4;24,0000;Yes;4;0;3;Moderately Likely to Churn
+192;Los Angeles;6,0000;71500;Marketing;5;4;Medium;Married;Bachelor;4;12,0000;Yes;4;0;3;Moderately Likely to Churn
+193;Boston;17,5000;78500;Customer Service;4;3;Short;Married;High School;3;31,4051;Yes;3;3;3;Moderately Likely to Churn
+194;Denver;13,0000;77000;Research and Development;4;4;Long;Married;Bachelor;3;18,0000;Yes;3,5;5;1;Highly Likely to Churn'
+195;Dallas;9,0000;62000;Accounting;3;4;Medium;Married;High School;3;63,0000;Yes;4;3;4;Moderately Likely to Churn
+196;New York;10,0000;81500;Legal;3;3;Long;Single;Bachelor;3;30,0000;Yes;4;4;2;Highly Likely to Churn'
+197;Seattle;5,0000;57000;Customer Service;4;4;Medium;Divorced;Bachelor;4;30,0000;Yes;3;0;1;Highly Likely to Churn'
+198;Los Angeles;14,0000;88500;Legal;3;4;Medium;Married;Master;4;24,0000;Yes;5;5;3;Moderately Likely to Churn
+199;New York;7,0000;64500;Marketing;2;4;Long;Married;Bachelor;4;36,0000;Yes;4;1;3;Moderately Likely to Churn
+200;Chicago;4,0000;72000;Sales;3;4;Short;Single;Bachelor;4;24,0000;Yes;3;0;3;Moderately Likely to Churn
+201;New York;8,0000;69000;Administration;2;4;Short;Single;Bachelor;3;34,6456;Yes;3;0;2;Highly Likely to Churn'
+202;Boston;4,0000;70500;IT Support;4;4;Medium;Divorced;Bachelor;4;30,0000;Yes;4;0;3;Moderately Likely to Churn
+203;Los Angeles;6,0000;62000;Procurement;3;4;Short;Married;Bachelor;3;12,0000;Yes;4;0;2;Highly Likely to Churn'
+204;Dallas;5,0000;66000;Accounting;4;4;Short;Single;Master;3;30,0000;Yes;4;0;2;Highly Likely to Churn'
+205;Denver;5,0000;54500;Marketing;4;4;Short;Married;High School;4;48,0000;Yes;3;0;3;Highly Likely to Churn'
+206;Boston;8,0000;70500;IT Support;3;4;Long;Married;High School;3;63,0000;Yes;4;1;3;Moderately Likely to Churn
+207;Boston;14,0000;74000;Marketing;3;4;Medium;Single;High School;3;63,0000;Yes;3;5;2;Highly Likely to Churn'
+208;San Francisco;4,0000;60500;IT Support;3;4;Medium;Married;Bachelor;3;12,0000;Yes;4;0;3;Moderately Likely to Churn
+209;Scranton;6,0000;58500;Legal;4;5;Medium;Married;High School;4;63,0000;Yes;3;0;2;Highly Likely to Churn'
+210;Philadelphia;3,0000;60000;Customer Service;4;4;Short;Single;Bachelor;3;30,0000;Yes;4;0;2;Highly Likely to Churn'
+211;New York;17,0000;88000;Product Management;3;3;Medium;Single;Bachelor;4;30,0000;Yes;4;3;3;Moderately Likely to Churn
+212;Miami;4,0000;57000;Accounting;4;4;Short;Divorced;Bachelor;4;6,0000;Yes;4;0;3;Highly Likely to Churn'
+213;Los Angeles;14,0000;73500;IT Support;2;3;Short;Single;Bachelor;3;36,0000;Yes;3;2;2;Highly Likely to Churn'
+214;Miami;9,0000;62000;Customer Service;5;5;Medium;Married;Bachelor;4;30,0000;Yes;3;3;2;Highly Likely to Churn'
+215;Philadelphia;7,0000;68500;Customer Service;3;4;Short;Married;Bachelor;3;35,7089;Yes;3;1;2;Highly Likely to Churn'
+216;Dallas;6,0000;64000;Public Relations;2;4;Long;Divorced;Bachelor;4;36,0000;Yes;3;0;2;Highly Likely to Churn'
+217;Dallas;6,0000;73000;Sales;3;2;Medium;Single;Bachelor;3;30,4337;Yes;3;0;1;Highly Likely to Churn'
+218;Atlanta;3,0000;61000;Sales;4;4;Long;Married;Bachelor;3;34,6456;Yes;4;0;3;Highly Likely to Churn'
+219;New York;8,0000;67500;Operations;3;4;Short;Single;Bachelor;3;6,0000;Yes;4;2;3;Moderately Likely to Churn
+220;Boston;9,0000;61500;Customer Service;5;4;Long;Married;High School;4;63,0000;Yes;5;2;2;Highly Likely to Churn'
+221;New York;8,0000;65500;Quality Assurance;2;4;Short;Married;Bachelor;3;24,0000;Yes;4;1;2;Highly Likely to Churn'
+222;Chicago;8,0000;77000;Product Management;3;4;Long;Single;Master;3;18,0000;Yes;4;2;3;Moderately Likely to Churn
+223;Los Angeles;7,0000;66500;Marketing;3;4;Long;Married;Bachelor;3;36,0000;Yes;4;0;4;Moderately Likely to Churn
+224;Los Angeles;13,0000;71500;Marketing;4;4;Long;Divorced;High School;4;56,0000;Yes;4;1;3;Moderately Likely to Churn
+225;Scranton;7,0000;58000;Customer Service;2;4;Short;Divorced;Bachelor;4;12,0000;Yes;3;0;2;Highly Likely to Churn'
+226;Boston;8,0000;70000;IT Support;1;3;Medium;Single;Bachelor;3;36,0000;Yes;3;2;2;Highly Likely to Churn'
+227;Boston;5,0000;62500;Sales;3;5;Short;Married;High School;4;56,0000;Yes;3;0;2;Highly Likely to Churn'
+228;Scranton;5,0000;61500;Accounting;5;4;Medium;Married;High School;4;34,6456;Yes;3;0;2;Highly Likely to Churn'
+229;Scranton;8,0000;60500;Public Relations;4;4;Short;Single;Bachelor;3;24,0000;Yes;4;1;3;Moderately Likely to Churn
+230;Seattle;8,0000;65500;Research and Development;5;4;Short;Married;Bachelor;4;12,0000;Yes;3;0;3;Moderately Likely to Churn
+231;Seattle;6,0000;60000;Procurement;5;3;Short;Single;High School;3;40,0000;Yes;2;0;3;Highly Likely to Churn'
+232;Denver;6,0000;59000;Procurement;5;4;Long;Married;Bachelor;3;24,0000;Yes;3;0;2;Highly Likely to Churn'
+233;San Francisco;13,0000;80000;Public Relations;3;4;Short;Divorced;Bachelor;4;36,0000;Yes;5;5;4;Moderately Likely to Churn
+234;Philadelphia;8,0000;76500;Research and Development;3;4;Short;Divorced;Bachelor;4;36,0000;Yes;4;0;3;Moderately Likely to Churn
+235;Scranton;7,0000;59500;Legal;5;4;Medium;Married;High School;3;63,0000;Yes;3;1;2;Highly Likely to Churn'
+236;Miami;4,0000;61500;Marketing;2;4;Medium;Single;Bachelor;3;34,6456;Yes;3;0;3;Highly Likely to Churn'
+237;New York;10,0000;74500;Sales;2;4;Long;Married;Bachelor;4;12,0000;Yes;4;0;3;Moderately Likely to Churn
+238;Scranton;1,0000;62500;Sales;2;4;Medium;Married;Bachelor;3;24,0000;Yes;3;0;2;Highly Likely to Churn'
+239;Scranton;9,0000;55500;Accounting;3;3;Medium;Married;High School;3;63,0000;Yes;3;1;2;Highly Likely to Churn'
+240;San Francisco;6,0000;83500;Product Management;4;4;Medium;Married;High School;3;32,2233;Yes;2;0;2;Highly Likely to Churn'
+241;San Francisco;7,6121;68000;Public Relations;2;4;Medium;Divorced;Bachelor;4;18,0000;Yes;4;0;3;Moderately Likely to Churn
+242;New York;3,0000;63500;Research and Development;3;4;Long;Married;High School;3;32,0000;Yes;3;0;2;Highly Likely to Churn'
+243;Dallas;8,0000;66000;Legal;3;3;Long;Married;Bachelor;4;34,6456;Yes;4;0;3;Moderately Likely to Churn
+244;Scranton;8,0000;55000;Marketing;4;4;Short;Married;High School;4;63,0000;Yes;4;1;2;Highly Likely to Churn'
+245;Scranton;11,0000;55500;Operations;2;5;Medium;Married;Bachelor;4;24,0000;Yes;3;2;3;Moderately Likely to Churn
+246;Philadelphia;6,0000;74500;Legal;4;4;Short;Married;Bachelor;3;24,0000;Yes;4;0;2;Highly Likely to Churn'
+247;Los Angeles;7,0000;57500;Administration;3;4;Medium;Married;Bachelor;4;18,0000;Yes;4;1;3;Moderately Likely to Churn
+248;New York;4,0000;67500;Product Management;3;4;Short;Single;High School;3;63,0000;Yes;3;0;2;Highly Likely to Churn'
+249;Los Angeles;4,0000;57000;Customer Service;3;4;Long;Married;Bachelor;4;24,0000;Yes;4;0;3;Moderately Likely to Churn
+250;New York;12,0000;75000;Quality Assurance;3;4;Long;Divorced;Bachelor;4;12,0000;Yes;3;3;2;Highly Likely to Churn'
+251;New York;6,0000;76000;Accounting;5;4;Short;Married;Bachelor;3;6,0000;Yes;4;0;2;Highly Likely to Churn'
+252;Miami;3,0000;69500;Accounting;3;4;Short;Divorced;High School;3;63,0000;Yes;3;0;2;Highly Likely to Churn'
+253;Dallas;9,0000;71500;Customer Service;4;4;Long;Married;Master;3;12,0000;Yes;3;1;3;Highly Likely to Churn'
+254;Chicago;13,0000;72000;Marketing;4;3;Long;Married;Bachelor;4;16,9755;Yes;3;0;2;Highly Likely to Churn'
+255;Seattle;5,0000;56500;Human Resources;4;4;Medium;Married;Bachelor;4;36,0000;Yes;4;0;2;Highly Likely to Churn'
+256;Chicago;14,0000;72000;Accounting;2;4;Medium;Married;Bachelor;4;12,0000;Yes;4;5;3;Moderately Likely to Churn
+257;San Francisco;14,0000;80000;Legal;3;4;Medium;Married;Bachelor;4;24,0000;Yes;3,5;5;3;Moderately Likely to Churn
+258;Scranton;14,0000;71500;Facilities Management;4;4;Short;Single;Bachelor;3;18,0000;Yes;3;5;2;Highly Likely to Churn'
+259;Boston;13,0000;77500;Sales;4;4;Medium;Married;Bachelor;3;30,0000;Yes;4;5;3;Moderately Likely to Churn
+260;Boston;3,0000;69500;Operations;4;4;Long;Single;Bachelor;4;24,0000;Yes;5;0;4;Moderately Likely to Churn
+261;Boston;7,0000;66000;Research and Development;4;4;Short;Single;Master;4;12,0000;Yes;4;0;2;Highly Likely to Churn'
+262;Miami;3,0000;65000;Administration;4;3;Medium;Single;Master;3;17,8585;Yes;4;0;3;Highly Likely to Churn'
+263;Chicago;12,0000;62000;Accounting;4;4;Medium;Single;Bachelor;3;34,6456;Yes;3;3;2;Highly Likely to Churn'
+264;Boston;4,0000;67500;Sales;2;4;Short;Married;Bachelor;4;36,0000;Yes;4;0;3;Moderately Likely to Churn
+265;Los Angeles;4,0000;58500;Quality Assurance;4;4;Short;Married;Bachelor;4;12,0000;Yes;3,5;0;3;Moderately Likely to Churn
+266;Scranton;6,0000;52500;Customer Service;1;3;Long;Single;High School;4;48,0000;Yes;4;0;3;Moderately Likely to Churn
+267;Dallas;5,0000;65000;Operations;4;4;Medium;Married;Bachelor;4;30,0000;Yes;4;0;3;Moderately Likely to Churn
+268;Los Angeles;2,0000;69000;Accounting;4;4;Short;Divorced;Master;4;18,0000;Yes;3;0;2;Highly Likely to Churn'
+269;Atlanta;10,0000;59500;Procurement;3;4;Long;Married;Bachelor;4;24,0000;Yes;3;3;2;Highly Likely to Churn'
+270;Philadelphia;9,0000;67000;Accounting;5;4;Long;Single;Bachelor;4;36,0000;Yes;4;0;2;Highly Likely to Churn'
+271;Boston;8,0000;62000;Procurement;5;4;Long;Married;High School;4;34,6456;Yes;3,5;2;2;Highly Likely to Churn'
+272;Philadelphia;4,0000;63500;Accounting;3;4;Long;Married;High School;4;63,0000;Yes;4;0;3;Moderately Likely to Churn
+273;New York;13,0000;85500;Sales;3;4;Long;Married;Bachelor;3;18,0000;Yes;3,5;3;3;Moderately Likely to Churn
+274;Miami;7,0000;72000;Sales;4;4;Medium;Divorced;High School;3;63,0000;Yes;4;1;3;Highly Likely to Churn'
+275;San Francisco;4,0000;71500;Marketing;5;4;Short;Married;Bachelor;3;18,0000;Yes;3,5;0;3;Moderately Likely to Churn
+276;Atlanta;5,0000;72500;Sales;4;4;Medium;Married;Master;3;30,0000;Yes;3;0;2;Highly Likely to Churn'
+277;Boston;11,0000;67000;Research and Development;4;4;Short;Married;Bachelor;4;18,0000;Yes;4;1;2;Highly Likely to Churn'
+278;Los Angeles;7,0000;65000;Research and Development;2;4;Long;Married;High School;4;32,0000;Yes;4;1;3;Moderately Likely to Churn
+279;San Francisco;4,0000;64000;Procurement;3;4;Medium;Married;Bachelor;4;30,0000;Yes;3,5;0;4;Moderately Likely to Churn
+280;Boston;8,0000;80500;Sales;4;3;Short;Married;Bachelor;4;6,0000;Yes;4;2;2;Highly Likely to Churn'
+281;Scranton;8,0000;64500;Legal;3;4;Medium;Single;Bachelor;3;24,0000;Yes;3,5;0;2;Highly Likely to Churn'
+282;Scranton;6,0000;53000;Research and Development;5;4;Long;Married;High School;4;63,0000;Yes;2;0;2;Highly Likely to Churn'
+283;Los Angeles;4,0000;62500;Public Relations;4;4;Short;Divorced;Bachelor;4;18,0000;Yes;3;0;3;Moderately Likely to Churn
+284;Dallas;8,0000;70500;Accounting;3;4;Medium;Single;High School;3;56,0000;Yes;3;2;2;Highly Likely to Churn'
+285;San Francisco;10,0000;69500;Human Resources;3;4;Short;Married;Bachelor;4;34,6456;Yes;3;1;2;Highly Likely to Churn'
+286;New York;14,0000;72500;Marketing;4;4;Medium;Divorced;High School;4;32,0000;Yes;4;3;3;Moderately Likely to Churn
+287;Atlanta;7,0000;66000;Research and Development;3;4;Medium;Married;Bachelor;3;30,0000;Yes;3,5;1;3;Highly Likely to Churn'
+288;Los Angeles;3,0000;67500;Accounting;4;4;Medium;Single;Bachelor;3;18,0000;Yes;4;0;2;Highly Likely to Churn'
+289;New York;4,0000;67000;Operations;4;4;Short;Married;Bachelor;4;36,0000;Yes;4;0;3;Moderately Likely to Churn
+290;San Francisco;10,0000;73500;Public Relations;3;4;Medium;Married;Bachelor;3;34,6456;Yes;2;2;1;Highly Likely to Churn'
+291;Los Angeles;1,0000;59500;Administration;2;4;Medium;Married;High School;3;32,0000;Yes;4;0;2;Highly Likely to Churn'
+292;Denver;2,0000;59500;Accounting;5;4;Long;Married;Bachelor;4;24,0000;Yes;3;0;2;Highly Likely to Churn'
+293;Scranton;3,0000;55000;Operations;5;4;Short;Married;Bachelor;4;18,0000;Yes;3;0;2;Highly Likely to Churn'
+294;Denver;3,0000;62000;IT Support;5;4;Medium;Married;High School;3;56,0000;Yes;3;0;2;Highly Likely to Churn'
+295;Scranton;2,0000;45000;Facilities Management;5;4;Short;Divorced;High School;4;63,0000;Yes;4;0;2;Highly Likely to Churn'
+296;Seattle;12,0000;82000;Accounting;3;4;Medium;Single;Master;3;30,0000;Yes;4;0;3;Moderately Likely to Churn
+297;New York;10,0000;67000;Research and Development;2;4;Short;Married;High School;3;63,0000;Yes;3;0;2;Highly Likely to Churn'
+298;Dallas;6,0000;59000;Administration;2;4;Long;Married;Bachelor;3;18,0000;Yes;3;0;3;Moderately Likely to Churn
+299;New York;5,0000;78000;Legal;3;4;Short;Single;Bachelor;3;6,0000;Yes;3;0;2;Highly Likely to Churn'
+300;New York;7,0000;77500;Product Management;3;4;Long;Single;High School;3;63,0000;Yes;4;1;3;Moderately Likely to Churn
+301;Miami;6,0000;60000;Human Resources;5;4;Medium;Single;High School;3;56,0000;Yes;3;0;2;Highly Likely to Churn'
+302;Seattle;13,0000;68000;Public Relations;3;4;Medium;Single;Bachelor;3;24,0000;Yes;3;1;2;Highly Likely to Churn'
+303;Scranton;7,0000;55500;Customer Service;3;4;Medium;Divorced;Master;4;18,0000;Yes;3,5;1;3;Moderately Likely to Churn
+304;Scranton;14,0000;63000;Procurement;5;4;Short;Married;High School;4;63,0000;Yes;4;5;3;Moderately Likely to Churn
+305;Seattle;6,0000;64000;Product Management;4;4;Short;Single;Bachelor;4;18,0000;Yes;3;0;3;Moderately Likely to Churn
+306;Philadelphia;10,0000;71000;Administration;3;4;Medium;Single;Bachelor;2;35,4863;Yes;3;4;1;Highly Likely to Churn'
+307;Miami;12,0000;67000;Sales;5;4;Medium;Married;Bachelor;2;23,9004;Yes;3;4;2;Highly Likely to Churn'
+308;Dallas;4,0000;44500;Operations;2;3;Long;Married;High School;3;63,0000;Yes;4;0;3;Moderately Likely to Churn
+309;Scranton;7,0000;74500;Product Management;2;4;Long;Married;Master;3;18,0000;Yes;3;0;2;Highly Likely to Churn'
+310;Boston;10,0000;67500;Marketing;3;4;Short;Single;Bachelor;3;34,6456;Yes;4;0;3;Moderately Likely to Churn
+311;Denver;3,0000;64000;Research and Development;3;4;Short;Married;Bachelor;3;6,0000;Yes;3;0;3;Highly Likely to Churn'
+312;Dallas;6,0000;70000;Product Management;1;4;Short;Married;High School;3;63,0000;Yes;3;0;3;Moderately Likely to Churn
+313;Chicago;10,0000;56500;Customer Service;4;4;Medium;Married;Bachelor;3;18,0000;Yes;4;1;2;Highly Likely to Churn'
+314;Philadelphia;14,0000;79000;IT Support;4;3;Medium;Married;High School;3;63,0000;Yes;4;5;4;Moderately Likely to Churn
+315;Los Angeles;6,0000;66500;Procurement;3;4;Short;Married;Bachelor;4;30,0000;Yes;4;0;3;Moderately Likely to Churn
+316;Scranton;14,0000;75000;Public Relations;2;3;Medium;Single;Bachelor;3;18,0000;Yes;3;2;2;Highly Likely to Churn'
+317;Boston;15,0000;87000;Research and Development;1;2;Long;Single;Bachelor;3;24,0000;Yes;2;0;2;Highly Likely to Churn'
+318;Boston;5,0000;60000;Customer Service;4;4;Long;Married;High School;3;40,0000;Yes;3;0;2;Highly Likely to Churn'
+319;Philadelphia;3,0000;63000;Research and Development;2;4;Medium;Married;High School;3;63,0000;Yes;3,5;0;2;Highly Likely to Churn'
+320;Chicago;8,0000;80500;Public Relations;4;4;Long;Single;Bachelor;3;34,6456;Yes;3;0;2;Highly Likely to Churn'
+321;Los Angeles;5,0000;73500;Legal;4;4;Medium;Single;Bachelor;4;34,6456;Yes;3;0;2;Highly Likely to Churn'
+322;Denver;11,0000;65500;Research and Development;4;4;Medium;Single;High School;4;48,0000;Yes;4;4;3;Highly Likely to Churn'
+323;Atlanta;8,0000;67000;Accounting;3;4;Long;Single;High School;3;34,6456;Yes;4;0;3;Highly Likely to Churn'
+324;New York;9,0000;79500;Legal;5;4;Medium;Married;Bachelor;4;6,0000;Yes;3,5;3;2;Highly Likely to Churn'
+325;Philadelphia;10,0000;77500;Product Management;4;4;Long;Single;Master;4;18,0000;Yes;3,5;0;2;Highly Likely to Churn'
+326;New York;7,0000;64000;Accounting;3;4;Short;Single;Bachelor;4;34,6456;Yes;3;0;3;Moderately Likely to Churn
+327;Philadelphia;10,0000;66500;Accounting;4;4;Short;Single;Bachelor;4;36,0000;Yes;5;3;3;Moderately Likely to Churn
+328;San Francisco;7,0000;69000;Sales;3;4;Long;Married;High School;4;63,0000;Yes;5;1;3;Moderately Likely to Churn
+329;New York;10,0000;73500;Research and Development;5;4;Long;Single;Bachelor;3;5,5513;Yes;3;3;2;Moderately Likely to Churn
+330;Seattle;6,0000;72500;Legal;5;4;Long;Married;Bachelor;4;30,0000;Yes;4;0;3;Moderately Likely to Churn
+331;Los Angeles;12,0000;71500;Customer Service;3;4;Long;Divorced;Bachelor;3;34,6456;Yes;4;1;3;Moderately Likely to Churn
+332;New York;11,0000;79000;Sales;5;4;Long;Married;Bachelor;3;24,0000;Yes;2;1;3;Highly Likely to Churn'
+333;Philadelphia;6,0000;65000;Accounting;4;4;Medium;Married;High School;4;63,0000;Yes;4;0;3;Moderately Likely to Churn
+334;New York;12,0000;82000;Human Resources;2;3;Medium;Single;Bachelor;3;34,6456;Yes;3;0;2;Highly Likely to Churn'
+335;Philadelphia;13,0000;65500;Administration;3;4;Short;Married;High School;3;63,0000;Yes;3;5;2;Highly Likely to Churn'
+336;Los Angeles;5,0000;85500;Marketing;5;5;Medium;Married;Master;4;34,6456;Yes;4;0;2;Highly Likely to Churn'
+337;New York;10,0000;73000;Procurement;2;4;Short;Married;Bachelor;4;30,0000;Yes;3;1;2;Highly Likely to Churn'
+338;Scranton;2,0000;57500;Product Management;4;4;Short;Married;Bachelor;3;12,0000;Yes;2;0;1;Highly Likely to Churn'
+339;New York;1,0000;63500;Customer Service;3;4;Long;Married;Bachelor;3;36,0000;Yes;3;0;3;Moderately Likely to Churn
+340;Atlanta;3,0000;56500;Sales;4;3;Short;Married;High School;4;63,0000;Yes;3;0;3;Highly Likely to Churn'
+341;Denver;11,0000;69500;Accounting;3;4;Long;Married;Bachelor;3;18,0000;Yes;4;5;3;Highly Likely to Churn'
+342;Atlanta;8,0000;77500;IT Support;2;4;Medium;Married;Bachelor;4;30,0000;Yes;3,5;1;3;Highly Likely to Churn'
+343;Los Angeles;5,0000;74500;Sales;1;4;Short;Divorced;Bachelor;3;18,0000;Yes;4;0;4;Moderately Likely to Churn
+344;Atlanta;13,0000;67000;Research and Development;4;4;Short;Married;High School;4;34,6456;Yes;3;1;2;Highly Likely to Churn'
+345;New York;14,0000;73500;Procurement;5;4;Long;Divorced;High School;3;56,0000;Yes;3;5;2;Highly Likely to Churn'
+346;Los Angeles;4,0000;80500;Sales;5;4;Long;Married;Bachelor;4;30,0000;Yes;4;0;3;Moderately Likely to Churn
+347;Los Angeles;4,0000;61000;Research and Development;5;4;Medium;Married;Bachelor;4;34,6456;Yes;3;0;2;Highly Likely to Churn'
+348;Scranton;7,0000;49500;Quality Assurance;3;4;Long;Single;High School;3;63,0000;Yes;3;1;2;Highly Likely to Churn'
+349;Miami;6,0000;58500;Accounting;5;4;Long;Divorced;Bachelor;3;6,0000;Yes;4;0;3;Highly Likely to Churn'
+350;Boston;4,0000;70500;Marketing;3;3;Medium;Married;Bachelor;3;24,0000;Yes;3;0;2;Highly Likely to Churn'
+351;Dallas;11,0000;74000;Quality Assurance;3;4;Long;Single;Bachelor;4;24,0000;Yes;3;3;3;Moderately Likely to Churn
+352;Seattle;16,0000;68500;Customer Service;4;4;Long;Married;Bachelor;4;34,6456;Yes;4;5;2;Highly Likely to Churn'
+353;Los Angeles;9,0000;64000;Customer Service;4;4;Short;Divorced;High School;4;63,0000;Yes;4;1;2;Highly Likely to Churn'
+354;Boston;9,0000;63500;Research and Development;5;4;Short;Single;High School;3;63,0000;Yes;3;2;2;Highly Likely to Churn'
+355;Los Angeles;5,0000;63500;Operations;4;4;Medium;Single;Bachelor;3;35,5428;Yes;5;0;4;Moderately Likely to Churn
+356;New York;3,0000;70500;Human Resources;2;4;Medium;Married;Bachelor;4;18,0000;Yes;4;0;3;Moderately Likely to Churn
+357;Scranton;4,0000;56000;Public Relations;3;3;Medium;Single;Master;4;18,0000;Yes;4;0;3;Moderately Likely to Churn
+358;Chicago;3,0000;62000;Sales;3;4;Short;Married;High School;4;63,0000;Yes;4;0;3;Moderately Likely to Churn
+359;Scranton;12,0000;55500;IT Support;4;4;Medium;Divorced;Bachelor;3;18,0000;Yes;2;5;2;Highly Likely to Churn'
+360;Philadelphia;6,0000;63500;Marketing;3;4;Short;Married;High School;4;34,6456;Yes;3;0;2;Highly Likely to Churn'
+361;Los Angeles;7,0000;79000;Product Management;2;4;Short;Married;Master;3;36,0000;Yes;4;1;2;Highly Likely to Churn'
+362;Scranton;5,0000;63500;Sales;5;4;Short;Married;Bachelor;4;24,1680;Yes;4;0;3;Moderately Likely to Churn
+363;Atlanta;4,0000;58500;Marketing;3;4;Short;Married;Master;4;12,0000;Yes;3;0;3;Highly Likely to Churn'
+364;Unknown;9,0000;70000;Marketing;2;4;Long;Divorced;Bachelor;3;24,0000;Yes;3;1;2;Highly Likely to Churn'
+365;Philadelphia;3,0000;57000;Customer Service;4;3;Long;Divorced;High School;3;34,6456;Yes;3;0;2;Highly Likely to Churn'
+366;Denver;13,0000;66000;Accounting;3;3;Medium;Single;Bachelor;3;30,0000;Yes;4;1;3;Highly Likely to Churn'
+367;Denver;13,0000;70000;Legal;1;4;Long;Married;Bachelor;3;12,0000;Yes;3;3;2;Highly Likely to Churn'
+368;Philadelphia;8,0000;66000;IT Support;4;4;Short;Married;Bachelor;4;6,0000;Yes;4;2;2;Highly Likely to Churn'
+369;Denver;2,0000;52000;Customer Service;3;3;Long;Single;Bachelor;3;30,0000;Yes;3;0;2;Highly Likely to Churn'
+370;Los Angeles;8,0000;66.654,4980443;Accounting;2;4;Short;Married;Bachelor;4;24,0000;Yes;5;1;4;Moderately Likely to Churn
+371;Scranton;6,0000;56000;Accounting;4;4;Long;Divorced;Master;3;24,0000;Yes;3;0;3;Moderately Likely to Churn
+372;Philadelphia;17,5000;82000;Marketing;3;4;Medium;Married;Bachelor;3;18,0000;Yes;4;5;2;Highly Likely to Churn'
+373;San Francisco;6,0000;62500;Customer Service;5;4;Short;Single;High School;4;48,0000;Yes;4;0;3;Moderately Likely to Churn
+374;Denver;11,0000;70000;Marketing;3;4;Long;Married;Bachelor;4;34,6456;Yes;3;0;2;Highly Likely to Churn'
+375;Philadelphia;5,0000;66000;Accounting;2;4;Short;Married;High School;4;63,0000;Yes;4;0;3;Moderately Likely to Churn
+376;Philadelphia;3,0000;59500;Facilities Management;4;3;Short;Married;Bachelor;2;36,1945;Yes;4;0;3;Moderately Likely to Churn
+377;Philadelphia;4,0000;72000;Product Management;4;4;Long;Married;Bachelor;3;36,0852;Yes;3;0;3;Moderately Likely to Churn
+378;San Francisco;7,0000;64500;Public Relations;3;4;Medium;Single;High School;3;63,0000;Yes;2;0;3;Highly Likely to Churn'
+379;Los Angeles;11,0000;70500;Human Resources;5;4;Medium;Married;Master;3;12,0000;Yes;3;5;2;Highly Likely to Churn'
+380;Los Angeles;4,0000;78500;Research and Development;4;4;Short;Divorced;Bachelor;4;24,0000;Yes;4;0;3;Moderately Likely to Churn
+381;Chicago;4,0000;65500;Public Relations;4;4;Long;Married;Bachelor;4;6,0000;Yes;3;0;2;Highly Likely to Churn'
+382;Seattle;7,0000;64500;Accounting;4;4;Long;Married;High School;3;63,0000;Yes;3;1;2;Highly Likely to Churn'
+383;Boston;6,0000;68000;Accounting;5;4;Medium;Divorced;Bachelor;3;24,0000;Yes;3,5;0;2;Highly Likely to Churn'
+384;Dallas;5,0000;59500;Procurement;4;4;Short;Married;Bachelor;4;12,0000;Yes;4;0;3;Moderately Likely to Churn
+385;Los Angeles;4,0000;55000;Public Relations;3;4;Medium;Married;Bachelor;3;30,0000;Yes;4;0;4;Moderately Likely to Churn
+386;New York;5,0000;73000;Marketing;4;4;Short;Married;Bachelor;3;18,0000;Yes;4;0;3;Moderately Likely to Churn
+387;Miami;6,0000;65000;Quality Assurance;2;4;Short;Single;Bachelor;3;24,3371;Yes;4;0;3;Highly Likely to Churn'
+388;Los Angeles;4,0000;69500;Human Resources;4;4;Short;Married;Bachelor;4;30,0000;Yes;4;0;2;Highly Likely to Churn'
+389;Scranton;2,0000;57000;Sales;5;4;Short;Married;Bachelor;4;30,0000;Yes;4;0;3;Moderately Likely to Churn
+390;Philadelphia;8,0000;67000;Legal;5;5;Long;Divorced;High School;3;47,6000;Yes;3;2;3;Moderately Likely to Churn
+391;Miami;3,0000;64000;Accounting;3;4;Short;Married;Bachelor;4;12,0000;Yes;4;0;4;Highly Likely to Churn'
+392;Chicago;12,0000;62500;IT Support;4;4;Long;Single;Bachelor;4;18,0000;Yes;5;2;4;Moderately Likely to Churn
+393;New York;6,0000;67000;Sales;4;4;Long;Married;High School;4;56,0000;Yes;5;0;3;Moderately Likely to Churn
+394;Philadelphia;4,0000;65000;Sales;2;4;Short;Married;High School;4;63,0000;Yes;5;0;3;Moderately Likely to Churn
+395;Los Angeles;12,0000;78000;Human Resources;4;4;Long;Single;Bachelor;4;34,6456;Yes;4;2;3;Moderately Likely to Churn
+396;Denver;5,0000;67000;Customer Service;4;4;Medium;Single;Bachelor;4;34,6456;Yes;4;0;3;Highly Likely to Churn'
+397;Miami;14,0000;61000;Accounting;5;4;Short;Divorced;High School;3;63,0000;Yes;3;2;2;Highly Likely to Churn'
+398;Los Angeles;6,0000;71000;Sales;4;4;Short;Married;Bachelor;3;18,0000;Yes;3;0;2;Highly Likely to Churn'
+399;Atlanta;5,0000;61000;Research and Development;3;4;Medium;Single;High School;3;63,0000;Yes;4;0;2;Highly Likely to Churn'
+400;Boston;4,0000;60500;Sales;3;4;Long;Divorced;High School;4;56,0000;Yes;3;0;2;Highly Likely to Churn'
+401;Scranton;5,0000;54500;Operations;4;4;Medium;Divorced;Bachelor;3;12,0000;Yes;4;0;4;Moderately Likely to Churn
+402;Denver;7,0000;69000;IT Support;5;4;Medium;Single;Bachelor;3;30,0000;Yes;4;0;2;Highly Likely to Churn'
+403;Chicago;6,0000;57000;Operations;5;4;Medium;Married;High School;4;63,0000;Yes;3,5;0;3;Moderately Likely to Churn
+404;Chicago;14,0000;88500;Sales;3;4;Short;Divorced;Bachelor;4;24,0000;Yes;4;4;3;Moderately Likely to Churn
+405;Atlanta;7,0000;69500;Legal;5;4;Long;Single;Bachelor;4;18,0000;Yes;4;0;2;Highly Likely to Churn'
+406;Los Angeles;7,0000;69000;Human Resources;3;3;Medium;Single;Bachelor;3;6,0000;Yes;4;0;3;Moderately Likely to Churn
+407;Atlanta;3,0000;63500;Human Resources;3;4;Long;Married;Bachelor;3;12,0000;Yes;3;0;2;Highly Likely to Churn'
+408;Boston;4,0000;58000;Administration;5;4;Long;Divorced;Bachelor;3;18,0000;Yes;4;0;3;Moderately Likely to Churn
+409;Philadelphia;5,0000;62000;Quality Assurance;4;4;Medium;Married;Bachelor;3;34,6456;Yes;4;0;3;Moderately Likely to Churn
+410;Dallas;7,0000;66500;Public Relations;2;4;Long;Married;Bachelor;4;30,0000;Yes;4;1;3;Moderately Likely to Churn
+411;Dallas;12,0000;75500;Operations;2;4;Medium;Married;High School;4;63,0000;Yes;4;0;3;Moderately Likely to Churn
+412;Seattle;8,0000;74000;Legal;2;3;Medium;Married;Bachelor;3;24,0000;Yes;3;2;2;Highly Likely to Churn'
+413;Chicago;2,0000;61000;Procurement;4;4;Medium;Married;Master;3;30,0000;Yes;4;0;3;Moderately Likely to Churn
+414;Scranton;10,0000;62000;Administration;3;4;Short;Married;Bachelor;3;34,6456;Yes;3,5;3;3;Moderately Likely to Churn
+415;Atlanta;5,0000;57000;Administration;3;4;Long;Divorced;Bachelor;4;30,0000;Yes;4;0;3;Highly Likely to Churn'
+416;Philadelphia;9,0000;71000;Administration;4;4;Short;Single;Bachelor;4;11,9694;Yes;3;0;3;Highly Likely to Churn'
+417;Miami;7,0000;64000;Sales;3;4;Long;Single;High School;3;32,0000;Yes;3;1;3;Highly Likely to Churn'
+418;Los Angeles;2,0000;71500;Accounting;5;3;Short;Married;Bachelor;3;18,0000;Yes;4;0;3;Moderately Likely to Churn
+419;Boston;5,0000;52000;Human Resources;5;4;Short;Single;High School;3;34,6456;Yes;2;0;3;Highly Likely to Churn'
+420;New York;4,0000;73500;Sales;3;4;Short;Married;Bachelor;4;18,0000;Yes;4;0;3;Moderately Likely to Churn
+421;Scranton;4,0000;55500;Customer Service;5;4;Medium;Married;Bachelor;4;18,0000;Yes;4;0;4;Moderately Likely to Churn
+422;Los Angeles;10,0000;71000;Procurement;4;4;Medium;Married;Bachelor;4;12,0000;Yes;4;1;3;Moderately Likely to Churn
+423;Miami;5,0000;55000;Procurement;5;4;Short;Married;High School;4;63,0000;Yes;3;0;2;Highly Likely to Churn'
+424;Denver;10,0000;72000;Sales;2;4;Long;Married;High School;3;32,0000;Yes;3;0;2;Highly Likely to Churn'
+425;New York;8,0000;73000;Product Management;5;4;Short;Divorced;Bachelor;4;12,0000;Yes;4;1;2;Highly Likely to Churn'
+426;Atlanta;7,6121;65500;Public Relations;3;4;Medium;Married;Bachelor;4;18,0000;Yes;3,5;0;3;Highly Likely to Churn'
+427;Atlanta;5,0000;55000;Marketing;2;4;Medium;Married;High School;4;34,6456;Yes;3;0;2;Highly Likely to Churn'
+428;Scranton;16,0000;73500;Accounting;3;3;Short;Divorced;Bachelor;3;36,0000;Yes;2;5;2;Highly Likely to Churn'
+429;Miami;3,0000;49500;Customer Service;3;3;Long;Married;High School;4;56,3762;Yes;3;0;3;Highly Likely to Churn'
+430;Chicago;7,0000;62000;Research and Development;4;4;Medium;Married;High School;3;34,6456;Yes;3;0;3;Moderately Likely to Churn
+431;Los Angeles;4,0000;73000;Customer Service;2;2;Medium;Single;Bachelor;2;24,0000;Yes;3;0;2;Highly Likely to Churn'
+432;San Francisco;4,0000;73000;Sales;4;4;Medium;Married;High School;3;63,0000;Yes;2;0;2;Highly Likely to Churn'
+433;New York;6,0000;69500;Human Resources;3;5;Short;Married;Bachelor;4;18,4004;Yes;2;0;1;Highly Likely to Churn'
+434;Chicago;6,0000;66000;Research and Development;3;4;Long;Single;Bachelor;3;12,0000;Yes;3;0;2;Highly Likely to Churn'
+435;Atlanta;15,0000;83500;Research and Development;2;4;Long;Married;Bachelor;4;30,0000;Yes;4;2;4;Highly Likely to Churn'
+436;Philadelphia;14,0000;86500;Sales;3;4;Short;Divorced;High School;3;63,0000;Yes;4;2;3;Moderately Likely to Churn
+437;Atlanta;6,0000;61000;IT Support;5;4;Short;Single;Bachelor;5;23,6612;Yes;3;0;3;Highly Likely to Churn'
+438;Miami;7,0000;66500;Marketing;5;4;Long;Married;Master;4;30,0000;Yes;3;0;1;Highly Likely to Churn'
+439;Scranton;8,0000;61500;Customer Service;4;3;Medium;Single;Bachelor;3;30,4219;Yes;5;2;3;Moderately Likely to Churn
+440;Seattle;3,0000;52000;Accounting;2;4;Medium;Single;High School;3;63,0000;Yes;3;0;2;Highly Likely to Churn'
+441;Atlanta;6,0000;71000;Sales;4;4;Short;Married;High School;3;63,0000;Yes;3;0;3;Highly Likely to Churn'
+442;Scranton;9,0000;54500;Research and Development;4;4;Long;Married;High School;4;63,0000;Yes;4;2;3;Moderately Likely to Churn
+443;San Francisco;5,0000;68500;Customer Service;3;5;Medium;Married;Bachelor;5;18,0000;Yes;3;0;3;Moderately Likely to Churn
+444;Seattle;4,0000;73500;Public Relations;1;4;Long;Married;Master;3;36,0000;Yes;4;0;3;Moderately Likely to Churn
+445;Denver;10,0000;83000;Sales;3;4;Long;Married;Master;4;24,0000;Yes;4;4;3;Highly Likely to Churn'
+446;Chicago;4,0000;69000;Marketing;4;4;Medium;Married;High School;4;63,0000;Yes;4;0;2;Highly Likely to Churn'
+447;Chicago;5,0000;70500;Marketing;4;4;Medium;Divorced;Bachelor;4;36,0000;Yes;3,5;0;1;Highly Likely to Churn'
+448;New York;15,0000;75000;Marketing;1;4;Long;Single;Bachelor;3;30,0000;Yes;3;5;2;Highly Likely to Churn'
+449;Seattle;8,0000;71000;Sales;4;5;Long;Married;High School;4;56,0000;Yes;3;2;3;Moderately Likely to Churn
+450;Chicago;3,0000;55000;IT Support;5;5;Medium;Married;High School;3;63,0000;Yes;5;0;4;Moderately Likely to Churn
+451;Boston;5,0000;52500;Quality Assurance;3;4;Long;Married;High School;4;48,0000;Yes;4;0;2;Highly Likely to Churn'
+452;Chicago;7,0000;66000;Product Management;4;4;Long;Married;Bachelor;4;12,0000;Yes;3;0;2;Highly Likely to Churn'
+453;Philadelphia;17,0000;77500;Marketing;5;4;Medium;Married;Bachelor;3;30,0000;Yes;3;2;2;Highly Likely to Churn'
+454;New York;4,0000;55500;Operations;3;4;Medium;Divorced;Bachelor;3;30,0000;Yes;3;0;2;Highly Likely to Churn'
+455;Philadelphia;16,0000;85000;Marketing;2;4;Short;Married;Bachelor;3;36,0000;Yes;3;5;1;Highly Likely to Churn'
+456;Boston;6,0000;66500;Administration;2;4;Short;Married;Master;4;30,0000;Yes;2;0;2;Highly Likely to Churn'
+457;San Francisco;13,0000;84000;Accounting;1;3;Long;Divorced;High School;3;63,0000;Yes;3;0;2;Highly Likely to Churn'
+458;Denver;9,0000;69500;Sales;3;4;Long;Divorced;Master;4;30,0000;Yes;3,5;2;2;Highly Likely to Churn'
+459;Chicago;5,0000;47000;Facilities Management;2;4;Long;Married;High School;3;63,0000;Yes;3;0;3;Moderately Likely to Churn
+460;New York;1,0000;65000;Marketing;4;4;Long;Divorced;Bachelor;4;35,9577;Yes;2;0;2;Highly Likely to Churn'
+461;Denver;12,0000;74000;Sales;5;4;Medium;Single;High School;3;40,0000;Yes;3;3;2;Highly Likely to Churn'
+462;New York;10,0000;71500;Product Management;3;4;Long;Married;Bachelor;4;18,0000;Yes;4;4;3;Moderately Likely to Churn
+463;Seattle;3,0000;66000;Sales;5;4;Short;Married;Bachelor;4;6,0000;Yes;4;0;3;Moderately Likely to Churn
+464;Los Angeles;16,0000;77000;Operations;4;4;Long;Married;Bachelor;4;30,0000;Yes;4;1;3;Moderately Likely to Churn
+465;Denver;11,0000;71000;Customer Service;2;4;Long;Married;Bachelor;3;30,0000;Yes;3;4;1;Highly Likely to Churn'
+466;Los Angeles;10,0000;70000;Sales;3;4;Medium;Married;Bachelor;4;6,0000;Yes;4;0;2;Highly Likely to Churn'
+467;Seattle;9,0000;66000;Human Resources;3;4;Medium;Married;Bachelor;4;24,0000;Yes;5;2;4;Moderately Likely to Churn
+468;Scranton;9,0000;65500;Sales;5;3;Long;Married;Master;3;18,0000;Yes;4;1;3;Moderately Likely to Churn
+469;Philadelphia;3,0000;63500;Research and Development;4;4;Medium;Married;Bachelor;3;36,0000;Yes;2;0;1;Highly Likely to Churn'
+470;San Francisco;5,0000;67500;Operations;3;4;Medium;Divorced;High School;3;34,6456;Yes;4;0;2;Highly Likely to Churn'
+471;Philadelphia;9,0000;75500;Customer Service;4;4;Short;Divorced;Bachelor;4;30,0000;Yes;3,5;0;4;Moderately Likely to Churn
+472;Philadelphia;8,0000;64000;Marketing;3;5;Short;Single;High School;3;63,0000;Yes;4;1;2;Moderately Likely to Churn
+473;Scranton;4,0000;58500;Human Resources;4;4;Short;Divorced;Bachelor;4;34,6456;Yes;4;0;2;Highly Likely to Churn'
+474;San Francisco;6,0000;80500;Accounting;2;4;Medium;Single;Master;3;30,0000;Yes;4;0;2;Highly Likely to Churn'
+475;Scranton;7,0000;63000;Product Management;4;4;Short;Divorced;Bachelor;3;12,0000;Yes;3;1;3;Moderately Likely to Churn
+476;Philadelphia;13,0000;73000;Sales;2;4;Medium;Married;Bachelor;3;30,0000;Yes;3;5;2;Highly Likely to Churn'
+477;Denver;7,0000;64500;Operations;5;5;Medium;Married;Master;5;18,1039;Yes;2;0;1;Highly Likely to Churn'
+478;New York;7,0000;84500;Sales;4;4;Long;Married;Bachelor;4;18,1724;Yes;4;0;2;Highly Likely to Churn'
+479;Miami;9,0000;66500;Marketing;3;4;Long;Married;Bachelor;3;30,0000;Yes;3;1;2;Highly Likely to Churn'
+480;Seattle;4,0000;66500;Marketing;3;4;Long;Single;Bachelor;3;18,0000;Yes;3;0;2;Highly Likely to Churn'
+481;Chicago;12,0000;62000;Administration;3;4;Short;Divorced;High School;3;56,0000;Yes;4;5;3;Moderately Likely to Churn
+482;Philadelphia;6,0000;59000;Sales;5;4;Short;Married;High School;4;63,0000;Yes;3,5;0;3;Moderately Likely to Churn
+483;San Francisco;8,0000;60500;Facilities Management;4;4;Short;Married;High School;3;56,0000;Yes;3;0;3;Moderately Likely to Churn
+484;Los Angeles;6,0000;67000;Administration;4;4;Long;Single;Bachelor;4;12,0000;Yes;3;0;2;Highly Likely to Churn'
+485;Seattle;2,0000;61000;Human Resources;2;4;Medium;Single;Bachelor;4;34,6456;Yes;2;0;1;Highly Likely to Churn'
+486;Scranton;9,0000;65000;Sales;3;4;Short;Married;High School;4;63,0000;Yes;4;0;4;Moderately Likely to Churn
+487;Miami;5,0000;66000;Quality Assurance;3;4;Short;Married;Master;4;18,0000;Yes;3,5;0;3;Highly Likely to Churn'
+488;New York;11,0000;80500;Marketing;5;4;Medium;Divorced;High School;4;24,0000;Yes;4;4;2;Highly Likely to Churn'
+489;Chicago;12,0000;72000;Public Relations;3;4;Medium;Married;Bachelor;3;12,0000;Yes;3;5;2;Highly Likely to Churn'
+490;Scranton;6,0000;62000;Facilities Management;2;3;Short;Divorced;Bachelor;3;24,3234;Yes;4;0;1;Highly Likely to Churn'
+491;Philadelphia;8,0000;67000;Customer Service;4;4;Long;Married;High School;3;34,6456;Yes;4;2;3;Moderately Likely to Churn
+492;Dallas;13,0000;79000;Quality Assurance;3;4;Short;Married;Bachelor;3;24,0000;Yes;4;2;3;Moderately Likely to Churn
+493;Chicago;17,5000;78500;Customer Service;3;4;Long;Married;Bachelor;4;34,6456;Yes;4;5;3;Moderately Likely to Churn
+494;Denver;7,0000;72500;Sales;3;4;Short;Married;Bachelor;4;12,0000;Yes;3;0;2;Highly Likely to Churn'
+495;Seattle;3,0000;65500;Sales;2;3;Medium;Divorced;Bachelor;3;24,0000;Yes;4;0;3;Moderately Likely to Churn
+496;Atlanta;3,0000;57500;Facilities Management;5;3;Short;Married;High School;3;63,0000;Yes;4;0;3;Highly Likely to Churn'
+497;Seattle;9,0000;67500;Accounting;2;4;Long;Married;Bachelor;4;30,0000;Yes;3;2;2;Highly Likely to Churn'
+498;Seattle;9,0000;66500;Operations;4;4;Short;Married;Bachelor;3;24,0000;Yes;3;1;2;Highly Likely to Churn'
+499;Chicago;11,0000;77000;Legal;4;4;Medium;Single;High School;3;63,0000;Yes;3;4;2;Highly Likely to Churn'
+500;Los Angeles;11,0000;71500;Sales;4;4;Long;Single;High School;4;63,0000;Yes;4;3;3;Moderately Likely to Churn
+501;Chicago;3,0000;52500;Procurement;1;4;Long;Single;High School;3;63,0000;Yes;3;0;2;Highly Likely to Churn'
+502;Denver;7,0000;70500;Legal;4;3;Short;Married;Master;4;18,0000;Yes;4;1;2;Highly Likely to Churn'
+503;Chicago;17,5000;73000;Human Resources;2;4;Medium;Married;Bachelor;4;12,0000;Yes;4;4;3;Moderately Likely to Churn
+504;Los Angeles;9,0000;74000;Accounting;4;4;Long;Married;Bachelor;4;12,0000;Yes;4;3;3;Moderately Likely to Churn
+505;New York;8,0000;72500;Sales;2;4;Medium;Divorced;Bachelor;5;12,0000;Yes;5;0;3;Moderately Likely to Churn
+506;Dallas;4,0000;65000;Sales;3;4;Short;Married;Master;3;24,0000;Yes;3,5;0;3;Moderately Likely to Churn
+507;New York;8,0000;62500;Customer Service;3;4;Long;Single;Bachelor;4;12,0000;Yes;4;0;3;Moderately Likely to Churn
+508;Scranton;7,0000;67000;Legal;5;4;Short;Single;Bachelor;4;6,0000;Yes;4;1;2;Highly Likely to Churn'
+509;San Francisco;8,0000;72000;Sales;4;4;Long;Married;Bachelor;4;36,2506;Yes;4;1;1;Highly Likely to Churn'
+510;Los Angeles;6,0000;73500;Product Management;3;4;Long;Single;High School;4;63,0000;Yes;5;0;3;Moderately Likely to Churn
+511;Boston;8,0000;74000;Sales;3;2;Short;Single;High School;3;63,0000;Yes;3,5;0;4;Moderately Likely to Churn
+512;Boston;6,0000;55000;Operations;5;4;Medium;Married;High School;3;24,0000;Yes;3;0;3;Moderately Likely to Churn
+513;Seattle;17,0000;69000;Administration;2;3;Medium;Married;High School;3;34,6456;Yes;3;4;3;Moderately Likely to Churn
+514;New York;15,0000;82500;Customer Service;4;4;Medium;Married;Bachelor;4;24,0000;Yes;3;3;2;Highly Likely to Churn'
+515;New York;12,0000;74500;Research and Development;3;4;Short;Single;High School;4;48,0000;Yes;4;5;3;Moderately Likely to Churn
+516;Dallas;5,0000;69500;Research and Development;3;4;Medium;Married;Master;3;18,0000;Yes;2;0;2;Highly Likely to Churn'
+517;Scranton;2,0000;48000;Accounting;1;4;Medium;Married;High School;3;63,0000;Yes;4;0;3;Moderately Likely to Churn
+518;Boston;13,0000;66000;Procurement;3;4;Medium;Divorced;Bachelor;3;34,6456;Yes;3;2;2;Highly Likely to Churn'
+519;Boston;12,0000;75500;Research and Development;3;4;Medium;Single;Bachelor;3;34,6456;Yes;4;5;3;Moderately Likely to Churn
+520;Boston;10,0000;56500;Operations;3;4;Short;Married;Bachelor;4;24,0000;Yes;3;4;2;Highly Likely to Churn'
+521;Philadelphia;9,0000;64000;Customer Service;2;4;Medium;Single;High School;4;47,9461;Yes;2;1;2;Highly Likely to Churn'
+522;Scranton;3,0000;48500;Customer Service;5;5;Long;Married;Bachelor;4;12,0000;Yes;3;0;2;Highly Likely to Churn'
+523;Seattle;6,0000;67500;Operations;3;4;Medium;Single;Bachelor;3;24,0000;Yes;3;0;3;Moderately Likely to Churn
+524;Philadelphia;10,0000;67500;Public Relations;2;4;Long;Divorced;High School;4;34,6456;Yes;4;0;3;Moderately Likely to Churn
+525;Scranton;14,0000;53500;IT Support;3;4;Medium;Divorced;High School;4;40,0000;Yes;4;5;2;Highly Likely to Churn'
+526;Chicago;5,0000;57000;Marketing;5;4;Short;Married;Bachelor;3;30,0000;Yes;3;0;2;Highly Likely to Churn'
+527;Philadelphia;1,0000;65500;Accounting;4;3;Medium;Single;Bachelor;3;36,0000;Yes;4;0;3;Moderately Likely to Churn
+528;Seattle;9,0000;60500;Public Relations;2;4;Short;Married;Bachelor;4;36,0000;Yes;4;0;3;Moderately Likely to Churn
+529;Boston;9,0000;54500;IT Support;1;4;Long;Married;High School;3;63,0000;Yes;4;3;2;Highly Likely to Churn'
+530;Chicago;7,0000;69000;Accounting;3;4;Long;Single;Bachelor;2;12,0000;Yes;3;0;1;Highly Likely to Churn'
+531;Chicago;9,0000;62500;Legal;4;4;Long;Divorced;Bachelor;5;18,7178;Yes;4;1;3;Moderately Likely to Churn
+532;Seattle;8,0000;57500;Sales;4;4;Long;Single;High School;3;56,0000;Yes;3;1;2;Highly Likely to Churn'
+533;New York;3,0000;70000;Research and Development;4;4;Long;Married;Bachelor;3;24,0000;Yes;2;0;4;Moderately Likely to Churn
+534;New York;5,0000;74000;Sales;3;4;Long;Single;Bachelor;3;6,0000;Yes;4;0;2;Highly Likely to Churn'
+535;Dallas;4,0000;66000;Marketing;2;4;Medium;Divorced;Bachelor;4;6,0000;Yes;3;0;2;Highly Likely to Churn'
+536;San Francisco;9,0000;61000;Procurement;3;4;Medium;Divorced;Bachelor;4;12,0000;Yes;5;2;3;Moderately Likely to Churn
+537;Atlanta;4,0000;71000;Sales;3;3;Short;Single;Master;3;24,3201;Yes;2;0;3;Highly Likely to Churn'
+538;Denver;10,0000;66.654,4980443;Marketing;3;4;Long;Single;Bachelor;4;11,7495;Yes;3;2;2;Highly Likely to Churn'
+539;New York;11,0000;73000;Sales;4;4;Medium;Married;High School;4;63,0000;Yes;5;1;3;Moderately Likely to Churn
+540;Denver;5,0000;54000;Administration;1;2;Short;Married;Bachelor;3;34,6456;Yes;4;0;2;Highly Likely to Churn'
+541;Chicago;9,0000;64000;Customer Service;5;4;Short;Married;Bachelor;4;34,6456;Yes;5;1;3;Moderately Likely to Churn
+542;New York;5,0000;61000;Quality Assurance;4;3;Short;Divorced;Bachelor;3;24,0000;Yes;3;0;2;Highly Likely to Churn'
+543;Boston;16,0000;63500;Quality Assurance;3;4;Short;Married;High School;4;63,0000;Yes;3;2;3;Moderately Likely to Churn
+544;Los Angeles;4,0000;64500;Human Resources;1;4;Long;Married;Bachelor;3;34,6456;Yes;3,5;0;3;Moderately Likely to Churn
+545;Seattle;5,0000;73000;Accounting;5;4;Medium;Married;Master;3;36,0000;Yes;4;0;2;Highly Likely to Churn'
+546;Chicago;5,0000;66000;Quality Assurance;4;4;Long;Married;Bachelor;4;12,0000;Yes;4;0;2;Highly Likely to Churn'
+547;Chicago;3,0000;64000;Sales;5;3;Short;Married;Bachelor;3;30,5823;Yes;3;0;4;Moderately Likely to Churn
+548;New York;4,0000;67500;IT Support;5;3;Long;Single;Bachelor;3;23,9443;Yes;4;0;2;Highly Likely to Churn'
+549;Philadelphia;4,0000;63500;Customer Service;3;4;Medium;Single;Bachelor;4;18,0000;Yes;2;0;2;Highly Likely to Churn'
+550;Philadelphia;17,5000;77500;Product Management;2;4;Short;Divorced;Bachelor;4;30,9402;Yes;4;5;1;Highly Likely to Churn'
+551;Philadelphia;6,0000;60500;Marketing;4;4;Short;Divorced;Bachelor;3;12,0000;Yes;3;0;1;Highly Likely to Churn'
+552;Chicago;3,0000;55000;Legal;4;4;Short;Married;High School;4;32,0000;Yes;3;0;2;Highly Likely to Churn'
+553;Chicago;8,0000;65000;Accounting;3;4;Short;Married;High School;3;63,0000;Yes;3;1;3;Highly Likely to Churn'
+554;Dallas;2,0000;56000;Quality Assurance;3;4;Medium;Married;Bachelor;4;24,0000;Yes;3;0;3;Moderately Likely to Churn
+555;New York;4,0000;63000;IT Support;5;4;Medium;Single;Bachelor;3;34,6456;Yes;4;0;3;Moderately Likely to Churn
+556;Atlanta;9,0000;63500;Procurement;4;4;Medium;Married;Master;3;34,6456;Yes;3;0;1;Highly Likely to Churn'
+557;New York;10,0000;72500;Quality Assurance;3;4;Medium;Single;High School;3;48,0000;Yes;4;1;2;Highly Likely to Churn'
+558;Philadelphia;8,0000;65000;Marketing;4;4;Short;Married;Bachelor;4;12,0000;Yes;3;0;3;Moderately Likely to Churn
+559;Seattle;6,0000;75000;Sales;2;3;Long;Married;Bachelor;3;18,0000;Yes;4;0;2;Highly Likely to Churn'
+560;Atlanta;3,0000;58000;Accounting;5;4;Long;Married;High School;3;40,0000;Yes;3;0;3;Highly Likely to Churn'
+561;Seattle;8,0000;66500;Customer Service;2;4;Short;Divorced;Bachelor;3;34,6456;Yes;3,5;1;4;Moderately Likely to Churn
+562;New York;5,0000;66.654,4980443;Product Management;3;4;Medium;Married;Bachelor;4;24,0000;Yes;4;0;4;Moderately Likely to Churn
+563;Atlanta;12,0000;81500;Public Relations;2;4;Medium;Married;Bachelor;3;24,0000;Yes;3;1;3;Highly Likely to Churn'
+564;Miami;11,0000;59500;Public Relations;1;4;Short;Married;High School;4;32,0000;Yes;4;3;2;Highly Likely to Churn'
+565;New York;10,0000;69000;IT Support;4;4;Medium;Divorced;Master;4;34,6456;Yes;4;4;3;Moderately Likely to Churn
+566;Chicago;13,0000;67000;IT Support;5;3;Long;Married;Bachelor;4;12,0000;Yes;4;2;2;Highly Likely to Churn'
+567;Los Angeles;10,0000;67500;Research and Development;5;4;Medium;Divorced;High School;4;63,0000;Yes;4;2;2;Highly Likely to Churn'
+568;Philadelphia;17,5000;88500;Sales;2;4;Long;Single;Bachelor;4;12,0000;Yes;4;5;3;Moderately Likely to Churn
+569;Dallas;7,6121;61000;Customer Service;3;3;Long;Married;Bachelor;3;12,0000;Yes;3;0;2;Highly Likely to Churn'
+570;Philadelphia;4,0000;57500;Marketing;4;3;Short;Married;High School;3;63,0000;Yes;4;0;2;Highly Likely to Churn'
+571;Los Angeles;2,0000;61000;Sales;3;4;Long;Married;Bachelor;4;24,0000;Yes;3;0;2;Highly Likely to Churn'
+572;Boston;1,0000;59500;Accounting;2;4;Long;Married;High School;4;63,0000;Yes;3;0;3;Moderately Likely to Churn
+573;Atlanta;3,0000;62500;Legal;3;3;Short;Single;Bachelor;3;18,0000;Yes;2;0;2;Highly Likely to Churn'
+574;Boston;3,0000;54500;Human Resources;4;4;Medium;Divorced;Bachelor;4;18,0000;Yes;4;0;3;Moderately Likely to Churn
+575;Boston;4,0000;70000;Legal;2;4;Long;Single;Bachelor;4;24,0000;Yes;4;0;3;Moderately Likely to Churn
+576;Boston;5,0000;64000;Procurement;4;4;Medium;Divorced;Bachelor;3;24,0000;Yes;3,5;0;2;Highly Likely to Churn'
+577;Atlanta;17,5000;76500;Public Relations;5;4;Short;Married;High School;4;63,0000;Yes;3;5;3;Highly Likely to Churn'
+578;Boston;14,0000;65500;Administration;3;3;Medium;Married;Bachelor;4;18,2120;Yes;4;5;3;Moderately Likely to Churn
+579;Philadelphia;11,0000;69500;Procurement;3;4;Short;Married;Bachelor;4;18,0000;Yes;4;4;3;Moderately Likely to Churn
+580;Denver;14,0000;57500;Administration;5;4;Medium;Married;High School;4;34,6456;Yes;5;3;3;Highly Likely to Churn'
+581;Los Angeles;7,0000;77500;Sales;3;4;Short;Married;Bachelor;4;18,0000;Yes;4;0;3;Moderately Likely to Churn
+582;Miami;10,0000;58000;Quality Assurance;2;4;Medium;Married;Bachelor;4;18,0000;Yes;4;0;3;Highly Likely to Churn'
+583;Miami;9,0000;72500;Accounting;4;4;Short;Married;Bachelor;4;24,0000;Yes;4;3;2;Highly Likely to Churn'
+584;Denver;4,0000;53500;Accounting;5;4;Medium;Single;Bachelor;3;18,0000;Yes;3;0;2;Highly Likely to Churn'
+585;Miami;7,0000;53000;Human Resources;4;4;Long;Married;High School;3;34,6456;Yes;3;1;2;Highly Likely to Churn'
+586;Boston;3,0000;58000;Research and Development;4;4;Medium;Married;High School;3;63,0000;Yes;2;0;1;Highly Likely to Churn'
+587;Boston;9,0000;69000;Public Relations;1;3;Long;Single;Bachelor;3;24,0000;Yes;4;2;4;Moderately Likely to Churn
+588;Boston;9,0000;76000;Sales;4;4;Short;Married;Bachelor;4;12,0000;Yes;4;1;2;Highly Likely to Churn'
+589;Chicago;8,0000;71500;Sales;3;3;Long;Married;Bachelor;4;12,0000;Yes;5;2;3;Moderately Likely to Churn
+590;Philadelphia;12,0000;72500;Procurement;5;4;Short;Single;Bachelor;3;12,0000;Yes;4;3;2;Highly Likely to Churn'
+591;Seattle;8,0000;56000;Customer Service;4;4;Long;Divorced;High School;4;48,0000;Yes;3;1;3;Moderately Likely to Churn
+592;Los Angeles;4,0000;66000;Marketing;4;4;Short;Married;Master;4;24,0000;Yes;4;0;3;Moderately Likely to Churn
+593;Denver;10,0000;72500;Marketing;3;4;Long;Married;Bachelor;4;30,0000;Yes;3,5;2;2;Highly Likely to Churn'
+594;Scranton;7,0000;55000;Administration;4;4;Short;Married;Bachelor;4;30,0000;Yes;3,5;1;2;Highly Likely to Churn'
+595;Dallas;5,0000;67500;Product Management;3;4;Long;Married;High School;4;63,0000;Yes;3;0;3;Moderately Likely to Churn
+596;Scranton;17,5000;82500;Marketing;3;4;Medium;Divorced;Bachelor;3;12,0000;Yes;3;3;3;Moderately Likely to Churn
+597;Boston;1,0000;58500;Research and Development;5;4;Short;Single;Bachelor;4;30,0000;Yes;3;0;3;Moderately Likely to Churn
+598;Los Angeles;6,0000;73000;Marketing;3;4;Long;Single;Bachelor;3;24,0000;Yes;3;0;2;Highly Likely to Churn'
+599;Scranton;10,0000;58500;Operations;4;4;Long;Married;Bachelor;4;30,0000;Yes;3;2;2;Highly Likely to Churn'
+600;Scranton;9,0000;50500;Marketing;2;4;Long;Married;High School;3;63,0000;Yes;4;2;3;Moderately Likely to Churn
+601;Chicago;6,0000;57500;Customer Service;4;4;Medium;Married;Bachelor;3;34,6456;Yes;4;0;3;Moderately Likely to Churn
+602;Boston;10,0000;84000;Facilities Management;4;4;Short;Married;Master;3;12,0000;Yes;3;1;3;Moderately Likely to Churn
+603;Chicago;2,0000;53000;Customer Service;4;4;Medium;Divorced;High School;4;56,0000;Yes;3;0;3;Moderately Likely to Churn
+604;Scranton;16,0000;78000;Sales;5;4;Short;Divorced;Bachelor;3;12,0000;Yes;3;5;2;Highly Likely to Churn'
+605;Boston;12,0000;64000;Operations;3;4;Short;Married;High School;4;48,0000;Yes;3;0;3;Moderately Likely to Churn
+606;Scranton;5,0000;50500;Quality Assurance;3;4;Long;Divorced;Bachelor;4;34,6456;Yes;4;0;3;Moderately Likely to Churn
+607;New York;7,0000;78000;Accounting;2;4;Medium;Single;Bachelor;4;18,0000;Yes;4;1;3;Moderately Likely to Churn
+608;Scranton;6,0000;61500;Marketing;3;4;Medium;Married;High School;4;48,0000;Yes;4;0;4;Moderately Likely to Churn
+609;Boston;4,0000;70000;Marketing;2;3;Medium;Married;High School;3;63,0000;Yes;3;0;2;Highly Likely to Churn'
+610;Los Angeles;6,0000;70500;Research and Development;3;4;Medium;Divorced;High School;3;40,0000;Yes;3;0;2;Highly Likely to Churn'
+611;Boston;10,0000;63500;Operations;3;3;Medium;Married;High School;3;32,0000;Yes;4;2;3;Moderately Likely to Churn
+612;Scranton;7,0000;50500;Accounting;4;4;Medium;Married;Bachelor;4;24,0000;Yes;4;1;3;Moderately Likely to Churn
+613;Los Angeles;6,0000;77000;Accounting;1;2;Long;Single;Bachelor;3;36,0000;Yes;3;0;2;Highly Likely to Churn'
+614;Philadelphia;4,0000;59000;Public Relations;2;4;Long;Single;Bachelor;3;36,0000;Yes;3;0;2;Highly Likely to Churn'
+615;Scranton;4,0000;56000;Quality Assurance;3;4;Medium;Divorced;Bachelor;4;18,0000;Yes;4;0;2;Highly Likely to Churn'
+616;Los Angeles;2,0000;70000;Sales;5;4;Medium;Divorced;Bachelor;4;34,6456;Yes;4;0;3;Moderately Likely to Churn
+617;Boston;1,0000;57500;Customer Service;4;4;Medium;Single;High School;3;63,0000;Yes;4;0;3;Moderately Likely to Churn
+618;Boston;12,0000;63500;Facilities Management;3;4;Short;Divorced;High School;4;48,0000;Yes;3,5;3;2;Highly Likely to Churn'
+619;Boston;9,0000;86000;Sales;5;4;Medium;Single;Master;3;18,0000;Yes;3;0;2;Highly Likely to Churn'
+620;Seattle;11,0000;69500;Marketing;5;4;Short;Divorced;Bachelor;4;12,0000;Yes;4;2;3;Moderately Likely to Churn
+621;Atlanta;5,0000;70500;Sales;3;4;Short;Married;Bachelor;4;6,0000;Yes;4;0;3;Highly Likely to Churn'
+622;Dallas;10,0000;67500;Facilities Management;2;4;Short;Married;Bachelor;4;6,0000;Yes;3;2;2;Highly Likely to Churn'
+623;Miami;9,0000;63000;Administration;4;4;Medium;Married;Bachelor;3;24,0000;Yes;3;0;2;Highly Likely to Churn'
+624;Los Angeles;13,0000;69000;Customer Service;4;5;Long;Married;High School;4;63,0000;Yes;4;2;3;Moderately Likely to Churn
+625;Boston;10,0000;66500;Operations;3;4;Short;Single;High School;3;34,6456;Yes;3;3;2;Highly Likely to Churn'
+626;Scranton;4,0000;57500;Public Relations;5;4;Long;Married;High School;4;63,0000;Yes;4;0;2;Highly Likely to Churn'
+627;Boston;9,0000;70500;Procurement;2;4;Long;Married;Bachelor;4;30,0000;Yes;3;3;2;Highly Likely to Churn'
+628;Miami;11,0000;66.654,4980443;Legal;3;3;Medium;Single;High School;3;63,0000;Yes;3;2;2;Highly Likely to Churn'
+629;New York;3,0000;64000;Legal;4;4;Long;Single;Bachelor;3;23,3191;Yes;4;0;3;Moderately Likely to Churn
+630;Miami;5,0000;66500;Product Management;5;4;Short;Married;Bachelor;3;12,0000;Yes;4;0;3;Highly Likely to Churn'
+631;Boston;5,0000;59500;Accounting;4;4;Long;Married;High School;4;40,0000;Yes;4;0;2;Highly Likely to Churn'
+632;San Francisco;7,0000;73000;Product Management;5;4;Long;Divorced;Bachelor;4;12,0000;Yes;4;1;3;Moderately Likely to Churn
+633;San Francisco;8,0000;67500;Marketing;4;4;Medium;Divorced;High School;4;32,0000;Yes;4;1;2;Highly Likely to Churn'
+634;Denver;10,0000;72500;Sales;2;4;Medium;Married;Bachelor;4;30,0000;Yes;4;2;3;Highly Likely to Churn'
+635;New York;4,0000;63000;Marketing;5;4;Medium;Divorced;Bachelor;4;24,0000;Yes;4;0;4;Moderately Likely to Churn
+636;Los Angeles;1,0000;68500;Sales;4;4;Medium;Divorced;High School;3;40,0000;Yes;4;0;3;Moderately Likely to Churn
+637;San Francisco;8,0000;66500;Research and Development;3;4;Short;Married;High School;4;63,0000;Yes;5;2;3;Moderately Likely to Churn
+638;Miami;8,0000;55000;Human Resources;1;4;Medium;Single;High School;3;63,0000;Yes;3,5;1;3;Highly Likely to Churn'
+639;Scranton;6,0000;55000;Procurement;1;4;Long;Married;Bachelor;4;12,0000;Yes;3;0;2;Highly Likely to Churn'
+640;Dallas;7,0000;67000;Marketing;4;4;Medium;Married;Bachelor;4;30,0000;Yes;5;0;3;Moderately Likely to Churn
+641;Miami;5,0000;55500;Administration;5;4;Medium;Married;Bachelor;4;18,0000;Yes;3;0;2;Highly Likely to Churn'
+642;Denver;9,0000;69500;Product Management;3;4;Medium;Single;Bachelor;3;30,0000;Yes;3;3;1;Highly Likely to Churn'
+643;Chicago;10,0000;64000;Human Resources;3;4;Short;Divorced;Bachelor;3;34,6456;Yes;4;0;3;Moderately Likely to Churn
+644;Dallas;9,0000;60000;Quality Assurance;4;4;Medium;Divorced;High School;3;56,0000;Yes;3;0;2;Highly Likely to Churn'
+645;Scranton;4,0000;58000;Product Management;3;4;Long;Married;Bachelor;4;11,6469;Yes;4;0;2;Highly Likely to Churn'
+646;Scranton;14,0000;67000;Customer Service;4;4;Long;Married;Master;3;12,0000;Yes;4;3;3;Moderately Likely to Churn
+647;Philadelphia;1,0000;55500;Customer Service;3;4;Medium;Single;Bachelor;3;24,0000;Yes;3;0;2;Highly Likely to Churn'
+648;Scranton;8,0000;57500;Accounting;2;4;Long;Married;High School;4;63,0000;Yes;3,5;2;3;Moderately Likely to Churn
+649;Boston;6,0000;57500;Customer Service;3;4;Long;Married;High School;4;63,0000;Yes;3;0;3;Moderately Likely to Churn
+650;Los Angeles;6,0000;61000;Administration;3;3;Medium;Single;Bachelor;3;18,0000;Yes;4;0;3;Moderately Likely to Churn
+651;Los Angeles;9,0000;67500;Research and Development;4;4;Short;Married;High School;4;63,0000;Yes;3;3;3;Moderately Likely to Churn
+652;Chicago;4,0000;64500;Customer Service;3;4;Long;Married;Bachelor;4;36,0000;Yes;4;0;3;Moderately Likely to Churn
+653;Scranton;2,0000;47000;Research and Development;4;4;Short;Single;High School;3;34,6456;Yes;3;0;2;Highly Likely to Churn'
+654;New York;5,0000;66000;Human Resources;4;4;Short;Divorced;Bachelor;3;24,0000;Yes;2;0;2;Highly Likely to Churn'
+655;Boston;3,0000;59500;Customer Service;4;4;Medium;Divorced;High School;3;48,0000;Yes;3;0;3;Moderately Likely to Churn
+656;Los Angeles;14,0000;82500;Customer Service;3;4;Medium;Single;Master;3;24,0000;Yes;3;1;2;Highly Likely to Churn'
+657;San Francisco;2,0000;63500;Marketing;4;4;Long;Married;Bachelor;3;36,0000;Yes;3;0;2;Highly Likely to Churn'
+658;Dallas;5,0000;63000;Accounting;4;4;Medium;Married;Bachelor;3;12,0000;Yes;4;0;2;Highly Likely to Churn'
+659;Philadelphia;9,0000;66500;Product Management;4;4;Short;Single;High School;3;63,0000;Yes;3;0;3;Moderately Likely to Churn
+660;Seattle;4,0000;60000;Customer Service;3;4;Medium;Married;Bachelor;3;24,0000;Yes;4;0;3;Moderately Likely to Churn
+661;Los Angeles;2,0000;74500;IT Support;4;4;Long;Married;Master;3;30,0000;Yes;4;0;2;Highly Likely to Churn'
+662;Scranton;4,0000;53500;Human Resources;3;4;Medium;Married;Bachelor;3;18,0000;Yes;3;0;2;Highly Likely to Churn'
+663;Philadelphia;10,0000;71500;Sales;3;3;Long;Single;Bachelor;3;12,0000;Yes;3;0;2;Highly Likely to Churn'
+664;New York;7,0000;62500;Customer Service;2;4;Medium;Married;High School;4;48,0000;Yes;5;0;3;Moderately Likely to Churn
+665;Miami;7,0000;56500;IT Support;3;4;Medium;Single;Bachelor;4;36,0000;Yes;5;1;3;Highly Likely to Churn'
+666;New York;6,0000;74000;Product Management;3;4;Short;Married;High School;3;63,0000;Yes;4;0;2;Highly Likely to Churn'
+667;Philadelphia;5,0000;76000;Legal;4;2;Medium;Single;Bachelor;3;30,0000;Yes;4;0;3;Moderately Likely to Churn
+668;Scranton;7,0000;54500;Customer Service;5;4;Short;Single;Bachelor;4;30,0000;Yes;4;1;3;Moderately Likely to Churn
+669;Seattle;4,0000;60000;Accounting;3;4;Medium;Single;Bachelor;3;12,0000;Yes;3;0;2;Highly Likely to Churn'
+670;Los Angeles;6,0000;65000;Administration;3;4;Short;Married;Bachelor;4;24,0000;Yes;4;0;3;Moderately Likely to Churn
+671;Philadelphia;3,0000;75500;Public Relations;5;4;Long;Divorced;Bachelor;4;34,6456;Yes;3,5;0;2;Highly Likely to Churn'
+672;Philadelphia;5,0000;68000;Legal;3;4;Long;Married;Master;3;30,0000;Yes;3;0;3;Moderately Likely to Churn
+673;Seattle;6,0000;59000;Customer Service;4;4;Medium;Married;High School;3;32,5079;Yes;4;0;2;Highly Likely to Churn'
+674;Scranton;11,0000;70500;Sales;2;3;Medium;Single;Bachelor;3;30,3579;Yes;5;3;3;Moderately Likely to Churn
+675;Atlanta;15,0000;73000;Legal;3;4;Long;Single;Bachelor;3;34,6456;Yes;3;5;3;Highly Likely to Churn'
+676;San Francisco;3,0000;78000;Research and Development;5;4;Medium;Married;Master;4;34,6456;Yes;3;0;2;Highly Likely to Churn'
+677;Seattle;5,0000;62500;Sales;1;4;Long;Married;High School;4;40,0000;Yes;3;0;2;Highly Likely to Churn'
+678;Denver;10,0000;63000;Accounting;3;4;Long;Single;High School;3;63,0000;Yes;3;2;3;Highly Likely to Churn'
+679;New York;5,0000;78000;Research and Development;5;3;Long;Married;Bachelor;3;24,0000;Yes;3;0;2;Highly Likely to Churn'
+680;Los Angeles;2,0000;66000;Marketing;3;4;Medium;Married;Bachelor;4;34,6456;Yes;3;0;3;Moderately Likely to Churn
+681;Scranton;6,0000;54000;Customer Service;3;4;Medium;Married;Bachelor;4;12,0000;Yes;4;0;3;Moderately Likely to Churn
+682;New York;2,0000;68000;Customer Service;4;4;Short;Divorced;Bachelor;4;12,0000;Yes;3;0;2;Highly Likely to Churn'
+683;Scranton;8,0000;72500;Marketing;2;4;Medium;Single;Bachelor;3;18,0000;Yes;4;2;3;Moderately Likely to Churn
+684;Miami;17,5000;79500;Research and Development;3;4;Long;Single;Bachelor;3;18,0000;Yes;2;5;2;Highly Likely to Churn'
+685;Chicago;7,0000;62000;Legal;5;3;Long;Divorced;High School;3;63,0000;Yes;4;0;3;Moderately Likely to Churn
+686;Dallas;9,0000;63500;Operations;3;4;Short;Single;Bachelor;4;30,3187;Yes;3;3;4;Moderately Likely to Churn
+687;Boston;3,0000;74500;Marketing;4;4;Medium;Divorced;Bachelor;3;18,0000;Yes;3,5;0;3;Moderately Likely to Churn
+688;Los Angeles;4,0000;53000;Administration;3;4;Short;Single;High School;4;40,0000;Yes;5;0;4;Moderately Likely to Churn
+689;New York;11,0000;71500;Customer Service;3;4;Medium;Single;High School;4;34,6456;Yes;4;5;3;Moderately Likely to Churn
+690;New York;8,0000;69500;Human Resources;3;4;Medium;Single;Master;4;30,0000;Yes;4;1;2;Highly Likely to Churn'
+691;Miami;7,0000;58000;Operations;5;4;Short;Married;Bachelor;4;30,0000;Yes;4;1;3;Highly Likely to Churn'
+692;Los Angeles;3,0000;58000;Quality Assurance;2;3;Medium;Single;Bachelor;4;18,0000;Yes;4;0;3;Moderately Likely to Churn
+693;Philadelphia;10,0000;60500;Customer Service;4;4;Long;Married;Bachelor;4;36,0000;Yes;3;1;2;Highly Likely to Churn'
+694;Los Angeles;5,0000;79500;Public Relations;3;4;Long;Single;Bachelor;3;12,0000;Yes;3;0;2;Highly Likely to Churn'
+695;Los Angeles;10,0000;80000;Sales;4;4;Medium;Divorced;Bachelor;4;24,0000;Yes;5;4;3;Moderately Likely to Churn
+696;Boston;7,0000;71500;Sales;4;4;Short;Married;Bachelor;4;12,0000;Yes;3;0;2;Highly Likely to Churn'
+697;New York;9,0000;68500;Accounting;3;4;Short;Single;High School;3;63,0000;Yes;4;3;2;Highly Likely to Churn'
+698;Dallas;9,0000;58500;Marketing;5;4;Long;Married;Bachelor;4;18,0000;Yes;5;3;3;Moderately Likely to Churn
+699;Los Angeles;4,0000;53500;Human Resources;2;4;Medium;Divorced;Bachelor;4;12,0000;Yes;4;0;2;Highly Likely to Churn'
+700;New York;7,0000;67000;Human Resources;5;5;Short;Married;High School;4;32,0000;Yes;4;1;2;Highly Likely to Churn'
+701;Boston;3,0000;63000;Sales;1;4;Long;Single;High School;3;40,0000;Yes;5;0;3;Moderately Likely to Churn
+702;Chicago;5,0000;71000;Public Relations;3;4;Short;Married;High School;4;63,0000;Yes;3;0;2;Highly Likely to Churn'
+703;New York;7,6121;65000;Product Management;2;4;Medium;Single;High School;3;63,0000;Yes;4;0;3;Moderately Likely to Churn
+704;Los Angeles;5,0000;60000;Customer Service;5;4;Medium;Married;Bachelor;3;18,0000;Yes;2;0;1;Highly Likely to Churn'
+705;Chicago;4,0000;70000;Accounting;3;4;Short;Single;Bachelor;3;24,0000;Yes;3,5;0;2;Highly Likely to Churn'
+706;Scranton;1,0000;53500;IT Support;2;4;Short;Divorced;Bachelor;3;36,0000;Yes;3;0;2;Highly Likely to Churn'
+707;Chicago;10,0000;54500;Quality Assurance;3;3;Short;Married;High School;3;63,0000;Yes;4;3;3;Moderately Likely to Churn
+708;Denver;3,0000;58000;Accounting;3;4;Medium;Divorced;Bachelor;4;30,0000;Yes;3;0;2;Highly Likely to Churn'
+709;Boston;4,0000;78000;Sales;4;4;Medium;Married;Master;3;29,4361;Yes;4;0;3;Moderately Likely to Churn
+710;Denver;8,0000;57500;Human Resources;5;4;Medium;Married;High School;4;40,0000;Yes;2;0;2;Highly Likely to Churn'
+711;San Francisco;10,0000;80000;Procurement;4;4;Long;Divorced;Bachelor;4;6,0000;Yes;3;2;2;Highly Likely to Churn'
+712;Los Angeles;6,0000;70500;Facilities Management;3;4;Medium;Married;High School;4;63,0000;Yes;4;0;2;Highly Likely to Churn'
+713;Chicago;14,0000;74500;IT Support;4;4;Short;Married;High School;3;63,0000;Yes;3;5;2;Highly Likely to Churn'
+714;San Francisco;3,0000;68000;Product Management;1;4;Long;Divorced;High School;4;32,0000;Yes;4;0;3;Moderately Likely to Churn
+715;Seattle;8,0000;54500;Product Management;1;4;Short;Divorced;High School;3;34,6456;Yes;4;2;3;Moderately Likely to Churn
+716;Seattle;3,0000;52000;Human Resources;2;4;Short;Divorced;High School;3;56,1186;Yes;3;0;3;Highly Likely to Churn'
+717;New York;4,0000;70500;Quality Assurance;5;4;Medium;Single;Bachelor;3;6,0000;Yes;4;0;2;Highly Likely to Churn'
+718;Chicago;5,0000;62000;Procurement;4;4;Medium;Married;Bachelor;4;30,0000;Yes;3,5;0;2;Highly Likely to Churn'
+719;Seattle;15,0000;71500;IT Support;3;4;Long;Married;High School;4;63,0000;Yes;3,5;5;2;Highly Likely to Churn'
+720;Atlanta;2,0000;56000;Research and Development;5;4;Long;Single;Bachelor;4;18,0000;Yes;3;0;3;Highly Likely to Churn'
+721;Scranton;6,0000;55000;Public Relations;3;4;Medium;Married;Bachelor;4;34,6456;Yes;4;0;3;Moderately Likely to Churn
+722;New York;7,0000;64000;Marketing;2;4;Medium;Single;Bachelor;4;24,0000;Yes;4;1;3;Moderately Likely to Churn
+723;New York;8,0000;73000;IT Support;4;4;Medium;Married;Master;4;30,0000;Yes;4;0;2;Highly Likely to Churn'
+724;Los Angeles;9,0000;75000;IT Support;3;4;Medium;Married;Bachelor;4;18,0000;Yes;3,5;1;3;Moderately Likely to Churn
+725;Seattle;2,0000;66000;Operations;5;4;Short;Single;High School;3;32,0000;Yes;4;0;3;Moderately Likely to Churn
+726;Boston;6,0000;53000;Quality Assurance;2;4;Long;Married;Bachelor;3;18,0000;Yes;4;0;3;Moderately Likely to Churn
+727;Philadelphia;3,0000;62000;Human Resources;4;4;Medium;Single;Master;3;34,6456;Yes;3;0;2;Highly Likely to Churn'
+728;Chicago;16,0000;88500;Sales;5;4;Medium;Married;Bachelor;4;36,0000;Yes;3;5;2;Highly Likely to Churn'
+729;Atlanta;7,0000;72500;Legal;4;4;Medium;Married;Bachelor;3;24,0000;Yes;4;1;4;Highly Likely to Churn'
+730;Los Angeles;3,0000;58500;Accounting;5;4;Short;Divorced;High School;4;32,0000;Yes;4;0;3;Moderately Likely to Churn
+731;Denver;4,0000;57000;Accounting;4;4;Short;Married;High School;4;48,0000;Yes;4;0;3;Highly Likely to Churn'
+732;Scranton;3,0000;57000;Public Relations;5;5;Medium;Married;Bachelor;4;12,0000;Yes;4;0;4;Moderately Likely to Churn
+733;Philadelphia;2,0000;65500;IT Support;2;4;Short;Married;Bachelor;4;36,0000;Yes;4;0;3;Moderately Likely to Churn
+734;Seattle;13,0000;75000;Accounting;2;4;Long;Single;Bachelor;3;24,0000;Yes;4;5;3;Moderately Likely to Churn
+735;San Francisco;7,0000;73000;IT Support;3;4;Long;Single;Bachelor;3;12,0000;Yes;4;0;2;Highly Likely to Churn'
+736;Philadelphia;4,0000;66500;Research and Development;4;4;Long;Divorced;Master;4;18,0000;Yes;4;0;3;Moderately Likely to Churn
+737;Boston;3,0000;68000;Marketing;3;4;Medium;Divorced;Bachelor;4;18,0359;Yes;4;0;3;Moderately Likely to Churn
+738;Atlanta;7,0000;62500;Quality Assurance;3;4;Medium;Divorced;High School;4;40,0000;Yes;4;0;2;Highly Likely to Churn'
+739;Boston;16,0000;76500;Customer Service;5;4;Short;Divorced;Bachelor;4;12,0000;Yes;3;1;3;Moderately Likely to Churn
+740;Chicago;13,0000;76500;Procurement;4;4;Short;Divorced;Bachelor;4;34,6456;Yes;4;2;3;Moderately Likely to Churn
+741;Atlanta;5,0000;61500;Accounting;2;4;Short;Single;Bachelor;3;31,0220;Yes;3;0;2;Highly Likely to Churn'
+742;Chicago;1,0000;64500;Marketing;4;3;Long;Married;Bachelor;4;18,0000;Yes;4;0;3;Moderately Likely to Churn
+743;Chicago;12,0000;72500;Procurement;5;4;Medium;Divorced;Bachelor;4;24,0000;Yes;3,5;5;3;Moderately Likely to Churn
+744;Seattle;6,0000;61500;Marketing;3;4;Medium;Married;Bachelor;4;24,0000;Yes;4;0;3;Moderately Likely to Churn
+745;Miami;4,0000;76000;Sales;4;4;Medium;Married;Master;4;36,0000;Yes;3;0;2;Highly Likely to Churn'
+746;Boston;6,0000;63500;Marketing;2;4;Long;Divorced;Bachelor;3;24,0000;Yes;4;0;3;Moderately Likely to Churn
+747;Scranton;9,0000;72500;Research and Development;3;4;Medium;Married;High School;3;40,0000;Yes;3;1;2;Highly Likely to Churn'
+748;Boston;17,0000;81500;Product Management;4;4;Short;Single;Bachelor;3;12,0000;Yes;3;5;2;Highly Likely to Churn'
+749;Philadelphia;9,0000;79500;Marketing;4;3;Short;Married;Bachelor;4;12,0000;Yes;3;2;3;Moderately Likely to Churn
+750;Atlanta;8,0000;65500;Sales;2;4;Long;Married;High School;4;63,0000;Yes;4;1;3;Highly Likely to Churn'
+751;Scranton;12,0000;57000;Quality Assurance;4;4;Medium;Married;Bachelor;4;36,0000;Yes;2;3;2;Highly Likely to Churn'
+752;New York;17,5000;77000;Sales;4;4;Long;Married;High School;4;32,0000;Yes;3;5;2;Highly Likely to Churn'
+753;Scranton;8,0000;65000;Research and Development;4;4;Medium;Divorced;Bachelor;3;24,0000;Yes;3;1;3;Moderately Likely to Churn
+754;Chicago;2,0000;56500;Marketing;4;4;Long;Married;Bachelor;4;6,0000;Yes;3;0;2;Highly Likely to Churn'
+755;Los Angeles;5,0000;59500;Customer Service;3;3;Medium;Single;High School;3;56,0000;Yes;3;0;2;Highly Likely to Churn'
+756;Scranton;17,5000;70500;Research and Development;5;5;Short;Married;High School;3;63,0000;Yes;3;5;3;Highly Likely to Churn'
+757;Seattle;17,5000;85000;Sales;2;4;Long;Married;Bachelor;3;36,0000;Yes;2;0;2;Highly Likely to Churn'
+758;Chicago;3,0000;72000;Customer Service;4;4;Short;Married;Bachelor;4;12,0000;Yes;3;0;2;Highly Likely to Churn'
+759;Scranton;3,0000;59500;Operations;5;3;Long;Divorced;Bachelor;3;30,0000;Yes;3;0;2;Highly Likely to Churn'
+760;Los Angeles;12,0000;88500;Sales;3;4;Short;Divorced;Master;3;36,0000;Yes;3;4;1;Highly Likely to Churn'
+761;Philadelphia;13,0000;83500;Sales;3;4;Short;Divorced;Bachelor;3;36,0000;Yes;3;0;1;Highly Likely to Churn'
+762;Philadelphia;8,0000;64000;Accounting;5;4;Medium;Single;High School;3;32,0000;Yes;3;0;2;Highly Likely to Churn'
+763;Boston;8,0000;78500;Marketing;3;3;Short;Married;Bachelor;3;24,0000;Yes;4;2;2;Highly Likely to Churn'
+764;Boston;3,0000;72500;Product Management;3;4;Long;Divorced;Bachelor;4;18,0000;Yes;4;0;3;Moderately Likely to Churn
+765;Chicago;9,0000;72000;Legal;3;4;Medium;Married;Bachelor;4;12,0000;Yes;3;1;2;Highly Likely to Churn'
+766;Seattle;7,0000;69000;Sales;2;4;Long;Married;Bachelor;4;34,6456;Yes;4;1;3;Moderately Likely to Churn
+767;Seattle;7,0000;50500;Human Resources;3;4;Long;Divorced;Bachelor;3;34,6456;Yes;4;1;3;Moderately Likely to Churn
+768;New York;9,0000;72500;Legal;4;4;Short;Married;High School;4;48,0000;Yes;3;2;2;Highly Likely to Churn'
+769;Boston;7,6121;87000;Sales;4;4;Medium;Married;Bachelor;4;24,0000;Yes;3;5;2;Highly Likely to Churn'
+770;San Francisco;4,0000;71000;Research and Development;3;3;Medium;Single;Bachelor;3;29,9978;Yes;3;0;1;Highly Likely to Churn'
+771;San Francisco;17,0000;74500;Quality Assurance;2;3;Short;Married;Master;3;34,6456;Yes;4;5;3;Moderately Likely to Churn
+772;Dallas;17,5000;70500;Operations;3;4;Medium;Married;Bachelor;3;6,5243;Yes;3;5;4;Moderately Likely to Churn
+773;Scranton;4,0000;57000;Sales;5;4;Long;Married;Bachelor;3;12,0000;Yes;3;0;2;Highly Likely to Churn'
+774;Seattle;8,0000;77500;Sales;4;4;Medium;Divorced;Bachelor;4;34,6456;Yes;4;0;2;Highly Likely to Churn'
+775;New York;17,5000;85500;Customer Service;3;4;Medium;Married;Bachelor;3;30,0000;Yes;3;5;2;Highly Likely to Churn'
+776;New York;16,0000;72000;Research and Development;3;4;Medium;Married;Bachelor;3;12,0000;Yes;3;4;2;Highly Likely to Churn'
+777;Philadelphia;4,0000;54500;Legal;2;4;Short;Married;High School;4;56,0000;Yes;3,5;0;3;Moderately Likely to Churn
+778;New York;9,0000;75000;Facilities Management;4;4;Short;Single;Master;3;36,0000;Yes;3;3;2;Highly Likely to Churn'
+779;Los Angeles;13,0000;72000;Customer Service;3;4;Short;Divorced;Bachelor;3;34,6456;Yes;2;3;2;Highly Likely to Churn'
+780;Boston;17,5000;77500;Marketing;1;3;Short;Married;Bachelor;3;34,6456;Yes;4;5;3;Moderately Likely to Churn
+781;Los Angeles;5,0000;68000;Public Relations;4;4;Medium;Single;Bachelor;3;12,0000;Yes;5;0;4;Moderately Likely to Churn
+782;Los Angeles;8,0000;83500;Operations;4;4;Short;Married;Bachelor;4;24,1152;Yes;3;1;3;Highly Likely to Churn'
+783;Los Angeles;5,0000;67500;Procurement;4;4;Medium;Married;Bachelor;3;12,0000;Yes;3;0;1;Highly Likely to Churn'
+784;Chicago;9,0000;76000;Procurement;2;4;Medium;Single;Bachelor;3;24,0000;Yes;4;2;2;Highly Likely to Churn'
+785;Scranton;3,0000;46000;Customer Service;4;4;Medium;Married;Bachelor;3;18,0000;Yes;3;0;2;Highly Likely to Churn'
+786;Philadelphia;12,0000;73000;Marketing;3;3;Medium;Divorced;Bachelor;3;30,0000;Yes;4;0;3;Moderately Likely to Churn
+787;New York;1,0000;57000;Marketing;3;3;Medium;Single;High School;3;63,0000;Yes;2;0;2;Highly Likely to Churn'
+788;New York;3,0000;62500;Customer Service;5;4;Medium;Married;Bachelor;4;18,0000;Yes;5;0;4;Moderately Likely to Churn
+789;Boston;17,5000;85000;Public Relations;5;4;Medium;Married;Bachelor;3;12,0000;Yes;3;5;2;Highly Likely to Churn'
+790;San Francisco;8,0000;63000;Customer Service;4;4;Short;Married;Bachelor;4;18,0000;Yes;3;0;3;Moderately Likely to Churn
+791;Philadelphia;4,0000;61000;Facilities Management;4;3;Long;Single;High School;3;40,2484;Yes;3;0;2;Highly Likely to Churn'
+792;Chicago;7,0000;66000;Legal;5;4;Long;Married;Bachelor;4;12,0000;Yes;3;0;2;Highly Likely to Churn'
+793;Seattle;5,0000;62000;Procurement;3;4;Medium;Married;Bachelor;4;24,0000;Yes;3;0;2;Highly Likely to Churn'
+794;Scranton;7,0000;63000;Product Management;3;4;Long;Single;Bachelor;4;18,0000;Yes;5;1;3;Moderately Likely to Churn
+795;San Francisco;6,0000;78500;Customer Service;2;4;Short;Single;Bachelor;3;12,0000;Yes;3;0;2;Highly Likely to Churn'
+796;Los Angeles;9,0000;57500;Quality Assurance;3;4;Medium;Married;High School;4;63,0000;Yes;3;3;3;Moderately Likely to Churn
+797;Boston;14,0000;80000;IT Support;2;4;Short;Divorced;Master;3;34,6456;Yes;4;4;3;Moderately Likely to Churn
+798;Seattle;13,0000;70500;Sales;4;4;Short;Married;High School;3;63,0000;Yes;2;5;1;Highly Likely to Churn'
+799;Philadelphia;3,0000;58500;Procurement;3;4;Long;Married;High School;3;63,0000;Yes;3;0;2;Highly Likely to Churn'
+800;Chicago;17,5000;79000;Accounting;5;4;Medium;Single;Bachelor;3;18,0000;Yes;3;5;2;Highly Likely to Churn'
+801;Miami;11,0000;69000;Procurement;3;4;Medium;Divorced;Bachelor;3;24,0000;Yes;5;3;4;Highly Likely to Churn'
+802;Boston;8,0000;64500;Customer Service;4;4;Short;Divorced;Bachelor;4;36,0000;Yes;4;2;4;Moderately Likely to Churn
+803;New York;17,5000;88000;Research and Development;5;4;Medium;Divorced;Bachelor;3;34,6456;Yes;3;5;2;Highly Likely to Churn'
+804;New York;6,0000;71500;Operations;3;4;Long;Married;High School;4;34,6456;Yes;3;0;2;Highly Likely to Churn'
+805;San Francisco;6,0000;67500;Quality Assurance;4;4;Short;Single;High School;4;63,0000;Yes;4;0;2;Highly Likely to Churn'
+806;Los Angeles;10,0000;70500;Administration;3;4;Long;Divorced;Bachelor;3;34,6456;Yes;4;1;3;Moderately Likely to Churn
+807;Miami;3,0000;65000;Accounting;2;4;Long;Divorced;Bachelor;4;30,0000;Yes;3,5;0;3;Highly Likely to Churn'
+808;Boston;10,0000;80000;Public Relations;2;4;Short;Married;Master;3;34,6456;Yes;3,5;4;1;Highly Likely to Churn'
+809;New York;3,0000;66500;Marketing;1;4;Medium;Married;Bachelor;4;30,0000;Yes;4;0;3;Moderately Likely to Churn
+810;Scranton;11,0000;73000;Sales;2;4;Medium;Married;Bachelor;3;18,4140;Yes;4;5;2;Moderately Likely to Churn
+811;Chicago;2,0000;57000;Customer Service;4;4;Medium;Married;Bachelor;3;30,0000;Yes;4;0;2;Highly Likely to Churn'
+812;Los Angeles;4,0000;71500;Sales;2;3;Long;Divorced;Bachelor;3;30,0000;Yes;3;0;2;Highly Likely to Churn'
+813;Los Angeles;5,0000;64500;Operations;4;4;Short;Married;Bachelor;3;30,0000;Yes;3;0;2;Highly Likely to Churn'
+814;San Francisco;10,0000;65000;Operations;3;3;Medium;Single;Bachelor;3;34,6456;Yes;4;4;3;Moderately Likely to Churn
+815;Boston;10,0000;73500;Public Relations;4;4;Long;Single;Bachelor;3;12,0000;Yes;4;0;3;Moderately Likely to Churn
+816;Los Angeles;7,0000;66000;Quality Assurance;2;4;Medium;Single;Bachelor;3;36,0000;Yes;3;1;3;Moderately Likely to Churn
+817;Scranton;6,0000;60500;Research and Development;4;3;Short;Single;Master;4;34,6456;Yes;3;0;3;Moderately Likely to Churn
+818;Chicago;14,0000;57500;Facilities Management;1;4;Long;Single;High School;3;24,0000;Yes;3;2;2;Highly Likely to Churn'
+819;Atlanta;8,0000;67500;Operations;3;4;Long;Married;Bachelor;3;24,0000;Yes;4;1;2;Highly Likely to Churn'
+820;Philadelphia;1,0000;68000;Quality Assurance;4;4;Medium;Married;Bachelor;3;34,6456;Yes;3;0;2;Highly Likely to Churn'
+821;Boston;2,0000;51500;Operations;2;3;Short;Single;Bachelor;3;24,0000;Yes;3;0;3;Highly Likely to Churn'
+822;Dallas;7,0000;62000;Customer Service;5;4;Long;Married;High School;3;63,0000;Yes;4;0;2;Highly Likely to Churn'
+823;Denver;6,0000;59000;Customer Service;5;4;Medium;Married;Bachelor;4;12,0000;Yes;4;0;3;Highly Likely to Churn'
+824;Atlanta;6,0000;60500;Public Relations;5;4;Long;Married;High School;4;32,0000;Yes;4;0;2;Highly Likely to Churn'
+825;Los Angeles;5,0000;69500;Marketing;5;4;Long;Single;Bachelor;3;12,0000;Yes;3;0;1;Highly Likely to Churn'
+826;New York;9,0000;75000;Sales;5;4;Short;Single;High School;4;24,0000;Yes;3;1;2;Highly Likely to Churn'
+827;New York;5,0000;58000;Human Resources;1;4;Medium;Married;High School;4;63,0000;Yes;4;0;3;Moderately Likely to Churn
+828;Boston;11,0000;73000;Legal;3;4;Long;Married;Bachelor;3;12,0000;Yes;3;2;2;Highly Likely to Churn'
+829;Chicago;12,0000;79500;Sales;4;4;Medium;Single;Bachelor;3;30,0000;Yes;3;5;2;Highly Likely to Churn'
+830;Chicago;8,0000;56000;Administration;3;4;Short;Married;High School;4;40,0000;Yes;5;2;3;Moderately Likely to Churn
+831;Miami;4,0000;62000;Procurement;5;4;Medium;Married;Bachelor;3;30,0000;Yes;4;0;3;Highly Likely to Churn'
+832;Los Angeles;11,0000;66.654,4980443;Marketing;2;4;Medium;Married;High School;3;32,0000;Yes;4;3;2;Highly Likely to Churn'
+833;Miami;1,0000;49000;Research and Development;4;4;Long;Divorced;Bachelor;4;6,0000;Yes;4;0;3;Highly Likely to Churn'
+834;Dallas;9,0000;58000;Operations;5;4;Medium;Married;Bachelor;4;6,0000;Yes;4;1;2;Highly Likely to Churn'
+835;Los Angeles;9,0000;57000;Facilities Management;3;4;Medium;Married;High School;4;34,6456;Yes;3;2;1;Highly Likely to Churn'
+836;Atlanta;8,0000;59000;Facilities Management;4;4;Long;Single;Bachelor;3;34,6456;Yes;3;1;3;Highly Likely to Churn'
+837;Scranton;1,0000;53500;Accounting;4;4;Medium;Single;Bachelor;4;30,6627;Yes;4;0;3;Moderately Likely to Churn
+838;Los Angeles;7,0000;72000;Customer Service;3;2;Medium;Single;Master;3;12,0000;Yes;4;1;3;Moderately Likely to Churn
+839;Atlanta;6,0000;68000;Sales;3;4;Long;Married;Bachelor;4;36,0000;Yes;3;0;2;Highly Likely to Churn'
+840;Boston;4,0000;59500;Procurement;5;4;Medium;Married;Bachelor;4;24,0000;Yes;4;0;3;Moderately Likely to Churn
+841;New York;3,0000;68000;Research and Development;2;4;Short;Married;Bachelor;3;6,0000;Yes;3;0;2;Highly Likely to Churn'
+842;Scranton;15,0000;66000;Legal;4;4;Medium;Married;Bachelor;3;23,8029;Yes;3;5;2;Highly Likely to Churn'
+843;Denver;12,0000;73000;Research and Development;2;4;Short;Divorced;Bachelor;3;18,0000;Yes;3,5;3;2;Highly Likely to Churn'
+844;New York;4,0000;64000;Operations;4;4;Long;Married;Bachelor;4;36,0000;Yes;3,5;0;3;Moderately Likely to Churn
+845;New York;8,0000;67000;Accounting;4;4;Medium;Married;High School;4;34,6456;Yes;4;0;3;Moderately Likely to Churn
+846;Dallas;6,0000;58000;Accounting;4;3;Medium;Divorced;High School;3;34,6456;Yes;4;0;3;Moderately Likely to Churn
+847;Seattle;8,0000;66500;Marketing;4;4;Long;Divorced;Bachelor;3;12,0000;Yes;3;2;2;Highly Likely to Churn'
+848;San Francisco;13,0000;73500;Research and Development;3;4;Short;Single;High School;3;48,0000;Yes;3;5;3;Highly Likely to Churn'
+849;New York;5,0000;68000;Research and Development;3;4;Long;Married;Bachelor;3;30,0000;Yes;2;0;1;Highly Likely to Churn'
+850;Philadelphia;8,0000;76000;IT Support;3;4;Medium;Divorced;High School;4;56,0000;Yes;4;0;3;Moderately Likely to Churn
+851;Los Angeles;1,0000;64000;Quality Assurance;5;4;Medium;Divorced;Bachelor;4;18,0000;Yes;3;0;2;Highly Likely to Churn'
+852;Seattle;6,0000;62000;Legal;3;4;Medium;Married;Bachelor;3;24,0000;Yes;2;0;2;Highly Likely to Churn'
+853;Denver;6,0000;74000;Sales;4;5;Medium;Married;Bachelor;4;18,0000;Yes;4;0;2;Highly Likely to Churn'
+854;Seattle;1,0000;47500;Operations;4;3;Short;Divorced;High School;3;63,0000;Yes;4;0;2;Highly Likely to Churn'
+855;Chicago;4,0000;58500;Legal;5;4;Short;Married;High School;4;56,0000;Yes;4;0;3;Moderately Likely to Churn
+856;Boston;17,5000;70500;Customer Service;3;4;Medium;Divorced;Bachelor;4;6,0000;Yes;3;5;2;Highly Likely to Churn'
+857;Atlanta;8,0000;65000;Accounting;3;4;Short;Married;High School;4;56,0000;Yes;3;0;3;Highly Likely to Churn'
+858;Denver;9,0000;72500;Human Resources;3;4;Short;Married;Bachelor;4;30,0000;Yes;4;2;3;Highly Likely to Churn'
+859;Chicago;5,0000;64500;Customer Service;2;4;Medium;Single;Bachelor;3;24,0000;Yes;2;0;1;Highly Likely to Churn'
+860;Dallas;5,0000;67500;Sales;3;4;Short;Married;Bachelor;3;30,0000;Yes;4;0;2;Highly Likely to Churn'
+861;Los Angeles;4,0000;76500;Marketing;3;4;Medium;Single;Bachelor;3;36,0000;Yes;4;0;3;Moderately Likely to Churn
+862;Scranton;10,0000;54500;Research and Development;2;3;Medium;Married;High School;4;32,0000;Yes;4;3;3;Moderately Likely to Churn
+863;Chicago;6,0000;68000;Research and Development;4;4;Short;Divorced;Master;4;30,0000;Yes;4;0;3;Moderately Likely to Churn
+864;Scranton;4,0000;47500;Customer Service;4;4;Short;Married;High School;4;63,0000;Yes;3;0;3;Moderately Likely to Churn
+865;Chicago;6,0000;77000;Sales;2;4;Short;Married;Master;4;24,0000;Yes;3;0;3;Moderately Likely to Churn
+866;Atlanta;13,0000;65500;Accounting;3;4;Medium;Single;High School;3;47,1417;Yes;5;4;3;Highly Likely to Churn'
+867;Seattle;7,0000;66000;IT Support;2;4;Long;Married;Master;4;30,0000;Yes;3;1;1;Highly Likely to Churn'
+868;Philadelphia;6,0000;69000;Product Management;4;4;Long;Married;Bachelor;4;6,0000;Yes;3;0;3;Moderately Likely to Churn
+869;San Francisco;6,0000;64500;Research and Development;5;4;Medium;Married;Bachelor;4;24,0000;Yes;4;0;3;Moderately Likely to Churn
+870;Los Angeles;4,0000;75500;Marketing;4;4;Medium;Married;Bachelor;4;12,0000;Yes;4;0;2;Highly Likely to Churn'
+871;Seattle;5,0000;59000;IT Support;4;4;Short;Married;Bachelor;3;30,0000;Yes;4;0;3;Moderately Likely to Churn
+872;Miami;9,0000;58500;Operations;4;4;Short;Divorced;High School;4;56,0000;Yes;5;1;4;Highly Likely to Churn'
+873;Miami;6,0000;62000;Quality Assurance;5;5;Short;Divorced;Bachelor;3;23,4471;Yes;3;0;3;Highly Likely to Churn'
+874;Philadelphia;6,0000;69000;Marketing;3;4;Medium;Married;Bachelor;3;18,0000;Yes;4;0;2;Highly Likely to Churn'
+875;New York;13,0000;83500;Accounting;4;4;Long;Divorced;Bachelor;3;24,0000;Yes;3;1;2;Highly Likely to Churn'
+876;New York;14,0000;82000;Accounting;4;4;Medium;Divorced;Bachelor;3;18,0000;Yes;3;2;2;Highly Likely to Churn'
+877;Chicago;17,5000;80000;Accounting;3;4;Medium;Divorced;Bachelor;3;36,0000;Yes;4;5;3;Moderately Likely to Churn
+878;Scranton;10,0000;65500;IT Support;5;4;Medium;Married;Bachelor;4;30,0000;Yes;3;3;3;Moderately Likely to Churn
+879;Scranton;7,0000;47500;Procurement;2;3;Long;Married;High School;3;40,0000;Yes;3;1;3;Moderately Likely to Churn
+880;Seattle;9,0000;69000;Legal;3;4;Medium;Married;Bachelor;4;24,0000;Yes;3;2;3;Moderately Likely to Churn
+881;San Francisco;2,0000;67500;Legal;5;4;Short;Single;High School;3;63,0000;Yes;3,5;0;2;Highly Likely to Churn'
+882;Boston;5,0000;73500;Sales;4;4;Long;Married;Bachelor;4;36,0000;Yes;4;0;3;Moderately Likely to Churn
+883;Los Angeles;7,0000;57000;Facilities Management;4;4;Medium;Married;High School;4;63,0000;Yes;5;0;3;Moderately Likely to Churn
+884;Atlanta;9,0000;74500;Procurement;3;4;Long;Divorced;Bachelor;4;18,0000;Yes;3;1;2;Highly Likely to Churn'
+885;Scranton;16,0000;68500;Research and Development;5;4;Short;Married;Bachelor;3;34,6456;Yes;4;5;3;Moderately Likely to Churn
+886;Chicago;8,0000;63500;Operations;4;4;Long;Married;Bachelor;3;30,0000;Yes;3;1;2;Highly Likely to Churn'
+887;Los Angeles;4,0000;75000;Sales;2;4;Short;Married;Bachelor;3;18,0000;Yes;3;0;2;Highly Likely to Churn'
+888;Boston;2,0000;61000;Public Relations;3;4;Long;Married;Bachelor;4;24,0000;Yes;3;0;2;Highly Likely to Churn'
+889;Seattle;6,0000;61500;Operations;3;4;Medium;Divorced;High School;3;32,0000;Yes;3;0;2;Highly Likely to Churn'
+890;Philadelphia;3,0000;60500;IT Support;4;4;Long;Married;Bachelor;3;24,0000;Yes;3;0;2;Highly Likely to Churn'
+891;Dallas;7,0000;53000;Operations;5;4;Short;Single;High School;3;40,0000;Yes;3;1;2;Highly Likely to Churn'
+892;Seattle;5,0000;60000;Operations;2;4;Long;Married;Bachelor;3;24,0000;Yes;3;0;2;Highly Likely to Churn'
+893;Miami;3,0000;48500;Human Resources;4;4;Medium;Divorced;High School;4;63,0000;Yes;4;0;3;Highly Likely to Churn'
+894;Boston;7,0000;64000;Administration;3;4;Medium;Married;High School;4;56,0000;Yes;3;0;3;Moderately Likely to Churn
+895;Seattle;7,0000;67000;Human Resources;4;4;Long;Married;Bachelor;3;18,0000;Yes;4;0;2;Highly Likely to Churn'
+896;Chicago;10,0000;70500;Marketing;5;4;Medium;Divorced;Bachelor;4;18,0000;Yes;3,5;3;2;Highly Likely to Churn'
+897;Atlanta;3,0000;66500;Public Relations;4;4;Long;Single;Master;3;34,6456;Yes;4;0;2;Highly Likely to Churn'
+898;Scranton;8,0000;59000;Accounting;5;4;Medium;Married;High School;3;32,0000;Yes;3;0;3;Moderately Likely to Churn
+899;Seattle;7,0000;57000;Customer Service;4;2;Medium;Single;High School;3;48,8174;Yes;3;1;2;Highly Likely to Churn'
+900;Miami;4,0000;62000;Sales;5;4;Medium;Married;Bachelor;3;12,0000;Yes;3;0;2;Highly Likely to Churn'
+901;New York;5,0000;80000;Human Resources;4;3;Medium;Single;High School;3;63,0000;Yes;3;0;1;Highly Likely to Churn'
+902;Dallas;8,0000;66000;Sales;4;4;Short;Single;High School;3;56,0000;Yes;3;1;3;Moderately Likely to Churn
+903;Los Angeles;3,0000;62500;Research and Development;3;4;Short;Single;Bachelor;4;24,0000;Yes;3;0;3;Moderately Likely to Churn
+904;Boston;5,0000;70500;Sales;5;4;Short;Married;High School;4;63,0000;Yes;4;0;3;Moderately Likely to Churn
+905;Philadelphia;5,0000;60000;Operations;3;4;Short;Married;Bachelor;4;30,0000;Yes;4;0;3;Moderately Likely to Churn
+906;Los Angeles;9,0000;66000;Research and Development;4;4;Medium;Married;High School;3;34,6456;Yes;3;2;2;Highly Likely to Churn'
+907;Philadelphia;8,0000;67000;Operations;3;3;Short;Married;High School;4;63,0000;Yes;3;0;2;Highly Likely to Churn'
+908;New York;10,0000;65000;Operations;2;5;Medium;Married;High School;4;34,6456;Yes;4;4;3;Highly Likely to Churn'
+909;New York;3,0000;70000;Operations;5;3;Long;Single;Master;3;12,0000;Yes;3;0;2;Highly Likely to Churn'
+910;Los Angeles;7,0000;80000;Sales;4;4;Short;Married;Master;4;12,0000;Yes;5;1;4;Moderately Likely to Churn
+911;Los Angeles;2,0000;66000;Human Resources;5;4;Long;Married;Bachelor;3;24,0000;Yes;3;0;3;Moderately Likely to Churn
+912;Denver;5,0000;68000;IT Support;5;4;Long;Divorced;Master;4;12,0000;Yes;3;0;2;Highly Likely to Churn'
+913;Denver;11,0000;67000;Facilities Management;3;4;Long;Divorced;High School;3;63,0000;Yes;4;1;3;Highly Likely to Churn'
+914;Dallas;11,0000;61000;Facilities Management;3;4;Medium;Married;High School;4;63,0000;Yes;5;2;3;Moderately Likely to Churn
+915;Los Angeles;3,0000;72000;Research and Development;3;3;Long;Married;Bachelor;3;36,0000;Yes;3;0;2;Highly Likely to Churn'
+916;Philadelphia;4,0000;70000;Accounting;3;4;Long;Divorced;Bachelor;3;24,0000;Yes;3;0;3;Moderately Likely to Churn
+917;New York;1,0000;65000;IT Support;4;4;Short;Married;High School;4;63,0000;Yes;4;0;3;Moderately Likely to Churn
+918;Scranton;6,0000;61000;Sales;5;4;Medium;Married;Bachelor;4;36,0000;Yes;2;0;2;Highly Likely to Churn'
+919;Boston;2,0000;46500;Research and Development;2;3;Short;Divorced;Bachelor;4;5,7265;Yes;3;0;3;Moderately Likely to Churn
+920;Boston;3,0000;56000;Accounting;4;4;Medium;Married;High School;4;32,0000;Yes;4;0;3;Moderately Likely to Churn
+921;Boston;5,0000;65000;Product Management;4;3;Medium;Divorced;Bachelor;3;24,0000;Yes;3;0;2;Highly Likely to Churn'
+922;Philadelphia;5,0000;72000;Operations;4;4;Medium;Married;Bachelor;3;18,0000;Yes;4;0;3;Moderately Likely to Churn
+923;San Francisco;12,0000;73500;Marketing;5;4;Short;Married;High School;4;63,0000;Yes;3;5;2;Highly Likely to Churn'
+924;Miami;11,0000;53500;Sales;2;3;Short;Married;High School;3;48,0000;Yes;4;3;3;Highly Likely to Churn'
+925;Scranton;7,6121;69500;Sales;4;4;Medium;Married;Bachelor;3;24,0000;Yes;3;2;2;Highly Likely to Churn'
+926;Chicago;7,0000;61000;Accounting;1;3;Medium;Single;Bachelor;3;24,0000;Yes;4;1;3;Moderately Likely to Churn
+927;Philadelphia;3,0000;60000;Research and Development;2;4;Short;Married;Bachelor;4;12,0000;Yes;3;0;2;Highly Likely to Churn'
+928;Boston;12,0000;80000;Sales;2;4;Long;Single;Master;3;24,0000;Yes;4;4;3;Moderately Likely to Churn
+929;Scranton;9,0000;58500;Public Relations;3;4;Short;Married;High School;4;34,6456;Yes;4;2;3;Moderately Likely to Churn
+930;Denver;11,0000;60000;Quality Assurance;3;4;Short;Married;High School;3;63,0000;Yes;3;5;2;Highly Likely to Churn'
+931;Boston;6,0000;62500;Human Resources;5;4;Long;Single;Bachelor;3;24,0000;Yes;3;0;2;Highly Likely to Churn'
+932;Atlanta;7,0000;76500;Public Relations;4;4;Long;Married;Bachelor;4;18,0000;Yes;5;1;3;Highly Likely to Churn'
+933;Seattle;5,0000;58500;Human Resources;2;4;Long;Married;Bachelor;3;34,6456;Yes;3;0;2;Highly Likely to Churn'
+934;Unknown;8,0000;58500;Research and Development;1;4;Medium;Married;Bachelor;3;36,0000;Yes;4;0;3;Moderately Likely to Churn
+935;San Francisco;8,0000;76500;Procurement;3;5;Long;Single;Bachelor;5;35,7685;Yes;5;0;3;Moderately Likely to Churn
+936;Miami;9,0000;70500;Human Resources;2;4;Short;Married;Bachelor;3;17,1472;Yes;4;1;3;Highly Likely to Churn'
+937;Denver;4,0000;63000;Human Resources;3;3;Long;Single;Bachelor;4;29,3264;Yes;4;0;3;Highly Likely to Churn'
+938;Scranton;7,0000;53000;IT Support;3;3;Short;Married;Bachelor;3;34,6456;Yes;3;1;2;Highly Likely to Churn'
+939;Miami;4,0000;67500;Sales;2;4;Medium;Married;Bachelor;4;6,0000;Yes;5;0;3;Highly Likely to Churn'
+940;Scranton;8,0000;60000;Sales;5;4;Medium;Married;High School;4;63,0000;Yes;3;2;3;Moderately Likely to Churn
+941;Chicago;6,0000;64000;Quality Assurance;2;4;Medium;Single;High School;3;40,0000;Yes;3;0;2;Highly Likely to Churn'
+942;Miami;4,0000;62000;Sales;4;4;Long;Married;High School;4;63,0000;Yes;4;0;4;Highly Likely to Churn'
+943;Boston;15,0000;77500;Research and Development;4;4;Long;Married;Bachelor;4;36,0000;Yes;4;5;2;Highly Likely to Churn'
+944;New York;8,0000;78000;Research and Development;4;4;Short;Married;Bachelor;4;24,0000;Yes;3;0;3;Moderately Likely to Churn
+945;Scranton;4,0000;52000;Public Relations;2;4;Long;Divorced;High School;3;31,6298;Yes;3;0;3;Highly Likely to Churn'
+946;Dallas;15,0000;60500;Operations;5;4;Long;Divorced;Bachelor;4;18,0000;Yes;4;5;3;Moderately Likely to Churn
+947;Chicago;12,0000;78000;Quality Assurance;2;4;Medium;Married;Bachelor;3;30,0000;Yes;3;5;2;Highly Likely to Churn'
+948;New York;8,0000;72500;Procurement;4;4;Short;Married;Bachelor;4;30,0000;Yes;4;1;3;Moderately Likely to Churn
+949;San Francisco;3,0000;66500;Accounting;3;4;Short;Divorced;High School;3;63,0000;Yes;3;0;2;Highly Likely to Churn'
+950;Los Angeles;5,0000;69000;Research and Development;3;4;Long;Married;High School;3;63,0000;Yes;3;0;3;Highly Likely to Churn'
+951;Scranton;2,0000;49000;Facilities Management;3;4;Medium;Divorced;Bachelor;3;18,0000;Yes;3;0;2;Highly Likely to Churn'
+952;Los Angeles;4,0000;70000;IT Support;2;4;Short;Single;Bachelor;4;34,6456;Yes;5;0;3;Moderately Likely to Churn
+953;Scranton;6,0000;56000;IT Support;2;4;Medium;Single;High School;4;63,0000;Yes;4;0;3;Moderately Likely to Churn
+954;Dallas;4,0000;62000;Marketing;4;4;Short;Divorced;Master;4;30,0000;Yes;4;0;4;Moderately Likely to Churn
+955;New York;3,0000;70000;Operations;2;4;Long;Married;Bachelor;4;24,0000;Yes;3,5;0;4;Moderately Likely to Churn
+956;Philadelphia;3,0000;57000;Customer Service;1;4;Long;Married;Bachelor;3;36,0000;Yes;5;0;3;Moderately Likely to Churn
+957;San Francisco;3,0000;68500;Facilities Management;3;4;Medium;Divorced;Bachelor;4;29,4763;Yes;5,5;0;3;Moderately Likely to Churn
+958;Los Angeles;8,0000;68500;Legal;2;4;Medium;Married;Bachelor;3;18,0000;Yes;4;0;2;Highly Likely to Churn'
+959;San Francisco;3,0000;56500;Research and Development;4;4;Medium;Married;Bachelor;4;36,0000;Yes;4;0;3;Moderately Likely to Churn
+960;Scranton;3,0000;60500;Human Resources;3;4;Short;Single;Master;3;12,0000;Yes;2;0;1;Highly Likely to Churn'
+961;Los Angeles;2,0000;72500;Legal;5;4;Medium;Married;Bachelor;4;34,6456;Yes;3;0;3;Moderately Likely to Churn
+962;Philadelphia;7,0000;59500;Accounting;3;4;Long;Single;High School;3;63,0000;Yes;3;0;1;Highly Likely to Churn'
+963;Boston;8,0000;82500;Sales;2;4;Medium;Married;High School;3;32,0000;Yes;2;1;2;Highly Likely to Churn'
+964;Dallas;6,0000;50500;Procurement;4;4;Medium;Married;High School;4;48,0000;Yes;4;0;3;Moderately Likely to Churn
+965;Chicago;7,0000;66.654,4980443;Marketing;2;4;Long;Married;Bachelor;2;24,2403;Yes;4;1;3;Moderately Likely to Churn
+966;Dallas;15,0000;63500;Quality Assurance;2;4;Short;Married;Bachelor;3;36,0000;Yes;3;5;3;Moderately Likely to Churn
+967;Philadelphia;4,0000;61500;Marketing;5;4;Medium;Single;Bachelor;3;12,0000;Yes;4;0;3;Moderately Likely to Churn
+968;Dallas;3,0000;70000;Procurement;2;4;Short;Married;Bachelor;4;24,0000;Yes;3,5;0;3;Moderately Likely to Churn
+969;Seattle;2,0000;64000;Accounting;3;4;Long;Single;High School;3;56,0000;Yes;4;0;3;Moderately Likely to Churn
+970;Dallas;5,0000;60000;Product Management;3;4;Long;Single;Bachelor;4;6,0000;Yes;2;0;2;Highly Likely to Churn'
+971;Scranton;10,0000;57500;Facilities Management;4;4;Medium;Divorced;Bachelor;4;24,0000;Yes;5;4;3;Moderately Likely to Churn
+972;Atlanta;14,0000;77500;Product Management;4;4;Long;Divorced;Master;3;12,0000;Yes;3;5;2;Highly Likely to Churn'
+973;Miami;5,0000;62500;Operations;3;4;Short;Divorced;Bachelor;3;36,0000;Yes;4;0;4;Highly Likely to Churn'
+974;Philadelphia;10,0000;77000;Accounting;2;3;Short;Single;Bachelor;3;12,0000;Yes;4;1;2;Highly Likely to Churn'
+975;San Francisco;6,0000;74000;Accounting;5;4;Short;Married;High School;4;63,0000;Yes;4;0;3;Moderately Likely to Churn
+976;Chicago;15,0000;70000;Customer Service;4;4;Short;Married;Bachelor;3;24,0000;Yes;3;5;1;Highly Likely to Churn'
+977;Scranton;4,0000;52000;Research and Development;3;4;Short;Single;Bachelor;4;18,0000;Yes;4;0;3;Moderately Likely to Churn
+978;Scranton;7,0000;59000;Research and Development;4;4;Medium;Married;Bachelor;3;30,0000;Yes;3,5;0;3;Moderately Likely to Churn
+979;Denver;7,0000;53500;Administration;3;3;Long;Married;High School;4;55,8211;Yes;5;1;2;Highly Likely to Churn'
+980;San Francisco;7,0000;66000;Facilities Management;4;4;Long;Married;Bachelor;4;24,0000;Yes;3;1;2;Highly Likely to Churn'
+981;Denver;11,0000;64500;Legal;3;4;Short;Married;Bachelor;4;24,0000;Yes;4;4;3;Highly Likely to Churn'
+982;Chicago;4,0000;59500;Administration;3;4;Short;Single;High School;4;63,0000;Yes;4;0;3;Moderately Likely to Churn
+983;Dallas;6,0000;68500;Sales;4;3;Short;Single;Bachelor;3;34,6456;Yes;2;0;1;Highly Likely to Churn'
+984;Scranton;3,0000;50500;Customer Service;4;4;Medium;Married;High School;3;63,0000;Yes;2;0;2;Highly Likely to Churn'
+985;Chicago;6,0000;68500;Sales;5;3;Medium;Married;Bachelor;4;30,0000;Yes;3,5;0;4;Moderately Likely to Churn
+986;Scranton;3,0000;49000;Facilities Management;3;5;Medium;Married;High School;4;23,3697;Yes;3;0;1;Highly Likely to Churn'
+987;New York;4,0000;68000;Quality Assurance;5;4;Long;Married;Master;4;24,0000;Yes;3;0;3;Moderately Likely to Churn
+988;San Francisco;6,0000;71000;Accounting;4;4;Medium;Single;High School;3;32,0000;Yes;4;0;3;Moderately Likely to Churn
+989;Boston;3,0000;59000;Accounting;5;4;Medium;Single;High School;3;63,0000;Yes;4;0;2;Highly Likely to Churn'
+990;San Francisco;3,0000;73000;Sales;4;4;Long;Married;High School;3;32,0000;Yes;4;0;2;Highly Likely to Churn'
+991;Scranton;8,0000;69500;Sales;4;4;Short;Married;Bachelor;4;30,0000;Yes;5;2;4;Moderately Likely to Churn
+992;Atlanta;15,0000;66.654,4980443;Sales;2;5;Long;Married;Bachelor;4;34,6456;Yes;3;3;2;Highly Likely to Churn'
+993;Philadelphia;9,0000;68000;Marketing;4;4;Short;Divorced;Bachelor;3;12,0000;Yes;4;2;3;Moderately Likely to Churn
+994;Los Angeles;13,0000;73500;Accounting;5;4;Medium;Single;Bachelor;4;24,0000;Yes;2;2;1;Highly Likely to Churn'
+995;New York;12,0000;79500;Research and Development;2;4;Short;Married;Bachelor;4;24,0000;Yes;5;3;4;Moderately Likely to Churn
+996;New York;4,0000;64000;Administration;5;4;Long;Married;Bachelor;3;34,6456;Yes;3;0;2;Highly Likely to Churn'
+997;Dallas;3,0000;71500;Research and Development;5;4;Long;Married;Master;4;34,6456;Yes;5;0;4;Moderately Likely to Churn
+998;Dallas;3,0000;61500;Accounting;5;4;Long;Married;High School;4;32,0000;Yes;4;0;3;Moderately Likely to Churn
+999;New York;3,0000;73000;Product Management;2;4;Long;Married;Bachelor;4;36,0000;Yes;3;0;3;Moderately Likely to Churn
+1000;Philadelphia;5,0000;66000;Human Resources;5;4;Short;Married;Master;4;30,0000;Yes;4;0;3;Moderately Likely to Churn
+1001;Dallas;16,0000;71000;Customer Service;3;4;Short;Divorced;High School;4;63,0000;Yes;3;3;2;Highly Likely to Churn'
+1002;Philadelphia;10,0000;69500;Operations;3;4;Long;Single;High School;4;63,0000;Yes;4;1;2;Highly Likely to Churn'
+1003;Boston;6,0000;64500;IT Support;3;4;Short;Married;Bachelor;4;6,0000;Yes;5;0;3;Moderately Likely to Churn
+1004;Seattle;5,0000;65000;Research and Development;4;4;Long;Married;Bachelor;3;18,1422;Yes;5;0;4;Moderately Likely to Churn
+1005;Seattle;7,0000;53500;Human Resources;4;4;Long;Married;High School;3;48,0000;Yes;3;1;2;Highly Likely to Churn'
+1006;Boston;4,0000;63000;Customer Service;4;4;Medium;Married;High School;4;63,0000;Yes;3;0;3;Moderately Likely to Churn
+1007;Chicago;12,0000;76500;Sales;5;4;Medium;Single;Bachelor;4;36,0000;Yes;3;3;2;Highly Likely to Churn'
+1008;Seattle;4,0000;46000;Customer Service;3;4;Long;Married;Bachelor;4;24,0000;Yes;4;0;2;Highly Likely to Churn'
+1009;Philadelphia;3,0000;63500;Research and Development;4;4;Short;Divorced;High School;3;56,0000;Yes;3,5;0;2;Highly Likely to Churn'
+1010;Los Angeles;9,0000;73500;Accounting;3;4;Long;Married;Bachelor;3;12,0000;Yes;3;3;2;Highly Likely to Churn'
+1011;Miami;6,0000;64500;Administration;4;4;Short;Single;Bachelor;3;24,0000;Yes;4;0;3;Highly Likely to Churn'
+1012;Miami;10,0000;60000;Customer Service;3;4;Short;Divorced;Bachelor;4;18,0000;Yes;4;4;3;Highly Likely to Churn'
+1013;Miami;7,0000;56500;Customer Service;3;4;Medium;Divorced;Bachelor;3;34,6456;Yes;4;1;3;Highly Likely to Churn'
+1014;New York;2,0000;63500;IT Support;5;4;Short;Married;Bachelor;3;34,6456;Yes;5;0;3;Moderately Likely to Churn
+1015;Miami;16,0000;68500;Customer Service;2;4;Medium;Single;High School;4;63,0000;Yes;3;5;2;Highly Likely to Churn'
+1016;Los Angeles;11,0000;65500;Facilities Management;5;4;Short;Married;High School;3;63,0000;Yes;3,5;1;1;Highly Likely to Churn'
+1017;Scranton;17,0000;62000;Legal;4;4;Short;Divorced;High School;3;56,0000;Yes;3;0;2;Highly Likely to Churn'
+1018;Dallas;7,0000;61000;IT Support;3;3;Medium;Married;High School;3;31,8937;Yes;3;0;2;Highly Likely to Churn'
+1019;San Francisco;7,0000;75000;Product Management;2;4;Medium;Married;Bachelor;4;24,0000;Yes;3;1;3;Moderately Likely to Churn
+1020;Boston;5,0000;65500;Customer Service;5;4;Medium;Married;Bachelor;3;18,0000;Yes;3;0;2;Highly Likely to Churn'
+1021;San Francisco;7,0000;69500;IT Support;3;4;Medium;Divorced;High School;3;63,0000;Yes;3;1;2;Highly Likely to Churn'
+1022;New York;7,6121;73000;Legal;3;4;Long;Married;Bachelor;4;18,0000;Yes;3;0;2;Highly Likely to Churn'
+1023;Scranton;5,0000;58000;Public Relations;4;3;Medium;Single;High School;3;63,0000;Yes;4;0;2;Highly Likely to Churn'
+1024;Boston;8,0000;68000;Sales;3;4;Short;Single;High School;3;34,6456;Yes;3;2;2;Highly Likely to Churn'
+1025;Miami;6,0000;66500;Legal;4;3;Short;Single;Bachelor;3;34,6456;Yes;5;0;4;Highly Likely to Churn'
+1026;Denver;12,0000;76500;Research and Development;4;4;Medium;Single;Bachelor;4;30,0000;Yes;4;2;3;Highly Likely to Churn'
+1027;Boston;1,0000;58500;Marketing;3;4;Medium;Married;Bachelor;4;6,0000;Yes;4;0;3;Moderately Likely to Churn
+1028;Chicago;9,0000;66500;Facilities Management;3;4;Medium;Married;High School;3;32,0000;Yes;2;2;1;Highly Likely to Churn'
+1029;Los Angeles;9,0000;65500;Quality Assurance;3;4;Short;Married;Bachelor;3;30,0000;Yes;3;0;3;Moderately Likely to Churn
+1030;Atlanta;8,0000;71000;Accounting;5;4;Medium;Married;Bachelor;4;6,0000;Yes;3;0;2;Highly Likely to Churn'
+1031;Philadelphia;11,0000;72500;Marketing;4;4;Long;Divorced;Bachelor;4;30,0000;Yes;3;3;2;Highly Likely to Churn'
+1032;Dallas;4,0000;56500;Quality Assurance;4;4;Medium;Married;Bachelor;4;12,0000;Yes;3,5;0;3;Moderately Likely to Churn
+1033;Atlanta;10,0000;58000;Administration;2;4;Medium;Single;High School;4;34,6456;Yes;4;3;3;Highly Likely to Churn'
+1034;Scranton;5,0000;63000;Operations;2;4;Short;Married;Master;4;12,0000;Yes;2;0;2;Highly Likely to Churn'
+1035;Los Angeles;10,0000;76500;Procurement;3;4;Short;Married;Bachelor;3;6,0000;Yes;3;1;2;Highly Likely to Churn'
+1036;Dallas;5,0000;67500;Marketing;4;4;Long;Married;Bachelor;3;30,0000;Yes;3;0;1;Highly Likely to Churn'
+1037;Los Angeles;12,0000;75500;Accounting;4;4;Medium;Married;Bachelor;3;34,6456;Yes;3,5;3;3;Moderately Likely to Churn
+1038;Los Angeles;4,0000;58000;Procurement;3;3;Long;Single;Bachelor;3;18,0000;Yes;3;0;1;Highly Likely to Churn'
+1039;Denver;2,0000;57000;Operations;5;4;Long;Married;Bachelor;4;30,0000;Yes;3;0;2;Highly Likely to Churn'
+1040;Philadelphia;10,0000;73000;Quality Assurance;5;4;Short;Single;Bachelor;3;36,0000;Yes;3;1;3;Moderately Likely to Churn
+1041;New York;15,0000;79000;Product Management;3;4;Long;Divorced;High School;4;56,0000;Yes;4;5;3;Moderately Likely to Churn
+1042;Scranton;8,0000;54000;Product Management;3;4;Medium;Divorced;High School;3;63,0000;Yes;3;2;2;Highly Likely to Churn'
+1043;Chicago;10,0000;67500;Accounting;3;4;Long;Single;Bachelor;3;30,0000;Yes;3;3;3;Moderately Likely to Churn
+1044;Scranton;5,0000;48500;Accounting;3;4;Long;Married;High School;4;63,0000;Yes;5;0;3;Moderately Likely to Churn
+1045;Philadelphia;10,0000;71500;Procurement;2;4;Medium;Married;Bachelor;3;30,0000;Yes;3;3;1;Highly Likely to Churn'
+1046;New York;8,0000;56000;Customer Service;1;4;Medium;Married;High School;4;56,0000;Yes;4;0;4;Moderately Likely to Churn
+1047;Philadelphia;11,0000;77500;Accounting;3;4;Medium;Married;Bachelor;3;12,0000;Yes;3;0;2;Highly Likely to Churn'
+1048;Philadelphia;11,0000;72500;Procurement;3;4;Long;Married;Bachelor;3;12,0000;Yes;4;1;2;Highly Likely to Churn'
+1049;Dallas;9,0000;62000;Quality Assurance;3;4;Short;Single;Bachelor;3;18,0000;Yes;3;3;2;Highly Likely to Churn'
+1050;Los Angeles;12,0000;77000;Sales;4;4;Short;Married;High School;4;63,0000;Yes;4;0;2;Highly Likely to Churn'
+1051;Dallas;3,0000;54000;Research and Development;4;4;Long;Single;High School;3;32,0000;Yes;4;0;2;Highly Likely to Churn'
+1052;Atlanta;9,0000;80000;Sales;3;4;Medium;Married;Bachelor;4;12,0000;Yes;4;1;3;Highly Likely to Churn'
+1053;Philadelphia;5,0000;65500;IT Support;3;4;Medium;Married;Bachelor;4;30,0000;Yes;4;0;3;Moderately Likely to Churn
+1054;Philadelphia;8,0000;68000;Quality Assurance;3;4;Short;Married;Bachelor;4;24,0000;Yes;4;0;3;Moderately Likely to Churn
+1055;San Francisco;13,0000;83500;Sales;3;4;Long;Married;Bachelor;3;24,0000;Yes;3;5;3;Moderately Likely to Churn
+1056;Atlanta;9,0000;65000;Research and Development;5;4;Long;Married;High School;4;63,0000;Yes;3;0;3;Highly Likely to Churn'
+1057;Los Angeles;5,0000;64500;Customer Service;3;4;Long;Single;Bachelor;3;36,0000;Yes;3,5;0;3;Moderately Likely to Churn
+1058;Los Angeles;4,0000;67500;Legal;3;3;Long;Single;Bachelor;4;30,0000;Yes;4;0;3;Moderately Likely to Churn
+1059;Los Angeles;7,0000;64500;Quality Assurance;4;4;Long;Married;Bachelor;4;30,0000;Yes;4;1;3;Moderately Likely to Churn
+1060;Seattle;11,0000;75500;Sales;4;4;Long;Married;Bachelor;3;18,0000;Yes;3;5;2;Highly Likely to Churn'
+1061;Chicago;6,0000;69000;Marketing;1;4;Long;Married;Bachelor;4;24,0000;Yes;4;0;3;Moderately Likely to Churn
+1062;New York;10,0000;78000;Quality Assurance;3;4;Medium;Married;Bachelor;4;30,0000;Yes;4;3;3;Moderately Likely to Churn
+1063;Los Angeles;9,0000;72000;Accounting;3;4;Long;Married;Master;3;6,0000;Yes;3;0;2;Highly Likely to Churn'
+1064;Boston;14,0000;78500;Customer Service;2;3;Medium;Married;Bachelor;3;18,0000;Yes;4;0;3;Moderately Likely to Churn
+1065;Dallas;17,0000;65000;Accounting;2;4;Long;Married;High School;4;48,0000;Yes;3;5;3;Moderately Likely to Churn
+1066;Dallas;11,0000;64000;Customer Service;5;4;Long;Single;Bachelor;3;30,0000;Yes;3;2;2;Highly Likely to Churn'
+1067;Denver;8,0000;64000;Legal;4;4;Medium;Married;High School;4;56,0000;Yes;4;0;3;Highly Likely to Churn'
+1068;Seattle;6,0000;52500;Operations;4;4;Long;Married;High School;4;48,0000;Yes;4;0;3;Moderately Likely to Churn
+1069;Chicago;8,0000;69500;Sales;4;3;Medium;Married;Bachelor;3;18,2524;Yes;2;0;4;Moderately Likely to Churn
+1070;Scranton;12,0000;75500;Sales;5;4;Medium;Divorced;High School;4;34,6456;Yes;4;2;3;Moderately Likely to Churn
+1071;San Francisco;15,0000;88000;Procurement;3;4;Medium;Married;Bachelor;4;25,2542;Yes;4;5;3;Moderately Likely to Churn
+1072;Denver;6,0000;50000;Customer Service;4;3;Short;Single;High School;3;56,0000;Yes;2;0;1;Highly Likely to Churn'
+1073;Chicago;7,0000;64500;Research and Development;2;3;Short;Married;Bachelor;3;34,6456;Yes;4;1;3;Moderately Likely to Churn
+1074;New York;2,0000;58000;Human Resources;3;3;Long;Married;Bachelor;3;36,0000;Yes;3;0;2;Highly Likely to Churn'
+1075;New York;4,0000;63500;Research and Development;4;4;Short;Divorced;High School;4;63,0000;Yes;4;0;3;Moderately Likely to Churn
+1076;Atlanta;7,0000;66000;Procurement;5;4;Short;Divorced;Master;4;36,0000;Yes;5;0;2;Highly Likely to Churn'
+1077;Denver;8,0000;56500;Administration;3;4;Medium;Married;Bachelor;3;30,0000;Yes;3;0;2;Highly Likely to Churn'
+1078;New York;5,0000;60000;Customer Service;4;4;Short;Married;High School;4;63,0000;Yes;3;0;2;Highly Likely to Churn'
+1079;Chicago;14,0000;78500;Accounting;3;4;Medium;Married;Bachelor;3;12,0000;Yes;3;3;2;Highly Likely to Churn'
+1080;Atlanta;4,0000;59000;Customer Service;4;4;Short;Single;Bachelor;3;18,0000;Yes;4;0;3;Highly Likely to Churn'
+1081;Philadelphia;5,0000;74000;Procurement;2;4;Long;Single;Bachelor;3;24,0000;Yes;3;0;2;Highly Likely to Churn'
+1082;Boston;5,0000;65500;Legal;3;4;Short;Single;Bachelor;3;24,0000;Yes;3;0;2;Highly Likely to Churn'
+1083;Los Angeles;9,0000;72000;Procurement;5;4;Short;Divorced;Bachelor;4;12,0000;Yes;3;1;2;Highly Likely to Churn'
+1084;Los Angeles;4,0000;59500;Human Resources;1;4;Medium;Married;High School;4;40,0000;Yes;3;0;2;Highly Likely to Churn'
+1085;Scranton;10,0000;53500;IT Support;2;4;Short;Married;High School;3;63,0000;Yes;4;0;3;Moderately Likely to Churn
+1086;Chicago;10,0000;68500;Sales;2;4;Medium;Divorced;High School;4;63,0000;Yes;4;3;2;Highly Likely to Churn'
+1087;Seattle;17,5000;82000;Sales;4;4;Short;Single;High School;3;32,0000;Yes;4;5;2;Highly Likely to Churn'
+1088;San Francisco;6,0000;63500;Administration;4;2;Short;Divorced;Bachelor;2;30,0000;Yes;3;0;3;Moderately Likely to Churn
+1089;Dallas;5,0000;59000;Quality Assurance;1;4;Long;Married;High School;3;56,0000;Yes;5;0;3;Moderately Likely to Churn
+1090;Philadelphia;11,0000;76000;Public Relations;2;4;Short;Divorced;Bachelor;3;30,0000;Yes;3,5;4;2;Highly Likely to Churn'
+1091;Seattle;8,0000;71500;Sales;2;4;Long;Married;Bachelor;4;30,0000;Yes;3;2;3;Moderately Likely to Churn
+1092;Scranton;7,0000;57500;Procurement;5;4;Short;Single;Bachelor;3;12,0000;Yes;3;0;2;Highly Likely to Churn'
+1093;Philadelphia;12,0000;71500;Research and Development;3;5;Long;Divorced;Bachelor;3;30,4764;Yes;3,5;3;2;Highly Likely to Churn'
+1094;Los Angeles;6,0000;64000;Procurement;2;4;Medium;Single;High School;3;56,0000;Yes;3;0;2;Highly Likely to Churn'
+1095;Seattle;5,0000;68500;Sales;3;4;Long;Married;Bachelor;4;36,0000;Yes;4;0;3;Moderately Likely to Churn
+1096;San Francisco;2,0000;57500;Legal;3;4;Long;Married;High School;4;63,0000;Yes;5;0;4;Moderately Likely to Churn
+1097;Dallas;3,0000;50000;Operations;3;4;Medium;Married;High School;3;63,0000;Yes;3;0;2;Highly Likely to Churn'
+1098;Atlanta;7,0000;57500;Research and Development;5;4;Short;Married;High School;4;56,0000;Yes;4;0;3;Highly Likely to Churn'
+1099;Los Angeles;6,0000;77000;Sales;2;4;Short;Single;Bachelor;4;6,0000;Yes;3;0;3;Moderately Likely to Churn
+1100;San Francisco;8,0000;67500;Research and Development;4;4;Long;Married;Bachelor;3;12,0000;Yes;2;2;2;Highly Likely to Churn'
+1101;Seattle;7,0000;60500;Human Resources;2;4;Short;Married;Bachelor;4;36,0000;Yes;4;1;3;Moderately Likely to Churn
+1102;Denver;2,0000;51000;Customer Service;5;4;Medium;Married;Bachelor;4;18,0000;Yes;3;0;2;Highly Likely to Churn'
+1103;Seattle;10,0000;56500;Product Management;2;3;Short;Married;High School;3;63,0000;Yes;3;2;2;Highly Likely to Churn'
+1104;Seattle;6,0000;70000;Research and Development;5;4;Long;Married;Bachelor;3;30,0000;Yes;3;0;2;Highly Likely to Churn'
+1105;Los Angeles;7,0000;65000;Customer Service;5;4;Medium;Married;High School;4;56,0000;Yes;4;1;3;Moderately Likely to Churn
+1106;Atlanta;14,0000;77000;Marketing;3;4;Short;Married;Bachelor;3;30,0000;Yes;4;5;3;Highly Likely to Churn'
+1107;Chicago;5,0000;64000;Quality Assurance;5;4;Short;Married;Bachelor;3;23,9593;Yes;4;0;2;Highly Likely to Churn'
+1108;Atlanta;5,0000;67000;Accounting;2;4;Short;Married;Master;3;18,0000;Yes;3;0;2;Highly Likely to Churn'
+1109;Scranton;6,0000;59500;Marketing;5;4;Medium;Single;Bachelor;3;30,0000;Yes;3,5;0;3;Moderately Likely to Churn
+1110;New York;15,0000;69000;IT Support;3;4;Long;Married;High School;4;63,0000;Yes;4;1;3;Moderately Likely to Churn
+1111;New York;5,0000;65500;Procurement;4;4;Medium;Divorced;High School;3;63,0000;Yes;3;0;2;Highly Likely to Churn'
+1112;Los Angeles;1,0000;61000;Accounting;2;4;Medium;Married;Bachelor;4;24,0000;Yes;3;0;2;Highly Likely to Churn'
+1113;Scranton;15,0000;62500;Sales;4;4;Medium;Divorced;High School;4;63,0000;Yes;4;0;4;Moderately Likely to Churn
+1114;Philadelphia;7,0000;79500;Sales;4;4;Medium;Married;Bachelor;4;12,0000;Yes;4;0;3;Moderately Likely to Churn
+1115;New York;6,0000;73000;Sales;3;4;Medium;Married;Bachelor;4;6,0000;Yes;4;0;2;Highly Likely to Churn'
+1116;Los Angeles;6,0000;70500;Operations;5;4;Long;Married;Master;4;12,0000;Yes;3;0;3;Moderately Likely to Churn
+1117;Boston;6,0000;56000;Administration;3;3;Long;Single;Bachelor;3;12,6082;Yes;5;0;3;Moderately Likely to Churn
+1118;San Francisco;4,0000;68000;Marketing;1;3;Short;Single;Bachelor;4;34,6456;Yes;4;0;3;Moderately Likely to Churn
+1119;Miami;10,0000;83000;Sales;3;4;Medium;Married;Bachelor;3;18,0000;Yes;3;1;2;Highly Likely to Churn'
+1120;Los Angeles;5,0000;64500;IT Support;2;4;Medium;Married;High School;4;32,0000;Yes;3;0;3;Moderately Likely to Churn
+1121;Chicago;11,0000;69000;Product Management;4;4;Short;Single;High School;4;63,0000;Yes;5;3;4;Moderately Likely to Churn
+1122;Scranton;15,0000;65000;Procurement;4;5;Short;Single;Bachelor;4;23,5979;Yes;4;5;3;Moderately Likely to Churn
+1123;Denver;11,0000;64500;Quality Assurance;5;4;Short;Married;Bachelor;3;36,0000;Yes;4;0;3;Highly Likely to Churn'
+1124;Atlanta;17,5000;88500;Accounting;2;4;Short;Divorced;Bachelor;4;23,6120;Yes;5;5;3;Highly Likely to Churn'
+1125;Denver;5,0000;49500;Customer Service;2;4;Short;Divorced;High School;3;34,6456;Yes;4;0;3;Highly Likely to Churn'
+1126;Los Angeles;9,0000;75000;Sales;2;4;Medium;Married;Bachelor;3;18,0000;Yes;3;2;2;Highly Likely to Churn'
+1127;San Francisco;7,0000;65500;Product Management;1;3;Long;Single;High School;3;56,0000;Yes;4;0;3;Moderately Likely to Churn
+1128;New York;10,0000;73000;Human Resources;4;4;Medium;Divorced;Bachelor;3;30,0000;Yes;4;2;3;Moderately Likely to Churn
+1129;Atlanta;3,0000;68000;Sales;3;4;Short;Married;Bachelor;3;34,6456;Yes;3;0;2;Highly Likely to Churn'
+1130;Chicago;7,0000;62500;Customer Service;5;3;Short;Married;Bachelor;3;29,0168;Yes;3;0;3;Highly Likely to Churn'
+1131;San Francisco;8,0000;78500;Accounting;3;4;Short;Married;Bachelor;4;34,6456;Yes;4;0;3;Moderately Likely to Churn
+1132;Scranton;4,0000;51500;Human Resources;5;4;Medium;Married;High School;4;63,0000;Yes;3;0;3;Moderately Likely to Churn
+1133;Los Angeles;6,0000;65500;Administration;2;4;Medium;Single;Bachelor;3;12,0000;Yes;3;0;2;Highly Likely to Churn'
+1134;Seattle;8,0000;69500;Marketing;5;5;Short;Married;High School;3;63,0000;Yes;4;1;3;Moderately Likely to Churn
+1135;Dallas;4,0000;59500;Operations;4;4;Short;Married;Bachelor;3;24,0000;Yes;2;0;1;Highly Likely to Churn'
+1136;Philadelphia;5,0000;75000;Research and Development;5;5;Long;Divorced;Master;5;36,0000;Yes;4;0;3;Moderately Likely to Churn
+1137;New York;3,0000;78000;IT Support;5;4;Long;Married;Master;3;24,0000;Yes;3;0;2;Highly Likely to Churn'
+1138;Miami;17,5000;66.654,4980443;IT Support;2;4;Medium;Married;Bachelor;3;12,0000;Yes;3;5;3;Highly Likely to Churn'
+1139;Boston;8,0000;80500;IT Support;4;4;Short;Married;Bachelor;3;36,0000;Yes;3;0;3;Moderately Likely to Churn
+1140;Philadelphia;6,0000;74500;Sales;4;4;Short;Married;Bachelor;3;12,0000;Yes;4;0;4;Moderately Likely to Churn
+1141;Chicago;2,0000;59500;Customer Service;3;4;Short;Married;High School;3;56,0000;Yes;3,5;0;2;Highly Likely to Churn'
+1142;Scranton;11,0000;66000;Marketing;4;4;Short;Divorced;Bachelor;3;34,6456;Yes;3;1;2;Highly Likely to Churn'
+1143;Scranton;14,0000;68500;Product Management;3;5;Medium;Married;High School;3;48,4397;Yes;3;3;2;Highly Likely to Churn'
+1144;San Francisco;5,0000;62500;Operations;3;3;Long;Married;Bachelor;3;12,0000;Yes;3;0;3;Moderately Likely to Churn
+1145;Atlanta;9,0000;71000;Operations;3;4;Short;Married;Bachelor;3;18,0000;Yes;2;1;1;Highly Likely to Churn'
+1146;Dallas;3,0000;56500;Product Management;3;4;Medium;Divorced;Bachelor;3;18,0000;Yes;4;0;2;Highly Likely to Churn'
+1147;Dallas;7,0000;66500;Quality Assurance;3;5;Medium;Married;Bachelor;4;18,0000;Yes;3,5;0;3;Moderately Likely to Churn
+1148;Denver;10,0000;67000;Customer Service;2;3;Long;Married;Bachelor;3;18,0000;Yes;4;4;2;Highly Likely to Churn'
+1149;Atlanta;15,0000;62000;Customer Service;1;4;Medium;Married;High School;3;63,0000;Yes;4;3;3;Highly Likely to Churn'
+1150;Scranton;6,0000;56500;Marketing;5;4;Medium;Married;Bachelor;4;34,6456;Yes;4;0;3;Moderately Likely to Churn
+1151;San Francisco;10,0000;57500;Facilities Management;4;4;Short;Married;Bachelor;4;36,0000;Yes;4;0;3;Moderately Likely to Churn
+1152;Boston;5,0000;58500;Research and Development;4;2;Medium;Single;Bachelor;3;34,6456;Yes;3;0;2;Highly Likely to Churn'
+1153;Los Angeles;9,0000;64500;Sales;5;4;Long;Married;High School;3;63,0000;Yes;3;1;3;Moderately Likely to Churn
+1154;Seattle;4,0000;66.654,4980443;Accounting;4;4;Medium;Married;High School;4;48,0000;Yes;4;0;2;Highly Likely to Churn'
+1155;San Francisco;3,0000;73500;Product Management;5;5;Short;Divorced;Bachelor;4;30,0000;Yes;3;0;2;Highly Likely to Churn'
+1156;Scranton;6,0000;57000;Procurement;5;4;Medium;Divorced;High School;4;56,0000;Yes;4;0;2;Highly Likely to Churn'
+1157;Scranton;9,0000;58000;Human Resources;2;4;Long;Divorced;High School;4;63,0000;Yes;3;1;3;Moderately Likely to Churn
+1158;Denver;8,0000;72500;Research and Development;2;4;Short;Married;Bachelor;3;24,0000;Yes;3;2;1;Highly Likely to Churn'
+1159;Chicago;3,0000;63000;Human Resources;5;4;Medium;Married;Bachelor;3;24,0000;Yes;3,5;0;2;Highly Likely to Churn'
+1160;Los Angeles;16,0000;73000;Research and Development;5;4;Medium;Married;High School;4;63,0000;Yes;5;4;4;Moderately Likely to Churn
+1161;Boston;10,0000;69000;Customer Service;4;4;Short;Single;Bachelor;4;34,6456;Yes;4;0;3;Moderately Likely to Churn
+1162;San Francisco;9,0000;67500;Customer Service;4;4;Medium;Married;Bachelor;4;24,0000;Yes;4;3;3;Moderately Likely to Churn
+1163;Chicago;9,0000;70000;Legal;5;3;Long;Divorced;Bachelor;3;12,0000;Yes;3;3;2;Highly Likely to Churn'
+1164;Philadelphia;7,0000;67500;Procurement;5;4;Medium;Married;Bachelor;4;30,0000;Yes;4;0;2;Highly Likely to Churn'
+1165;Scranton;7,0000;58500;Legal;3;4;Long;Married;Bachelor;4;34,6456;Yes;5;1;3;Moderately Likely to Churn
+1166;Seattle;2,0000;59000;IT Support;3;3;Medium;Single;Bachelor;3;30,0000;Yes;5;0;3;Moderately Likely to Churn
+1167;Atlanta;17,5000;70500;Customer Service;4;4;Long;Single;Bachelor;4;18,0000;Yes;4;3;2;Highly Likely to Churn'
+1168;Scranton;9,0000;61500;Product Management;3;4;Medium;Married;Bachelor;3;12,0000;Yes;3,5;1;3;Moderately Likely to Churn
+1169;San Francisco;6,0000;70500;Human Resources;2;4;Medium;Married;Bachelor;4;24,0000;Yes;4;0;3;Moderately Likely to Churn
+1170;Scranton;7,0000;69000;Research and Development;4;3;Medium;Single;Bachelor;3;36,0000;Yes;3;0;2;Highly Likely to Churn'
+1171;New York;11,0000;70000;Customer Service;4;4;Long;Divorced;Bachelor;3;24,0000;Yes;4;3;2;Highly Likely to Churn'
+1172;Atlanta;14,0000;77000;Marketing;3;4;Short;Married;Bachelor;3;30,0000;Yes;4;5;2;Highly Likely to Churn'
+1173;New York;4,0000;59000;Administration;5;4;Long;Married;High School;3;63,0000;Yes;3;0;2;Highly Likely to Churn'
+1174;Atlanta;7,0000;70000;Sales;3;4;Medium;Married;Bachelor;4;34,6456;Yes;4;1;4;Highly Likely to Churn'
+1175;Scranton;13,0000;60000;Research and Development;5;4;Medium;Married;High School;4;63,0000;Yes;5;1;4;Moderately Likely to Churn
+1176;Boston;8,0000;59500;Customer Service;3;4;Long;Married;Bachelor;4;36,0000;Yes;4;2;3;Moderately Likely to Churn
+1177;Dallas;5,0000;60000;Research and Development;2;5;Medium;Married;Bachelor;3;18,0000;Yes;3;0;3;Moderately Likely to Churn
+1178;Chicago;8,0000;71500;Administration;3;4;Medium;Married;Master;3;34,6456;Yes;4;0;3;Moderately Likely to Churn
+1179;Boston;1,0000;67500;Sales;5;4;Medium;Married;Bachelor;4;12,0000;Yes;4;0;3;Moderately Likely to Churn
+1180;Atlanta;3,0000;62000;Marketing;4;4;Long;Single;High School;3;63,0000;Yes;4;0;3;Highly Likely to Churn'
+1181;Scranton;3,0000;44500;Accounting;5;4;Medium;Married;High School;4;40,0000;Yes;4;0;3;Moderately Likely to Churn
+1182;Dallas;8,0000;62000;Accounting;4;4;Long;Single;High School;3;63,0000;Yes;4;1;2;Highly Likely to Churn'
+1183;Denver;7,6121;59000;Human Resources;3;4;Medium;Married;Bachelor;4;30,0000;Yes;4;0;3;Highly Likely to Churn'
+1184;New York;6,0000;68500;Marketing;3;4;Medium;Married;High School;4;48,0000;Yes;3;0;2;Highly Likely to Churn'
+1185;Los Angeles;3,0000;73000;Accounting;3;4;Long;Married;Bachelor;3;24,0000;Yes;4;0;3;Moderately Likely to Churn
+1186;Philadelphia;8,0000;66500;Human Resources;2;4;Short;Married;Bachelor;4;34,6456;Yes;4;2;4;Moderately Likely to Churn
+1187;Philadelphia;8,0000;83500;Legal;2;4;Medium;Married;Bachelor;3;24,0000;Yes;2;1;2;Highly Likely to Churn'
+1188;Boston;11,0000;76000;Sales;5;4;Long;Married;Bachelor;3;24,0000;Yes;2;5;2;Highly Likely to Churn'
+1189;Philadelphia;8,0000;76000;Sales;3;4;Long;Married;Master;4;18,0000;Yes;4;2;3;Moderately Likely to Churn
+1190;Philadelphia;9,0000;70500;Marketing;5;4;Medium;Single;High School;4;63,0000;Yes;5;3;4;Moderately Likely to Churn
+1191;Seattle;1,0000;56500;Quality Assurance;3;4;Medium;Married;Bachelor;4;12,0000;Yes;4;0;4;Moderately Likely to Churn
+1192;New York;3,0000;69000;Product Management;2;4;Short;Divorced;Bachelor;4;18,0000;Yes;3;0;3;Moderately Likely to Churn
+1193;Miami;3,0000;62000;Accounting;3;4;Medium;Divorced;Bachelor;3;30,0000;Yes;3;0;2;Highly Likely to Churn'
+1194;San Francisco;12,0000;65500;Accounting;5;4;Long;Married;Bachelor;3;36,0000;Yes;4;3;3;Moderately Likely to Churn
+1195;New York;11,0000;73500;Quality Assurance;5;4;Short;Divorced;Bachelor;3;12,0000;Yes;3;2;2;Highly Likely to Churn'
+1196;San Francisco;4,0000;69500;Research and Development;2;4;Long;Married;Master;5;34,6456;Yes;4;0;3;Moderately Likely to Churn
+1197;Chicago;9,0000;61000;Procurement;5;4;Medium;Married;High School;3;63,0000;Yes;4;2;3;Moderately Likely to Churn
+1198;Atlanta;7,0000;55500;Human Resources;5;4;Short;Married;Bachelor;3;30,0000;Yes;3;0;2;Highly Likely to Churn'
+1199;Atlanta;6,0000;49500;Administration;1;4;Short;Married;High School;4;63,0000;Yes;3;0;2;Highly Likely to Churn'
+1200;Scranton;6,0000;53000;Customer Service;3;3;Short;Single;Bachelor;4;12,4242;Yes;3;0;4;Moderately Likely to Churn
+1201;Scranton;7,0000;50500;Customer Service;3;4;Short;Married;Bachelor;3;36,0000;Yes;4;1;2;Highly Likely to Churn'
+1202;Chicago;4,0000;47500;Quality Assurance;3;3;Short;Divorced;High School;4;63,0000;Yes;2;0;2;Moderately Likely to Churn
+1203;New York;3,0000;64000;Research and Development;2;3;Long;Single;High School;3;63,0000;Yes;4;0;3;Moderately Likely to Churn
+1204;Scranton;9,0000;53500;Quality Assurance;2;3;Medium;Married;High School;4;34,6456;Yes;4;2;3;Moderately Likely to Churn
+1205;Boston;2,0000;69500;Marketing;2;4;Medium;Married;Master;3;12,0000;Yes;3;0;1;Highly Likely to Churn'
+1206;Scranton;15,0000;84000;Sales;3;4;Short;Married;Master;4;12,0000;Yes;3;5;3;Moderately Likely to Churn
+1207;Boston;4,0000;56500;Research and Development;3;3;Short;Married;Bachelor;3;18,0000;Yes;3;0;3;Moderately Likely to Churn
+1208;New York;6,0000;70000;Facilities Management;4;4;Short;Married;High School;4;56,0000;Yes;4;0;3;Moderately Likely to Churn
+1209;Boston;9,0000;62000;Customer Service;3;3;Short;Married;Bachelor;3;12,0000;Yes;4;1;2;Highly Likely to Churn'
+1210;Miami;12,0000;65000;Product Management;2;4;Medium;Married;High School;3;63,0000;Yes;3;5;2;Highly Likely to Churn'
+1211;Philadelphia;5,0000;62500;Research and Development;4;4;Medium;Married;Bachelor;4;30,0000;Yes;4;0;3;Moderately Likely to Churn
+1212;Los Angeles;17,5000;83500;Quality Assurance;5;3;Medium;Divorced;Master;3;18,0000;Yes;3;5;2;Highly Likely to Churn'
+1213;Atlanta;2,0000;61000;Accounting;4;4;Long;Divorced;High School;4;32,0000;Yes;4;0;3;Highly Likely to Churn'
+1214;Chicago;3,0000;50500;Accounting;5;4;Short;Single;High School;3;34,6456;Yes;3;0;3;Moderately Likely to Churn
+1215;New York;6,0000;73000;Product Management;5;2;Short;Married;High School;3;40,0000;Yes;4;0;3;Moderately Likely to Churn
+1216;Dallas;4,0000;56000;Public Relations;5;4;Short;Single;High School;5;63,0000;Yes;2;0;4;Moderately Likely to Churn
+1217;New York;10,0000;63500;Customer Service;2;3;Medium;Married;Bachelor;3;24,0000;Yes;4;4;3;Moderately Likely to Churn
+1218;Atlanta;10,0000;65000;IT Support;3;4;Short;Divorced;Bachelor;4;12,0000;Yes;3;4;2;Highly Likely to Churn'
+1219;Atlanta;10,0000;62500;Customer Service;3;4;Long;Single;High School;3;34,6456;Yes;2;0;1;Highly Likely to Churn'
+1220;Los Angeles;10,0000;66000;Research and Development;5;4;Medium;Divorced;High School;3;34,6456;Yes;3;4;2;Highly Likely to Churn'
+1221;Los Angeles;10,0000;65500;Customer Service;2;3;Medium;Married;High School;3;40,0000;Yes;3,5;0;3;Moderately Likely to Churn
+1222;Seattle;6,0000;51500;Marketing;4;4;Long;Single;High School;3;40,0000;Yes;4;0;2;Highly Likely to Churn'
+1223;New York;7,0000;79500;Public Relations;5;4;Short;Married;Bachelor;3;34,6456;Yes;4;1;3;Moderately Likely to Churn
+1224;Dallas;5,0000;66000;Accounting;4;4;Long;Married;Bachelor;4;18,0000;Yes;4;0;3;Moderately Likely to Churn
+1225;New York;1,0000;80500;Marketing;3;4;Short;Divorced;Master;4;30,0000;Yes;3;0;2;Highly Likely to Churn'
+1226;Denver;15,0000;73000;Legal;4;4;Long;Single;Bachelor;4;18,0000;Yes;3;4;3;Highly Likely to Churn'
+1227;Miami;10,0000;68500;Marketing;2;4;Medium;Married;Master;3;34,6456;Yes;3;2;2;Highly Likely to Churn'
+1228;Scranton;8,0000;52500;Quality Assurance;3;4;Long;Married;Bachelor;4;34,6456;Yes;3;2;2;Highly Likely to Churn'
+1229;Chicago;14,0000;67000;Quality Assurance;1;4;Short;Single;High School;3;32,0000;Yes;3;5;3;Moderately Likely to Churn
+1230;Scranton;11,0000;53000;Research and Development;2;4;Long;Married;High School;4;63,0000;Yes;4;0;3;Moderately Likely to Churn
+1231;Los Angeles;10,0000;71000;Customer Service;4;4;Long;Married;Bachelor;4;18,0000;Yes;3;0;3;Moderately Likely to Churn
+1232;New York;5,0000;66500;Human Resources;3;4;Long;Married;Bachelor;4;23,7368;Yes;4;0;2;Moderately Likely to Churn
+1233;Los Angeles;6,0000;66500;Sales;3;4;Short;Married;High School;3;48,0000;Yes;4;0;3;Moderately Likely to Churn
+1234;Chicago;9,0000;69000;Legal;4;4;Long;Divorced;High School;4;63,0000;Yes;4;1;2;Highly Likely to Churn'
+1235;Dallas;3,0000;47500;Administration;2;3;Medium;Divorced;High School;2;63,0000;Yes;3;0;3;Moderately Likely to Churn
+1236;Seattle;13,0000;75000;IT Support;3;4;Long;Single;Bachelor;3;30,0000;Yes;4;3;2;Highly Likely to Churn'
+1237;Denver;11,0000;76000;Marketing;5;4;Long;Married;Bachelor;3;34,6456;Yes;3;1;3;Highly Likely to Churn'
+1238;Los Angeles;16,0000;74000;Marketing;4;4;Long;Married;High School;4;63,0000;Yes;4;3;3;Moderately Likely to Churn
+1239;Miami;1,0000;49000;IT Support;4;4;Long;Married;High School;3;63,0000;Yes;3;0;2;Highly Likely to Churn'
+1240;New York;7,0000;74500;Sales;3;4;Medium;Single;Bachelor;3;30,0000;Yes;2;0;2;Highly Likely to Churn'
+1241;Chicago;4,0000;63000;Product Management;5;4;Medium;Married;Bachelor;3;34,6456;Yes;3;0;2;Highly Likely to Churn'
+1242;Los Angeles;13,0000;76000;Accounting;3;4;Short;Divorced;Master;3;34,6456;Yes;2;2;1;Highly Likely to Churn'
+1243;Boston;2,0000;64000;Marketing;3;4;Medium;Single;Bachelor;3;12,0000;Yes;4;0;2;Highly Likely to Churn'
+1244;Boston;11,0000;76500;Sales;5;4;Short;Married;Bachelor;3;18,0000;Yes;3;1;2;Highly Likely to Churn'
+1245;Seattle;8,0000;67500;Sales;4;4;Short;Divorced;Bachelor;4;24,0000;Yes;4;0;2;Highly Likely to Churn'
+1246;Philadelphia;10,0000;77500;Research and Development;3;3;Short;Single;Bachelor;3;24,0000;Yes;4;1;3;Moderately Likely to Churn
+1247;Philadelphia;11,0000;72500;Sales;3;4;Medium;Married;Master;4;12,0000;Yes;4;1;2;Highly Likely to Churn'
+1248;Philadelphia;3,0000;59500;Research and Development;5;4;Medium;Divorced;High School;4;63,0000;Yes;3;0;3;Moderately Likely to Churn
+1249;Los Angeles;3,0000;69000;Customer Service;4;4;Medium;Married;Bachelor;3;18,0000;Yes;3;0;3;Moderately Likely to Churn
+1250;Boston;7,0000;66500;Human Resources;4;4;Long;Married;Bachelor;3;6,0000;Yes;4;0;3;Moderately Likely to Churn
+1251;New York;10,0000;72000;IT Support;2;4;Medium;Single;Bachelor;4;30,0000;Yes;4;2;3;Moderately Likely to Churn
+1252;New York;5,0000;71000;Sales;3;4;Short;Single;High School;3;32,0000;Yes;4;0;3;Moderately Likely to Churn
+1253;New York;8,0000;76500;Product Management;4;4;Long;Married;Bachelor;4;30,0000;Yes;4;0;3;Moderately Likely to Churn
+1254;Scranton;17,5000;70500;Customer Service;3;4;Short;Divorced;Master;3;12,0000;Yes;4;5;2;Highly Likely to Churn'
+1255;Seattle;8,0000;68500;Marketing;2;4;Long;Single;Bachelor;3;34,6456;Yes;4;0;2;Highly Likely to Churn'
+1256;Seattle;17,0000;88500;IT Support;3;4;Short;Married;Master;4;12,0000;Yes;4;5;3;Moderately Likely to Churn
+1257;Chicago;6,0000;59000;Human Resources;3;4;Medium;Married;High School;3;48,0000;Yes;4;0;3;Moderately Likely to Churn
+1258;Boston;6,0000;69000;Marketing;3;4;Short;Married;Bachelor;4;12,0000;Yes;4;0;2;Highly Likely to Churn'
+1259;Boston;3,0000;65000;Procurement;5;4;Short;Married;Bachelor;4;30,0000;Yes;3;0;2;Highly Likely to Churn'
+1260;Scranton;4,0000;44500;Facilities Management;3;4;Long;Married;High School;3;63,0000;Yes;3;0;2;Highly Likely to Churn'
+1261;Unknown;14,0000;73500;Public Relations;3;4;Medium;Married;High School;3;63,0000;Yes;2;1;3;Highly Likely to Churn'
+1262;Philadelphia;17,5000;85500;IT Support;5;4;Long;Married;High School;3;63,0000;Yes;2;3;2;Highly Likely to Churn'
+1263;New York;5,0000;65000;Marketing;3;4;Short;Single;Bachelor;3;24,0000;Yes;3;0;2;Highly Likely to Churn'
+1264;New York;7,0000;68000;Public Relations;5;4;Short;Divorced;Bachelor;3;12,0000;Yes;4;0;2;Highly Likely to Churn'
+1265;New York;8,0000;86000;Quality Assurance;4;4;Medium;Single;Master;3;12,0000;Yes;4;1;3;Moderately Likely to Churn
+1266;New York;3,0000;68000;Human Resources;5;4;Long;Married;High School;3;56,0000;Yes;2;0;2;Highly Likely to Churn'
+1267;Philadelphia;8,0000;64500;Procurement;2;3;Short;Married;Bachelor;4;18,0000;Yes;3,5;2;3;Moderately Likely to Churn
+1268;New York;3,0000;71500;Legal;3;4;Short;Divorced;High School;4;32,0000;Yes;3;0;3;Moderately Likely to Churn
+1269;Philadelphia;5,0000;57000;Human Resources;2;3;Short;Married;High School;3;63,0000;Yes;2;0;3;Moderately Likely to Churn
+1270;San Francisco;5,0000;68500;Research and Development;3;4;Long;Married;Bachelor;3;18,0000;Yes;3;0;1;Highly Likely to Churn'
+1271;Seattle;8,0000;61500;Sales;4;4;Long;Divorced;Bachelor;4;30,0000;Yes;4;1;3;Moderately Likely to Churn
+1272;Scranton;7,0000;66500;Sales;1;4;Short;Divorced;Bachelor;4;30,0000;Yes;4;0;3;Moderately Likely to Churn
+1273;Chicago;6,0000;70000;Sales;5;4;Long;Married;Bachelor;4;12,0000;Yes;3;0;1;Highly Likely to Churn'
+1274;Philadelphia;8,0000;71000;Research and Development;3;4;Short;Married;Bachelor;3;30,0000;Yes;3;2;2;Highly Likely to Churn'
+1275;Miami;10,0000;74000;Sales;2;4;Medium;Single;High School;3;63,0000;Yes;3;0;3;Highly Likely to Churn'
+1276;San Francisco;17,5000;87500;Customer Service;5;4;Long;Married;Bachelor;3;12,0000;Yes;4;5;3;Moderately Likely to Churn
+1277;San Francisco;7,0000;82000;Sales;2;4;Short;Divorced;Bachelor;4;18,0000;Yes;3;0;3;Moderately Likely to Churn
+1278;Denver;4,0000;63000;Product Management;5;3;Medium;Single;High School;4;40,0000;Yes;4;0;4;Highly Likely to Churn'
+1279;Chicago;5,0000;65500;Sales;2;3;Medium;Married;High School;3;40,0000;Yes;3;0;3;Moderately Likely to Churn
+1280;Scranton;7,0000;53000;Operations;2;4;Long;Married;Bachelor;4;24,0000;Yes;3;0;2;Highly Likely to Churn'
+1281;New York;5,0000;63000;Marketing;5;4;Medium;Single;High School;3;63,0000;Yes;3;0;2;Highly Likely to Churn'
+1282;San Francisco;2,0000;70500;Research and Development;5;4;Medium;Single;Master;4;24,0000;Yes;4;0;3;Moderately Likely to Churn
+1283;Chicago;10,0000;80000;Sales;5;4;Medium;Single;Bachelor;3;34,6456;Yes;3;1;2;Highly Likely to Churn'
+1284;New York;12,0000;71500;Administration;4;4;Medium;Single;High School;4;56,0000;Yes;4;3;3;Moderately Likely to Churn
+1285;Atlanta;3,0000;61000;Accounting;4;4;Medium;Divorced;High School;3;63,0000;Yes;3;0;2;Highly Likely to Churn'
+1286;Scranton;6,0000;69500;Sales;4;4;Medium;Married;Bachelor;4;12,0000;Yes;4;0;3;Moderately Likely to Churn
+1287;Philadelphia;7,0000;71500;Human Resources;1;4;Short;Married;Master;3;34,6456;Yes;3;1;2;Highly Likely to Churn'
+1288;Miami;2,0000;56500;Operations;3;4;Short;Single;Bachelor;4;24,0000;Yes;3,5;0;3;Highly Likely to Churn'
+1289;Los Angeles;1,0000;69000;Legal;3;4;Long;Married;Bachelor;3;24,0000;Yes;2;0;1;Highly Likely to Churn'
+1290;Los Angeles;9,0000;70000;Customer Service;4;4;Medium;Married;Bachelor;4;34,6456;Yes;3;0;2;Highly Likely to Churn'
+1291;Chicago;10,0000;74000;IT Support;4;4;Long;Married;Bachelor;4;12,0000;Yes;3;0;3;Moderately Likely to Churn
+1292;Atlanta;9,0000;81500;Sales;1;3;Medium;Divorced;Master;3;24,0000;Yes;2;0;1;Highly Likely to Churn'
+1293;Scranton;14,0000;63000;IT Support;5;4;Long;Single;Bachelor;4;34,6456;Yes;3;5;3;Moderately Likely to Churn
+1294;Los Angeles;13,0000;78000;Sales;3;4;Medium;Married;Bachelor;4;30,0000;Yes;4;5;3;Moderately Likely to Churn
+1295;Philadelphia;10,0000;71000;Research and Development;5;3;Medium;Married;High School;3;63,0000;Yes;2;4;2;Highly Likely to Churn'
+1296;San Francisco;14,0000;77500;Accounting;5;3;Short;Married;High School;3;56,0000;Yes;3;0;3;Moderately Likely to Churn
+1297;Seattle;9,0000;77000;Human Resources;3;3;Long;Married;Bachelor;3;30,0000;Yes;4;2;4;Moderately Likely to Churn
+1298;Chicago;13,0000;59000;Human Resources;5;4;Long;Married;High School;3;63,0000;Yes;3;4;3;Moderately Likely to Churn
+1299;Seattle;3,0000;78000;Sales;5;4;Long;Married;Master;3;12,0000;Yes;3;0;2;Highly Likely to Churn'
+1300;Los Angeles;9,0000;76000;Sales;5;5;Short;Married;Master;4;12,0000;Yes;3;2;3;Moderately Likely to Churn
+1301;Atlanta;7,0000;58500;Procurement;3;4;Medium;Married;High School;4;32,0000;Yes;4;0;3;Highly Likely to Churn'
+1302;New York;5,0000;82000;Sales;3;4;Short;Married;Bachelor;4;24,0000;Yes;4;0;3;Moderately Likely to Churn
+1303;New York;2,0000;64000;Marketing;5;4;Short;Married;Bachelor;3;12,0000;Yes;3,5;0;2;Highly Likely to Churn'
+1304;Chicago;4,0000;66500;Accounting;4;4;Short;Married;Bachelor;4;18,0000;Yes;4;0;3;Moderately Likely to Churn
+1305;Philadelphia;7,0000;72000;Public Relations;5;4;Long;Married;Bachelor;4;35,5498;Yes;4;0;2;Moderately Likely to Churn
+1306;Boston;8,0000;66000;Quality Assurance;3;4;Short;Married;Bachelor;3;6,0000;Yes;3;2;3;Moderately Likely to Churn
+1307;Los Angeles;15,0000;77500;IT Support;3;4;Long;Married;Bachelor;3;18,0000;Yes;2;2;1;Highly Likely to Churn'
+1308;Philadelphia;8,0000;77000;Research and Development;4;4;Long;Single;Bachelor;3;29,5983;Yes;4;2;3;Moderately Likely to Churn
+1309;Philadelphia;6,0000;69500;Accounting;3;4;Medium;Divorced;Bachelor;4;12,0000;Yes;4;0;2;Highly Likely to Churn'
+1310;Philadelphia;4,0000;65500;Marketing;5;4;Long;Married;Bachelor;5;34,6456;Yes;4;0;3;Moderately Likely to Churn
+1311;Los Angeles;16,0000;84500;Research and Development;4;4;Short;Divorced;Bachelor;4;24,0000;Yes;3;4;2;Highly Likely to Churn'
+1312;San Francisco;7,0000;66500;Customer Service;5;4;Long;Married;Bachelor;4;30,0000;Yes;3;0;2;Highly Likely to Churn'
+1313;San Francisco;7,0000;66500;Product Management;3;4;Medium;Married;High School;3;63,0000;Yes;4;1;2;Highly Likely to Churn'
+1314;Dallas;13,0000;75000;Research and Development;3;4;Short;Married;Bachelor;4;18,0000;Yes;3;5;2;Highly Likely to Churn'
+1315;Scranton;12,0000;65500;Sales;3;4;Long;Married;Bachelor;3;30,0000;Yes;2;1;2;Highly Likely to Churn'
+1316;Philadelphia;8,0000;75500;Sales;5;4;Short;Single;Bachelor;3;12,0000;Yes;3;2;2;Highly Likely to Churn'
+1317;Scranton;5,0000;48000;Research and Development;3;4;Short;Married;Bachelor;4;6,0000;Yes;4;0;3;Moderately Likely to Churn
+1318;Boston;6,0000;66000;Procurement;5;4;Medium;Married;Bachelor;4;24,0000;Yes;3;0;2;Highly Likely to Churn'
+1319;Denver;8,0000;64000;IT Support;3;4;Long;Single;High School;3;40,0000;Yes;3;0;2;Highly Likely to Churn'
+1320;San Francisco;9,0000;68000;Customer Service;5;3;Medium;Single;Bachelor;3;6,0436;Yes;5,5;2;3;Moderately Likely to Churn
+1321;Seattle;15,0000;66000;Quality Assurance;4;4;Short;Single;Bachelor;3;12,0000;Yes;3;5;2;Highly Likely to Churn'
+1322;Scranton;17,5000;72000;Product Management;4;4;Long;Married;Bachelor;4;30,0000;Yes;3;5;1;Highly Likely to Churn'
+1323;Miami;2,0000;66500;Marketing;3;3;Medium;Single;Master;3;12,0000;Yes;3,5;0;4;Highly Likely to Churn'
+1324;Philadelphia;6,0000;69000;Administration;2;4;Short;Married;Bachelor;3;12,0000;Yes;4;0;3;Moderately Likely to Churn
+1325;Chicago;5,0000;68000;Research and Development;4;4;Medium;Divorced;Bachelor;3;12,0000;Yes;3;0;2;Highly Likely to Churn'
+1326;Los Angeles;14,0000;84000;Public Relations;5;4;Medium;Married;Bachelor;4;24,0000;Yes;3;5;1;Highly Likely to Churn'
+1327;Philadelphia;6,0000;71000;Marketing;3;4;Medium;Single;Bachelor;3;30,0000;Yes;4;0;3;Moderately Likely to Churn
+1328;Philadelphia;14,0000;77000;Human Resources;2;3;Medium;Married;Bachelor;4;11,4752;Yes;3;0;2;Highly Likely to Churn'
+1329;Scranton;5,0000;61500;Sales;3;4;Medium;Divorced;High School;4;48,0000;Yes;2;0;2;Highly Likely to Churn'
+1330;New York;3,0000;58500;Procurement;4;4;Long;Divorced;Bachelor;4;30,0000;Yes;4;0;2;Highly Likely to Churn'
+1331;Philadelphia;12,0000;63500;Human Resources;2;4;Medium;Married;High School;3;48,0000;Yes;4;2;4;Moderately Likely to Churn
+1332;San Francisco;7,0000;63000;Administration;5;4;Short;Married;Bachelor;4;30,0000;Yes;4;0;3;Moderately Likely to Churn
+1333;Scranton;4,0000;52000;Administration;4;4;Long;Single;High School;3;63,0000;Yes;4;0;3;Moderately Likely to Churn
+1334;Chicago;17,5000;84500;Sales;2;3;Short;Single;Bachelor;3;17,4145;Yes;2;5;1;Highly Likely to Churn'
+1335;Scranton;8,0000;54500;IT Support;4;5;Short;Divorced;High School;4;63,0000;Yes;3;0;2;Highly Likely to Churn'
+1336;Boston;10,0000;66500;Administration;2;4;Medium;Married;High School;4;34,6456;Yes;3;0;2;Highly Likely to Churn'
+1337;Boston;12,0000;64500;Research and Development;5;3;Short;Divorced;Bachelor;3;34,6456;Yes;4;4;3;Moderately Likely to Churn
+1338;Miami;11,0000;71500;Procurement;1;4;Long;Married;High School;3;34,6456;Yes;3;4;2;Highly Likely to Churn'
+1339;Denver;6,0000;70500;Sales;5;4;Medium;Single;Bachelor;4;6,0000;Yes;2;0;2;Highly Likely to Churn'
+1340;San Francisco;13,0000;79500;Research and Development;2;4;Short;Married;Bachelor;3;24,0000;Yes;3;5;2;Highly Likely to Churn'
+1341;Los Angeles;3,0000;60000;Administration;2;3;Short;Single;High School;4;63,0000;Yes;4;0;3;Moderately Likely to Churn
+1342;Seattle;4,0000;70500;Administration;2;4;Long;Married;Bachelor;4;18,0000;Yes;4;0;3;Moderately Likely to Churn
+1343;Dallas;9,0000;65500;Administration;2;3;Long;Single;Bachelor;3;36,0000;Yes;4;3;3;Moderately Likely to Churn
+1344;Boston;7,0000;62500;Administration;2;3;Medium;Single;Bachelor;3;18,0000;Yes;4;0;4;Moderately Likely to Churn
+1345;Denver;9,0000;69000;Research and Development;3;4;Medium;Divorced;Master;4;18,0000;Yes;4;1;3;Highly Likely to Churn'
+1346;Boston;11,0000;72500;Procurement;4;3;Short;Divorced;High School;4;48,0000;Yes;5;5;3;Moderately Likely to Churn
+1347;Denver;5,0000;70500;Accounting;3;4;Medium;Divorced;Bachelor;3;24,0000;Yes;3;0;2;Highly Likely to Churn'
+1348;Los Angeles;4,0000;67000;Facilities Management;2;4;Medium;Married;Bachelor;4;36,0000;Yes;4;0;4;Moderately Likely to Churn
+1349;Dallas;5,0000;60000;Facilities Management;5;4;Medium;Single;Bachelor;3;34,6456;Yes;4;0;2;Highly Likely to Churn'
+1350;Dallas;4,0000;52000;Procurement;3;4;Medium;Married;Bachelor;3;24,0000;Yes;4;0;3;Moderately Likely to Churn
+1351;Boston;6,0000;71000;Sales;4;4;Medium;Married;High School;3;63,0000;Yes;2;0;2;Highly Likely to Churn'
+1352;Boston;9,0000;63000;Research and Development;4;4;Medium;Divorced;High School;3;48,0000;Yes;3;2;3;Moderately Likely to Churn
+1353;Scranton;3,0000;49500;Legal;3;5;Short;Married;Bachelor;4;6,0000;Yes;4;0;2;Highly Likely to Churn'
+1354;Atlanta;2,0000;53000;Human Resources;3;4;Long;Married;Bachelor;3;30,0000;Yes;3;0;2;Highly Likely to Churn'
+1355;Scranton;8,0000;52000;Public Relations;4;4;Long;Single;High School;4;48,0000;Yes;4;2;3;Moderately Likely to Churn
+1356;Atlanta;11,0000;71000;Sales;5;3;Medium;Single;High School;4;56,0000;Yes;4;3;2;Highly Likely to Churn'
+1357;New York;7,0000;66500;Operations;4;4;Long;Single;High School;3;63,0000;Yes;3;0;2;Highly Likely to Churn'
+1358;Miami;5,0000;63500;Legal;4;5;Short;Married;Master;4;30,0000;Yes;3;0;2;Highly Likely to Churn'
+1359;Philadelphia;3,0000;68000;Marketing;2;4;Medium;Married;High School;3;56,0000;Yes;3;0;3;Moderately Likely to Churn
+1360;Denver;5,0000;69500;Operations;4;4;Long;Married;Bachelor;3;6,0000;Yes;3;0;2;Highly Likely to Churn'
+1361;Philadelphia;8,0000;70500;Accounting;3;4;Medium;Single;Bachelor;3;34,6456;Yes;4;2;2;Highly Likely to Churn'
+1362;Seattle;8,0000;66500;Marketing;3;3;Short;Divorced;Bachelor;3;24,0000;Yes;4;2;3;Moderately Likely to Churn
+1363;Scranton;11,0000;65000;Marketing;5;4;Long;Married;Bachelor;4;36,0000;Yes;3;5;2;Highly Likely to Churn'
+1364;Scranton;7,0000;59000;Customer Service;5;4;Medium;Married;Master;4;24,0000;Yes;4;1;3;Moderately Likely to Churn
+1365;Philadelphia;17,5000;86500;Research and Development;4;4;Medium;Divorced;High School;3;63,0000;Yes;3;1;2;Highly Likely to Churn'
+1366;Scranton;2,0000;65000;Product Management;5;4;Medium;Married;Bachelor;4;24,0000;Yes;4;0;2;Highly Likely to Churn'
+1367;Atlanta;5,0000;72000;Product Management;2;4;Long;Married;High School;4;56,0000;Yes;5;0;3;Highly Likely to Churn'
+1368;Boston;5,0000;84000;Sales;3;4;Long;Married;Bachelor;3;12,0000;Yes;3,5;0;2;Highly Likely to Churn'
+1369;Scranton;12,0000;55500;Accounting;2;2;Long;Single;High School;4;34,6456;Yes;3;3;3;Moderately Likely to Churn
+1370;Atlanta;5,0000;63000;Sales;3;4;Long;Married;Bachelor;4;6,0198;Yes;5;0;2;Highly Likely to Churn'
+1371;Dallas;8,0000;58000;Research and Development;2;4;Medium;Married;Bachelor;4;18,0000;Yes;4;1;3;Moderately Likely to Churn
+1372;Boston;1,0000;72500;Sales;3;4;Short;Married;Bachelor;3;24,0000;Yes;3,5;0;4;Moderately Likely to Churn
+1373;Seattle;4,0000;51000;Accounting;4;4;Long;Married;High School;4;63,0000;Yes;4;0;3;Moderately Likely to Churn
+1374;Boston;5,0000;69500;Sales;3;5;Short;Married;Bachelor;4;30,0000;Yes;3;0;2;Highly Likely to Churn'
+1375;Seattle;8,0000;58500;Accounting;4;4;Medium;Married;Bachelor;4;36,0000;Yes;4;2;3;Moderately Likely to Churn
+1376;Scranton;11,0000;56000;Accounting;3;4;Short;Married;Bachelor;4;12,0000;Yes;4;2;2;Highly Likely to Churn'
+1377;Los Angeles;11,0000;73000;Facilities Management;3;4;Medium;Married;Master;4;24,0000;Yes;2;1;1;Highly Likely to Churn'
+1378;Scranton;7,0000;59500;Marketing;2;4;Long;Divorced;Bachelor;3;34,6456;Yes;2;0;1;Highly Likely to Churn'
+1379;Dallas;4,0000;66500;IT Support;3;4;Long;Married;Bachelor;4;36,0000;Yes;4;0;3;Moderately Likely to Churn
+1380;Boston;4,0000;69500;Accounting;3;4;Short;Divorced;Bachelor;4;18,0000;Yes;3;0;2;Highly Likely to Churn'
+1381;Unknown;2,0000;69500;Marketing;2;4;Short;Married;Bachelor;4;34,6456;Yes;4;0;3;Moderately Likely to Churn
+1382;New York;8,0000;83000;Legal;3;5;Short;Married;High School;3;48,1346;Yes;2;1;2;Highly Likely to Churn'
+1383;Boston;12,0000;70500;Research and Development;3;4;Long;Married;Bachelor;3;34,6456;Yes;5;5;3;Moderately Likely to Churn
+1384;Scranton;3,0000;48000;Public Relations;2;4;Medium;Married;High School;4;63,0000;Yes;5,5;0;4;Moderately Likely to Churn
+1385;Los Angeles;4,0000;62500;Procurement;2;3;Medium;Single;Bachelor;3;24,0000;Yes;4;0;2;Highly Likely to Churn'
+1386;New York;6,0000;61000;Human Resources;4;4;Long;Married;High School;3;63,0000;Yes;2;0;2;Highly Likely to Churn'
+1387;Boston;12,0000;69500;Product Management;3;4;Long;Single;High School;4;40,0000;Yes;3;5;3;Moderately Likely to Churn
+1388;Los Angeles;10,0000;75500;Legal;3;4;Medium;Married;Bachelor;4;12,0000;Yes;4;4;4;Moderately Likely to Churn
+1389;Atlanta;4,0000;61000;Administration;3;4;Medium;Divorced;Master;4;30,0000;Yes;4;0;3;Highly Likely to Churn'
+1390;Chicago;7,0000;73500;Marketing;3;4;Long;Married;Bachelor;4;30,0000;Yes;4;0;3;Moderately Likely to Churn
+1391;Denver;8,0000;57500;Human Resources;5;4;Short;Married;High School;4;32,0000;Yes;4;1;3;Highly Likely to Churn'
+1392;Boston;17,5000;67000;Accounting;3;4;Short;Single;High School;3;56,0000;Yes;4;3;2;Highly Likely to Churn'
+1393;Miami;7,0000;66000;Research and Development;3;3;Medium;Married;Bachelor;3;24,0000;Yes;3;0;2;Highly Likely to Churn'
+1394;Los Angeles;6,0000;69000;Customer Service;3;4;Long;Single;Bachelor;4;12,0000;Yes;3,5;0;3;Moderately Likely to Churn
+1395;Denver;13,0000;80500;Quality Assurance;5;4;Long;Married;Bachelor;3;34,6456;Yes;3,5;4;2;Highly Likely to Churn'
+1396;Los Angeles;6,0000;64500;Procurement;3;3;Medium;Married;High School;3;63,0000;Yes;3;0;2;Highly Likely to Churn'
+1397;Philadelphia;5,0000;74500;Sales;3;4;Long;Divorced;Bachelor;3;24,0000;Yes;4;0;3;Moderately Likely to Churn
+1398;Philadelphia;0,0000;72500;Product Management;5;3;Short;Single;Master;4;12,0000;Yes;4;0;2;Highly Likely to Churn'
+1399;Seattle;13,0000;71000;Marketing;3;4;Long;Married;Bachelor;3;30,0000;Yes;2;2;2;Highly Likely to Churn'
+1400;Los Angeles;4,0000;62000;Sales;5;4;Medium;Married;High School;3;32,0000;Yes;3;0;1;Highly Likely to Churn'
+1401;Scranton;6,0000;65500;Accounting;2;4;Short;Single;Bachelor;3;24,0000;Yes;3,5;0;3;Moderately Likely to Churn
+1402;Dallas;5,0000;62500;Research and Development;4;4;Medium;Married;Bachelor;4;30,0000;Yes;4;0;3;Moderately Likely to Churn
+1403;Unknown;8,0000;68000;Human Resources;4;4;Medium;Single;Bachelor;4;24,0000;Yes;3;0;3;Highly Likely to Churn'
+1404;Los Angeles;8,0000;75000;Customer Service;4;4;Medium;Single;Master;3;34,6456;Yes;3;2;3;Moderately Likely to Churn
+1405;Los Angeles;13,0000;63500;Customer Service;3;4;Short;Divorced;Bachelor;4;34,6456;Yes;3;4;2;Highly Likely to Churn'
+1406;Philadelphia;4,0000;61000;Operations;3;4;Short;Single;Bachelor;3;12,0000;Yes;3;0;2;Highly Likely to Churn'
+1407;San Francisco;8,0000;70500;Product Management;5;4;Medium;Single;High School;3;32,0000;Yes;3;0;2;Highly Likely to Churn'
+1408;Miami;13,0000;75500;Accounting;3;4;Medium;Married;High School;4;63,0000;Yes;4;0;3;Highly Likely to Churn'
+1409;Denver;7,0000;66000;Accounting;3;4;Medium;Married;High School;4;63,0000;Yes;4;1;2;Highly Likely to Churn'
+1410;Miami;13,0000;65500;Quality Assurance;2;4;Medium;Divorced;Master;4;34,6456;Yes;3;3;2;Highly Likely to Churn'
+1411;Philadelphia;10,0000;53500;Procurement;2;4;Long;Married;High School;3;63,0000;Yes;3;0;3;Moderately Likely to Churn
+1412;Boston;5,0000;72500;Human Resources;2;4;Long;Single;Bachelor;3;36,0000;Yes;3;0;2;Highly Likely to Churn'
+1413;Dallas;7,0000;60000;Quality Assurance;4;4;Short;Married;Bachelor;3;34,6456;Yes;3,5;0;3;Moderately Likely to Churn
+1414;Chicago;8,0000;69500;Customer Service;3;4;Medium;Married;Bachelor;3;36,0000;Yes;2;1;2;Highly Likely to Churn'
+1415;Philadelphia;8,0000;66500;Administration;4;3;Short;Single;High School;4;63,0000;Yes;3;1;2;Highly Likely to Churn'
+1416;New York;3,0000;62000;Facilities Management;4;4;Short;Divorced;Bachelor;4;18,0000;Yes;4;0;2;Highly Likely to Churn'
+1417;Boston;3,0000;61000;Quality Assurance;4;4;Medium;Married;Bachelor;4;18,0000;Yes;3;0;2;Highly Likely to Churn'
+1418;Miami;14,0000;68000;IT Support;4;4;Long;Married;Bachelor;4;18,0000;Yes;4;4;2;Highly Likely to Churn'
+1419;Boston;9,0000;67500;Public Relations;5;4;Medium;Divorced;High School;3;63,0000;Yes;3;1;2;Highly Likely to Churn'
+1420;Philadelphia;5,0000;64500;Legal;3;4;Medium;Married;Bachelor;3;12,0000;Yes;3;0;2;Highly Likely to Churn'
+1421;Los Angeles;3,0000;68500;Research and Development;3;3;Short;Single;Master;3;30,0000;Yes;5;0;4;Moderately Likely to Churn
+1422;Scranton;5,0000;46000;Accounting;2;4;Medium;Married;Bachelor;3;18,0000;Yes;4;0;3;Moderately Likely to Churn
+1423;Los Angeles;4,0000;67500;Accounting;3;4;Medium;Single;Bachelor;3;30,0000;Yes;3,5;0;2;Highly Likely to Churn'
+1424;New York;4,0000;69500;Product Management;4;4;Medium;Divorced;Bachelor;4;34,6456;Yes;5;0;3;Moderately Likely to Churn
+1425;Seattle;4,0000;67000;Sales;2;3;Long;Single;Bachelor;4;24,0000;Yes;4;0;3;Moderately Likely to Churn
+1426;New York;7,0000;69500;Accounting;4;3;Long;Single;Bachelor;3;6,0000;Yes;2;0;2;Highly Likely to Churn'
+1427;Philadelphia;5,0000;77000;Legal;3;4;Medium;Divorced;High School;3;63,0000;Yes;4;0;5;Moderately Likely to Churn
+1428;New York;4,0000;66500;Product Management;4;4;Medium;Married;Bachelor;3;34,6456;Yes;2;0;2;Highly Likely to Churn'
+1429;Denver;13,0000;76500;Customer Service;4;4;Medium;Married;Bachelor;3;12,0000;Yes;2;0;3;Highly Likely to Churn'
+1430;Scranton;6,0000;73000;Sales;4;4;Long;Divorced;Bachelor;4;30,0000;Yes;3;0;3;Moderately Likely to Churn
+1431;Boston;5,0000;71000;Accounting;2;4;Medium;Married;Bachelor;5;30,0000;Yes;3;0;2;Highly Likely to Churn'
+1432;Denver;14,0000;63500;IT Support;1;4;Medium;Married;Bachelor;4;12,0000;Yes;4;3;3;Highly Likely to Churn'
+1433;New York;3,0000;59000;Legal;4;4;Short;Single;High School;4;63,0000;Yes;3;0;2;Highly Likely to Churn'
+1434;Philadelphia;5,0000;78500;Sales;4;4;Medium;Divorced;High School;4;63,0000;Yes;3;0;3;Moderately Likely to Churn
+1435;Philadelphia;9,0000;70000;Research and Development;3;4;Short;Divorced;Bachelor;3;30,0000;Yes;3;3;2;Highly Likely to Churn'
+1436;San Francisco;3,0000;53500;Marketing;3;4;Short;Single;High School;3;34,6456;Yes;4;0;2;Highly Likely to Churn'
+1437;Scranton;7,0000;63500;Marketing;3;4;Long;Married;Master;4;36,0000;Yes;4;1;3;Moderately Likely to Churn
+1438;Miami;12,0000;75500;Operations;5;4;Short;Married;Bachelor;4;36,0000;Yes;4;4;2;Highly Likely to Churn'
+1439;Scranton;13,0000;53500;Quality Assurance;3;3;Short;Married;High School;4;63,0000;Yes;5;3;3;Moderately Likely to Churn
+1440;New York;4,0000;67500;Operations;5;4;Short;Married;Master;4;34,6456;Yes;3,5;0;2;Highly Likely to Churn'
+1441;Miami;7,0000;68000;Research and Development;5;4;Long;Married;Bachelor;4;24,0000;Yes;3;0;4;Highly Likely to Churn'
+1442;Scranton;2,0000;47500;Legal;2;4;Medium;Married;Bachelor;3;12,0000;Yes;4;0;3;Moderately Likely to Churn
+1443;Seattle;15,0000;75000;Research and Development;5;4;Medium;Married;Bachelor;4;24,0000;Yes;3;2;3;Moderately Likely to Churn
+1444;New York;13,0000;73500;Operations;2;4;Long;Married;Bachelor;4;12,0000;Yes;4;5;4;Moderately Likely to Churn
+1445;Philadelphia;3,0000;53500;Public Relations;3;2;Short;Married;High School;2;40,0000;Yes;4;0;2;Highly Likely to Churn'
+1446;Los Angeles;15,0000;70000;Accounting;3;4;Short;Divorced;High School;3;63,0000;Yes;4;4;4;Moderately Likely to Churn
+1447;Boston;11,0000;51500;Customer Service;3;4;Long;Married;High School;3;63,0000;Yes;3;1;1;Highly Likely to Churn'
+1448;Boston;6,0000;71500;Sales;4;3;Short;Single;Bachelor;3;36,0000;Yes;3,5;0;2;Highly Likely to Churn'
+1449;New York;12,0000;77000;Customer Service;3;4;Medium;Married;Bachelor;4;24,0000;Yes;2;4;2;Highly Likely to Churn'
+1450;New York;16,0000;73500;Research and Development;2;3;Long;Single;Bachelor;3;12,0000;Yes;4;4;3;Moderately Likely to Churn
+1451;Atlanta;12,0000;78500;Product Management;3;4;Short;Married;Bachelor;4;18,0000;Yes;4;0;3;Highly Likely to Churn'
+1452;Scranton;5,0000;70000;Sales;3;3;Medium;Married;Bachelor;3;34,6456;Yes;3;0;3;Moderately Likely to Churn
+1453;Boston;9,0000;76000;Research and Development;4;4;Medium;Divorced;Bachelor;4;18,0000;Yes;4;3;2;Highly Likely to Churn'
+1454;New York;3,0000;62500;Accounting;4;5;Long;Married;Bachelor;4;30,0000;Yes;3,5;0;2;Highly Likely to Churn'
+1455;Los Angeles;3,0000;70500;Sales;1;4;Long;Single;Bachelor;3;12,0000;Yes;2;0;1;Highly Likely to Churn'
+1456;San Francisco;16,0000;84000;Sales;2;4;Long;Divorced;High School;3;63,0000;Yes;4;4;3;Moderately Likely to Churn
+1457;Boston;6,0000;68000;Research and Development;2;4;Short;Single;Master;4;18,0000;Yes;4;0;3;Moderately Likely to Churn
+1458;New York;13,0000;72500;Procurement;5;4;Long;Single;Bachelor;4;12,0000;Yes;3;0;2;Highly Likely to Churn'
+1459;New York;3,0000;70000;Legal;3;4;Medium;Divorced;High School;3;56,0000;Yes;4;0;3;Moderately Likely to Churn
+1460;Philadelphia;6,0000;60500;Customer Service;2;4;Short;Single;High School;3;63,0000;Yes;3;0;2;Highly Likely to Churn'
+1461;New York;5,0000;82000;Sales;4;4;Long;Married;Master;4;18,0000;Yes;4;0;3;Moderately Likely to Churn
+1462;Scranton;6,0000;61000;Marketing;3;4;Medium;Single;Bachelor;3;24,0000;Yes;3;0;2;Highly Likely to Churn'
+1463;Los Angeles;5,0000;72000;Product Management;3;4;Medium;Married;Bachelor;4;18,0000;Yes;4;0;2;Highly Likely to Churn'
+1464;Chicago;12,0000;72500;Marketing;3;4;Long;Married;Master;3;30,0000;Yes;3,5;4;2;Highly Likely to Churn'
+1465;Dallas;8,0000;69500;Human Resources;3;4;Medium;Married;High School;4;63,0000;Yes;3;0;2;Highly Likely to Churn'
+1466;Seattle;14,0000;59000;Marketing;5;4;Long;Married;High School;3;34,6456;Yes;3;4;2;Highly Likely to Churn'
+1467;Denver;12,0000;70000;Sales;4;4;Short;Married;Bachelor;4;18,0000;Yes;3,5;4;3;Highly Likely to Churn'
+1468;Boston;6,0000;69000;Accounting;2;4;Short;Married;Bachelor;4;6,0000;Yes;3;0;3;Moderately Likely to Churn
+1469;Philadelphia;9,0000;60000;Customer Service;3;4;Medium;Divorced;High School;3;40,0000;Yes;2;3;2;Highly Likely to Churn'
+1470;Philadelphia;4,0000;65500;IT Support;2;4;Long;Single;Bachelor;4;30,0000;Yes;3;0;2;Highly Likely to Churn'
+1471;Seattle;17,5000;72000;Customer Service;2;4;Medium;Divorced;High School;4;63,0000;Yes;4;0;3;Moderately Likely to Churn
+1472;Philadelphia;6,0000;65000;Marketing;4;4;Medium;Single;High School;3;48,0000;Yes;3;0;2;Highly Likely to Churn'
+1473;New York;8,0000;59000;Customer Service;2;4;Short;Divorced;High School;4;56,0000;Yes;3;0;2;Highly Likely to Churn'
+1474;Chicago;4,0000;70000;IT Support;4;4;Long;Married;Bachelor;4;12,0000;Yes;4;0;2;Highly Likely to Churn'
+1475;Chicago;14,0000;81000;Sales;3;4;Long;Married;Bachelor;3;24,0000;Yes;3;5;3;Moderately Likely to Churn
+1476;Philadelphia;8,0000;66500;Marketing;5;4;Medium;Married;Bachelor;4;36,0000;Yes;4;1;3;Moderately Likely to Churn
+1477;Chicago;11,0000;73000;Public Relations;3;3;Medium;Single;Bachelor;4;34,6456;Yes;4;4;3;Moderately Likely to Churn
+1478;Los Angeles;6,0000;80500;Sales;4;3;Medium;Married;Bachelor;3;35,6702;Yes;3,5;0;2;Highly Likely to Churn'
+1479;Philadelphia;12,0000;71500;Sales;4;4;Short;Single;Bachelor;3;30,0000;Yes;4;1;3;Moderately Likely to Churn
+1480;Chicago;8,0000;54000;Research and Development;5;2;Long;Single;High School;3;34,6456;Yes;4;1;3;Moderately Likely to Churn
+1481;Dallas;5,0000;59500;Accounting;5;4;Short;Divorced;Bachelor;3;12,0000;Yes;3;0;2;Highly Likely to Churn'
+1482;Chicago;4,0000;65000;Accounting;3;3;Medium;Married;High School;3;32,0000;Yes;3;0;2;Highly Likely to Churn'
+1483;Los Angeles;8,0000;64000;Facilities Management;2;4;Long;Divorced;High School;3;34,6456;Yes;3;2;2;Highly Likely to Churn'
+1484;Chicago;5,0000;59000;Accounting;3;4;Medium;Divorced;High School;3;34,6456;Yes;3;0;3;Moderately Likely to Churn
+1485;Chicago;9,0000;55500;Human Resources;5;3;Medium;Married;Bachelor;3;12,0000;Yes;3;2;3;Moderately Likely to Churn
+1486;Scranton;8,0000;53000;Operations;4;4;Long;Single;Bachelor;4;36,0000;Yes;4;0;3;Moderately Likely to Churn
+1487;Miami;2,0000;64500;Product Management;5;4;Short;Married;High School;4;34,6456;Yes;3;0;3;Highly Likely to Churn'
+1488;Boston;17,0000;74500;Facilities Management;4;4;Short;Married;Bachelor;4;18,0000;Yes;4;1;3;Moderately Likely to Churn
+1489;New York;2,0000;69500;Research and Development;3;4;Long;Divorced;Master;3;12,0000;Yes;3;0;2;Highly Likely to Churn'
+1490;Denver;11,0000;68000;Customer Service;2;3;Short;Married;Bachelor;4;29,3933;Yes;3;3;2;Highly Likely to Churn'
+1491;Los Angeles;10,0000;65500;Sales;2;4;Medium;Divorced;High School;3;40,0000;Yes;3;0;3;Moderately Likely to Churn
+1492;Boston;4,0000;70000;Human Resources;5;4;Long;Divorced;Master;4;24,0000;Yes;3;0;3;Moderately Likely to Churn
+1493;Atlanta;5,0000;72000;Product Management;4;4;Long;Married;Bachelor;3;12,6498;Yes;3;0;2;Highly Likely to Churn'
+1494;Chicago;4,0000;64500;Accounting;4;4;Short;Married;Bachelor;3;34,6456;Yes;4;0;3;Moderately Likely to Churn
+1495;San Francisco;8,0000;80000;Sales;4;4;Short;Married;Bachelor;4;30,0000;Yes;4;1;2;Highly Likely to Churn'
+1496;Philadelphia;1,0000;74500;Sales;3;4;Long;Single;Bachelor;3;36,0000;Yes;2;0;1;Highly Likely to Churn'
+1497;Boston;6,0000;67500;Procurement;3;3;Medium;Single;High School;2;63,0000;Yes;3;0;3;Moderately Likely to Churn
+1498;Unknown;6,0000;55000;Customer Service;5;3;Short;Single;Bachelor;3;36,0000;Yes;4;0;3;Highly Likely to Churn'
+1499;Boston;6,0000;65500;Human Resources;2;3;Long;Married;Bachelor;3;12,0000;Yes;4;0;3;Moderately Likely to Churn
+1500;Denver;10,0000;62000;Customer Service;5;4;Long;Married;Bachelor;3;12,0000;Yes;2;0;2;Highly Likely to Churn'
+1501;Chicago;9,0000;66500;Marketing;4;3;Medium;Single;Bachelor;4;36,0000;Yes;4;2;3;Moderately Likely to Churn
+1502;New York;14,0000;73000;Sales;2;4;Short;Single;High School;4;63,0000;Yes;4;5;3;Moderately Likely to Churn
+1503;Miami;5,0000;53000;Human Resources;4;4;Short;Married;Bachelor;4;18,0000;Yes;3;0;2;Highly Likely to Churn'
+1504;Los Angeles;12,0000;79000;Administration;3;4;Medium;Married;Bachelor;3;34,6456;Yes;3,5;3;2;Highly Likely to Churn'
+1505;Scranton;2,0000;57000;Research and Development;5;4;Long;Divorced;Bachelor;3;30,0000;Yes;3;0;3;Moderately Likely to Churn
+1506;New York;15,0000;71500;Research and Development;4;4;Medium;Single;High School;4;34,6456;Yes;4;3;3;Moderately Likely to Churn
+1507;New York;2,0000;72000;Accounting;2;4;Long;Single;Bachelor;3;12,0000;Yes;3;0;2;Highly Likely to Churn'
+1508;New York;11,0000;70500;Accounting;2;4;Short;Divorced;Bachelor;3;24,0000;Yes;3,5;4;2;Highly Likely to Churn'
+1509;Boston;13,0000;79000;Research and Development;4;4;Medium;Married;Bachelor;3;36,0000;Yes;4;3;3;Moderately Likely to Churn
+1510;Chicago;4,0000;60500;Customer Service;2;4;Medium;Divorced;Bachelor;3;30,0000;Yes;4;0;3;Moderately Likely to Churn
+1511;San Francisco;7,0000;65500;Legal;3;4;Medium;Married;Bachelor;3;36,0000;Yes;3;0;2;Highly Likely to Churn'
+1512;Boston;14,0000;84000;Sales;3;4;Medium;Divorced;Bachelor;4;18,0000;Yes;4;1;4;Moderately Likely to Churn
+1513;Chicago;14,0000;62500;Customer Service;4;4;Long;Divorced;High School;4;32,0000;Yes;3,5;5;3;Moderately Likely to Churn
+1514;Scranton;5,0000;52000;Research and Development;5;4;Medium;Married;High School;3;48,0000;Yes;4;0;3;Moderately Likely to Churn
+1515;Philadelphia;8,0000;75500;Legal;4;4;Long;Divorced;Bachelor;3;24,0000;Yes;4;1;2;Highly Likely to Churn'
+1516;Dallas;6,0000;60000;Sales;4;4;Medium;Married;High School;3;48,0000;Yes;4;0;2;Highly Likely to Churn'
+1517;Seattle;10,0000;72500;Sales;3;4;Short;Married;Bachelor;4;18,0000;Yes;3;3;2;Highly Likely to Churn'
+1518;Scranton;8,0000;66500;Research and Development;4;4;Medium;Married;Bachelor;4;30,0000;Yes;3;1;2;Highly Likely to Churn'
+1519;Philadelphia;8,0000;72000;Facilities Management;5;4;Medium;Single;Bachelor;4;36,0000;Yes;4;0;3;Moderately Likely to Churn
+1520;Atlanta;7,0000;62500;Sales;2;4;Long;Married;Bachelor;3;11,8281;Yes;4;0;3;Highly Likely to Churn'
+1521;Seattle;5,0000;66500;Research and Development;2;4;Medium;Married;Bachelor;4;18,0000;Yes;4;0;3;Moderately Likely to Churn
+1522;Scranton;4,0000;57500;Accounting;3;4;Short;Married;High School;4;56,0000;Yes;4;0;2;Highly Likely to Churn'
+1523;Dallas;9,0000;66000;Legal;2;4;Medium;Single;Bachelor;3;18,0000;Yes;2;1;2;Highly Likely to Churn'
+1524;Seattle;9,0000;66000;Administration;2;4;Short;Single;Bachelor;3;6,0000;Yes;2;2;1;Highly Likely to Churn'
+1525;New York;9,0000;73500;Administration;3;4;Medium;Divorced;Bachelor;3;34,6456;Yes;3;0;3;Moderately Likely to Churn
+1526;Boston;11,0000;70000;Facilities Management;5;4;Medium;Married;Bachelor;4;24,0000;Yes;4;5;3;Moderately Likely to Churn
+1527;Los Angeles;11,0000;70500;Sales;4;4;Short;Married;High School;4;48,0000;Yes;5;0;3;Moderately Likely to Churn
+1528;Chicago;6,0000;58500;Facilities Management;3;4;Medium;Married;Bachelor;3;34,6456;Yes;3;0;3;Moderately Likely to Churn
+1529;Los Angeles;5,0000;67500;Sales;4;4;Medium;Married;Bachelor;4;12,0000;Yes;4;0;3;Moderately Likely to Churn
+1530;Seattle;5,0000;59500;Research and Development;2;4;Long;Married;High School;3;63,0000;Yes;3;0;2;Highly Likely to Churn'
+1531;Miami;6,0000;68500;Product Management;2;4;Medium;Married;High School;3;56,0000;Yes;4;0;3;Highly Likely to Churn'
+1532;Dallas;9,0000;66000;Quality Assurance;1;4;Long;Married;Bachelor;4;18,0000;Yes;3,5;0;2;Highly Likely to Churn'
+1533;Los Angeles;6,0000;61500;Procurement;5;4;Long;Divorced;Bachelor;4;34,6456;Yes;3;0;2;Highly Likely to Churn'
+1534;Boston;16,0000;74000;Human Resources;4;4;Medium;Single;Bachelor;4;12,0000;Yes;4;0;2;Highly Likely to Churn'
+1535;Denver;5,0000;73000;Public Relations;2;4;Medium;Single;Bachelor;3;34,6456;Yes;3;0;2;Highly Likely to Churn'
+1536;Atlanta;8,0000;80000;Sales;1;4;Long;Married;Bachelor;4;18,0000;Yes;4;0;2;Highly Likely to Churn'
+1537;New York;6,0000;73500;Sales;3;4;Medium;Married;Bachelor;4;34,6456;Yes;4;0;2;Highly Likely to Churn'
+1538;Miami;6,0000;58000;Research and Development;4;4;Long;Married;Bachelor;4;12,0000;Yes;4;0;3;Highly Likely to Churn'
+1539;Boston;1,0000;51500;Accounting;2;4;Medium;Divorced;High School;4;32,0000;Yes;4;0;3;Moderately Likely to Churn
+1540;San Francisco;11,0000;77500;Human Resources;4;4;Long;Married;Bachelor;4;11,0408;Yes;4;3;5;Moderately Likely to Churn
+1541;New York;7,6121;81000;Research and Development;4;3;Medium;Married;Master;3;18,0000;Yes;3;0;3;Highly Likely to Churn'
+1542;Dallas;10,0000;54500;Facilities Management;4;5;Short;Married;High School;3;63,0000;Yes;2;4;1;Highly Likely to Churn'
